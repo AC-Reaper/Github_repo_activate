@@ -1,0 +1,128 @@
+[
+  {
+    "name": "bazel_mod_up",
+    "prefix": "refs/heads/",
+    "target": {
+      "oid": "f38cbdc601366c7ae8e966f11a5993428fdc5284",
+      "committedDate": "2024-10-23T09:10:22Z",
+      "history": {
+        "totalCount": 1568
+      },
+      "author": {
+        "name": "Dominic Hamon",
+        "email": "dominic+github@google.com",
+        "user": {
+          "login": "dmah42"
+        }
+      }
+    }
+  },
+  {
+    "name": "clang-tidy",
+    "prefix": "refs/heads/",
+    "target": {
+      "oid": "f616c58df318b19355b70b227d1f3dab93f5fdb7",
+      "committedDate": "2025-01-08T17:27:57Z",
+      "history": {
+        "totalCount": 1597
+      },
+      "author": {
+        "name": "dominic",
+        "email": "510002+dmah42@users.noreply.github.com",
+        "user": {
+          "login": "dmah42"
+        }
+      }
+    }
+  },
+  {
+    "name": "main",
+    "prefix": "refs/heads/",
+    "target": {
+      "oid": "1bc59dce278b9145f18ef88d31d373c4ba939dc4",
+      "committedDate": "2025-03-17T09:18:19Z",
+      "history": {
+        "totalCount": 1632
+      },
+      "author": {
+        "name": "Roman Lebedev",
+        "email": "lebedev.ri@gmail.com",
+        "user": {
+          "login": "LebedevRI"
+        }
+      }
+    }
+  },
+  {
+    "name": "msan-action",
+    "prefix": "refs/heads/",
+    "target": {
+      "oid": "2a3ad8c6e87c921610448a4db80326ca920d4a5f",
+      "committedDate": "2021-06-04T14:50:08Z",
+      "history": {
+        "totalCount": 1152
+      },
+      "author": {
+        "name": "Dominic Hamon",
+        "email": "dma+github@stripysock.com",
+        "user": {
+          "login": "dmah42"
+        }
+      }
+    }
+  },
+  {
+    "name": "sysinfo_fallback",
+    "prefix": "refs/heads/",
+    "target": {
+      "oid": "ee965cbea1822853f23d2f81344038a449d68fdd",
+      "committedDate": "2025-02-05T11:30:00Z",
+      "history": {
+        "totalCount": 1602
+      },
+      "author": {
+        "name": "Dominic Hamon",
+        "email": "dominic+github@google.com",
+        "user": {
+          "login": "dmah42"
+        }
+      }
+    }
+  },
+  {
+    "name": "thread_times",
+    "prefix": "refs/heads/",
+    "target": {
+      "oid": "4827765707deb1e6996afa134a4ae20502d9e1c9",
+      "committedDate": "2024-08-09T15:58:50Z",
+      "history": {
+        "totalCount": 1560
+      },
+      "author": {
+        "name": "Dominic Hamon",
+        "email": "dominic+github@google.com",
+        "user": {
+          "login": "dmah42"
+        }
+      }
+    }
+  },
+  {
+    "name": "v2",
+    "prefix": "refs/heads/",
+    "target": {
+      "oid": "5f2a107b17f373f8b9e070b598d835ed257c65a8",
+      "committedDate": "2019-01-28T10:28:54Z",
+      "history": {
+        "totalCount": 827
+      },
+      "author": {
+        "name": "Orgad Shaneh",
+        "email": "orgads@gmail.com",
+        "user": {
+          "login": "orgads"
+        }
+      }
+    }
+  }
+]

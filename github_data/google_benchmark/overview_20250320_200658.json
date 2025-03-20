@@ -1,0 +1,99 @@
+{
+  "id": "MDEwOlJlcG9zaXRvcnkxNTEyMjgwNg==",
+  "name": "benchmark",
+  "description": "A microbenchmark support library",
+  "url": "https://github.com/google/benchmark",
+  "createdAt": "2013-12-12T00:10:48Z",
+  "updatedAt": "2025-03-20T11:43:42Z",
+  "pushedAt": "2025-03-17T09:18:19Z",
+  "homepageUrl": "",
+  "primaryLanguage": {
+    "name": "C++",
+    "color": "#f34b7d"
+  },
+  "diskUsage": 2962,
+  "forkCount": 1664,
+  "stargazerCount": 9331,
+  "watchers": {
+    "totalCount": 206
+  },
+  "languages": {
+    "edges": [
+      {
+        "node": {
+          "name": "C++",
+          "color": "#f34b7d"
+        },
+        "size": 630398
+      },
+      {
+        "node": {
+          "name": "Python",
+          "color": "#3572A5"
+        },
+        "size": 105570
+      },
+      {
+        "node": {
+          "name": "CMake",
+          "color": "#DA3434"
+        },
+        "size": 49972
+      },
+      {
+        "node": {
+          "name": "Starlark",
+          "color": "#76d275"
+        },
+        "size": 11409
+      },
+      {
+        "node": {
+          "name": "C",
+          "color": "#555555"
+        },
+        "size": 4359
+      }
+    ],
+    "totalSize": 801708
+  },
+  "licenseInfo": {
+    "name": "Apache License 2.0",
+    "spdxId": "Apache-2.0",
+    "url": "http://choosealicense.com/licenses/apache-2.0/"
+  },
+  "defaultBranchRef": {
+    "name": "main",
+    "target": {
+      "history": {
+        "totalCount": 1632
+      }
+    }
+  },
+  "issues": {
+    "totalCount": 772
+  },
+  "openIssues": {
+    "totalCount": 163
+  },
+  "pullRequests": {
+    "totalCount": 1149
+  },
+  "openPullRequests": {
+    "totalCount": 10
+  },
+  "releases": {
+    "totalCount": 26
+  },
+  "repositoryTopics": {
+    "edges": [
+      {
+        "node": {
+          "topic": {
+            "name": "benchmark"
+          }
+        }
+      }
+    ]
+  }
+}

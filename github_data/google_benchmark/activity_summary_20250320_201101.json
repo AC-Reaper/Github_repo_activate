@@ -1,0 +1,62 @@
+{
+  "period": "近 3650 天",
+  "since_date": "2015-03-23T20:11:01.009211",
+  "commit_count": 1380,
+  "direct_push_count": 301,
+  "force_push_count": 0,
+  "branch_count": 7,
+  "branch_created_count": 1,
+  "branch_deleted_count": 1,
+  "pull_request_event_count": 11,
+  "issue_event_count": 9,
+  "active_branches": [
+    {
+      "name": "msan-action",
+      "last_commit": null,
+      "last_commit_sha": "2a3ad8c6e87c921610448a4db80326ca920d4a5f"
+    },
+    {
+      "name": "thread_times",
+      "last_commit": null,
+      "last_commit_sha": "4827765707deb1e6996afa134a4ae20502d9e1c9"
+    },
+    {
+      "name": "clang-tidy",
+      "last_commit": null,
+      "last_commit_sha": "f616c58df318b19355b70b227d1f3dab93f5fdb7"
+    },
+    {
+      "name": "bazel_mod_up",
+      "last_commit": null,
+      "last_commit_sha": "f38cbdc601366c7ae8e966f11a5993428fdc5284"
+    },
+    {
+      "name": "main",
+      "last_commit": null,
+      "last_commit_sha": "1bc59dce278b9145f18ef88d31d373c4ba939dc4"
+    },
+    {
+      "name": "v2",
+      "last_commit": null,
+      "last_commit_sha": "5f2a107b17f373f8b9e070b598d835ed257c65a8"
+    },
+    {
+      "name": "sysinfo_fallback",
+      "last_commit": null,
+      "last_commit_sha": "ee965cbea1822853f23d2f81344038a449d68fdd"
+    },
+    {
+      "name": "master",
+      "last_commit": "unknown",
+      "last_commit_sha": "unknown"
+    }
+  ],
+  "force_pushes": [],
+  "recent_branch_creations": [
+    {
+      "date": "2025-03-13T19:12:05Z",
+      "branch": "LebedevRI-patch-1",
+      "actor": "LebedevRI"
+    }
+  ]
+}

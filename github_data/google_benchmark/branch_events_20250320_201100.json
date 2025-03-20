@@ -1,0 +1,33 @@
+{
+  "branch_creations": [
+    {
+      "id": "47538971865",
+      "type": "CreateEvent",
+      "created_at": "2025-03-13T19:12:05Z",
+      "actor": {
+        "login": "LebedevRI",
+        "id": 88600,
+        "avatar_url": "https://avatars.githubusercontent.com/u/88600?"
+      },
+      "ref_type": "branch",
+      "ref": "LebedevRI-patch-1",
+      "description": "A microbenchmark support library",
+      "event_description": "分支创建: LebedevRI-patch-1"
+    }
+  ],
+  "branch_deletions": [
+    {
+      "id": "47539026281",
+      "type": "DeleteEvent",
+      "created_at": "2025-03-13T19:13:42Z",
+      "actor": {
+        "login": "LebedevRI",
+        "id": 88600,
+        "avatar_url": "https://avatars.githubusercontent.com/u/88600?"
+      },
+      "ref_type": "branch",
+      "ref": "LebedevRI-patch-1",
+      "event_description": "分支删除: LebedevRI-patch-1"
+    }
+  ]
+}

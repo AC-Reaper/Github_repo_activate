@@ -1,0 +1,23 @@
+# GitHub 仓库列表示例
+# 格式: owner/repo[:analysis_type]
+# analysis_type 可选值: all, overview, commits, activity
+
+# 流行的开源项目
+microsoft/vscode:overview       # 仅获取仓库概览
+apache/kafka:activity           # 仅获取活动摘要
+kubernetes/kubernetes:overview  # 仅获取仓库概览
+facebook/react:overview         # 仅获取仓库概览
+tensorflow/tensorflow:overview  # 仅获取仓库概览
+
+# Google 项目
+google/gson:all                 # 获取所有数据
+google/guava:commits            # 仅获取提交历史
+google/leveldb:activity         # 仅获取活动摘要
+
+# 主要云原生项目
+prometheus/prometheus:overview  # 仅获取仓库概览
+containerd/containerd:overview  # 仅获取仓库概览
+etcd-io/etcd:overview           # 仅获取仓库概览
+
+# 注意: 将此文件与您实际需要分析的仓库列表一起使用
+# 太多大型仓库的全量分析会消耗大量 GitHub API 配额
