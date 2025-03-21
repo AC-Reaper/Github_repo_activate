@@ -1,0 +1,267 @@
+{
+  "id": "MDEwOlJlcG9zaXRvcnk0MTg4MTkwMA==",
+  "name": "vscode",
+  "description": "Visual Studio Code",
+  "url": "https://github.com/microsoft/vscode",
+  "createdAt": "2015-09-03T20:23:38Z",
+  "updatedAt": "2025-03-20T15:11:17Z",
+  "pushedAt": "2025-03-20T15:15:20Z",
+  "homepageUrl": "https://code.visualstudio.com",
+  "primaryLanguage": {
+    "name": "TypeScript",
+    "color": "#3178c6"
+  },
+  "diskUsage": 994464,
+  "forkCount": 31132,
+  "stargazerCount": 168995,
+  "watchers": {
+    "totalCount": 3339
+  },
+  "languages": {
+    "edges": [
+      {
+        "node": {
+          "name": "TypeScript",
+          "color": "#3178c6"
+        },
+        "size": 68230686
+      },
+      {
+        "node": {
+          "name": "CSS",
+          "color": "#663399"
+        },
+        "size": 1015591
+      },
+      {
+        "node": {
+          "name": "JavaScript",
+          "color": "#f1e05a"
+        },
+        "size": 843922
+      },
+      {
+        "node": {
+          "name": "Rust",
+          "color": "#dea584"
+        },
+        "size": 500641
+      },
+      {
+        "node": {
+          "name": "HTML",
+          "color": "#e34c26"
+        },
+        "size": 393804
+      },
+      {
+        "node": {
+          "name": "Inno Setup",
+          "color": "#264b99"
+        },
+        "size": 309534
+      },
+      {
+        "node": {
+          "name": "Scilab",
+          "color": "#ca0f21"
+        },
+        "size": 202892
+      },
+      {
+        "node": {
+          "name": "Shell",
+          "color": "#89e051"
+        },
+        "size": 104123
+      },
+      {
+        "node": {
+          "name": "Batchfile",
+          "color": "#C1F12E"
+        },
+        "size": 18993
+      },
+      {
+        "node": {
+          "name": "PowerShell",
+          "color": "#012456"
+        },
+        "size": 15594
+      },
+      {
+        "node": {
+          "name": "Tree-sitter Query",
+          "color": "#8ea64c"
+        },
+        "size": 12860
+      },
+      {
+        "node": {
+          "name": "SCSS",
+          "color": "#c6538c"
+        },
+        "size": 6732
+      },
+      {
+        "node": {
+          "name": "Groovy",
+          "color": "#4298b8"
+        },
+        "size": 3928
+      },
+      {
+        "node": {
+          "name": "Cuda",
+          "color": "#3A4E3A"
+        },
+        "size": 3634
+      },
+      {
+        "node": {
+          "name": "C++",
+          "color": "#f34b7d"
+        },
+        "size": 2745
+      },
+      {
+        "node": {
+          "name": "Makefile",
+          "color": "#427819"
+        },
+        "size": 2307
+      },
+      {
+        "node": {
+          "name": "Python",
+          "color": "#3572A5"
+        },
+        "size": 2171
+      },
+      {
+        "node": {
+          "name": "Perl",
+          "color": "#0298c3"
+        },
+        "size": 1922
+      },
+      {
+        "node": {
+          "name": "Ruby",
+          "color": "#701516"
+        },
+        "size": 1703
+      },
+      {
+        "node": {
+          "name": "TeX",
+          "color": "#3D6117"
+        },
+        "size": 1602
+      },
+      {
+        "node": {
+          "name": "Objective-C++",
+          "color": "#6866fb"
+        },
+        "size": 1387
+      },
+      {
+        "node": {
+          "name": "Objective-C",
+          "color": "#438eff"
+        },
+        "size": 1387
+      },
+      {
+        "node": {
+          "name": "Clojure",
+          "color": "#db5855"
+        },
+        "size": 1206
+      },
+      {
+        "node": {
+          "name": "Handlebars",
+          "color": "#f7931e"
+        },
+        "size": 1064
+      },
+      {
+        "node": {
+          "name": "Less",
+          "color": "#1d365d"
+        },
+        "size": 1029
+      }
+    ],
+    "totalSize": 71693852
+  },
+  "licenseInfo": {
+    "name": "MIT License",
+    "spdxId": "MIT",
+    "url": "http://choosealicense.com/licenses/mit/"
+  },
+  "defaultBranchRef": {
+    "name": "main",
+    "target": {
+      "history": {
+        "totalCount": 131242
+      }
+    }
+  },
+  "issues": {
+    "totalCount": 192263
+  },
+  "openIssues": {
+    "totalCount": 9024
+  },
+  "pullRequests": {
+    "totalCount": 37850
+  },
+  "openPullRequests": {
+    "totalCount": 511
+  },
+  "releases": {
+    "totalCount": 159
+  },
+  "repositoryTopics": {
+    "edges": [
+      {
+        "node": {
+          "topic": {
+            "name": "editor"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "electron"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "visual-studio-code"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "typescript"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "microsoft"
+          }
+        }
+      }
+    ]
+  }
+}

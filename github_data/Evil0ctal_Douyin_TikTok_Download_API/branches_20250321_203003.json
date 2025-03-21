@@ -1,0 +1,56 @@
+[
+  {
+    "name": "dependabot/pip/certifi-2024.7.4",
+    "prefix": "refs/heads/",
+    "target": {
+      "oid": "a3446a98572ae257c267fd1cea8dfee9cf30214c",
+      "committedDate": "2024-07-06T01:53:58Z",
+      "history": {
+        "totalCount": 1044
+      },
+      "author": {
+        "name": "dependabot[bot]",
+        "email": "49699333+dependabot[bot]@users.noreply.github.com",
+        "user": {
+          "login": "dependabot[bot]"
+        }
+      }
+    }
+  },
+  {
+    "name": "dependabot/pip/tornado-6.4.1",
+    "prefix": "refs/heads/",
+    "target": {
+      "oid": "056b59999fdb86c78d7ad89377ced5156a3d7f58",
+      "committedDate": "2024-06-06T23:56:50Z",
+      "history": {
+        "totalCount": 1028
+      },
+      "author": {
+        "name": "dependabot[bot]",
+        "email": "49699333+dependabot[bot]@users.noreply.github.com",
+        "user": {
+          "login": "dependabot[bot]"
+        }
+      }
+    }
+  },
+  {
+    "name": "main",
+    "prefix": "refs/heads/",
+    "target": {
+      "oid": "ab87be43afd2301ef8c6c320f01c015114007295",
+      "committedDate": "2025-03-16T08:26:51Z",
+      "history": {
+        "totalCount": 1113
+      },
+      "author": {
+        "name": "github-actions[bot]",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "user": {
+          "login": "github-actions[bot]"
+        }
+      }
+    }
+  }
+]

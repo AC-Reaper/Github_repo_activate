@@ -1,0 +1,36 @@
+{
+  "period": "近 3650 天",
+  "since_date": "2015-03-24T20:30:09.306951",
+  "commit_count": 1113,
+  "direct_push_count": 1007,
+  "force_push_count": 0,
+  "branch_count": 3,
+  "branch_created_count": 0,
+  "branch_deleted_count": 0,
+  "pull_request_event_count": 4,
+  "issue_event_count": 20,
+  "active_branches": [
+    {
+      "name": "dependabot/pip/tornado-6.4.1",
+      "last_commit": null,
+      "last_commit_sha": "056b59999fdb86c78d7ad89377ced5156a3d7f58"
+    },
+    {
+      "name": "master",
+      "last_commit": "unknown",
+      "last_commit_sha": "unknown"
+    },
+    {
+      "name": "main",
+      "last_commit": null,
+      "last_commit_sha": "ab87be43afd2301ef8c6c320f01c015114007295"
+    },
+    {
+      "name": "dependabot/pip/certifi-2024.7.4",
+      "last_commit": null,
+      "last_commit_sha": "a3446a98572ae257c267fd1cea8dfee9cf30214c"
+    }
+  ],
+  "force_pushes": [],
+  "recent_branch_creations": []
+}

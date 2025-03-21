@@ -1,0 +1,1572 @@
+[
+  {
+    "number": 593,
+    "title": "c",
+    "createdAt": "2025-03-18T06:23:18Z",
+    "updatedAt": "2025-03-18T06:25:35Z",
+    "closedAt": "2025-03-18T06:25:35Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "goiliace"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 7161,
+    "deletions": 7,
+    "changedFiles": 8,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 576,
+    "title": "Create build.yml",
+    "createdAt": "2025-03-07T12:14:26Z",
+    "updatedAt": "2025-03-07T12:14:54Z",
+    "closedAt": "2025-03-07T12:14:48Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "862191482"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 26,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "862191482-patch-1"
+  },
+  {
+    "number": 575,
+    "title": "862191482 patch 2",
+    "createdAt": "2025-03-07T12:12:18Z",
+    "updatedAt": "2025-03-16T08:08:54Z",
+    "closedAt": "2025-03-16T08:08:54Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "862191482"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 26,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "862191482-patch-2"
+  },
+  {
+    "number": 571,
+    "title": "Fix: 自动清理未完成的文件",
+    "createdAt": "2025-03-02T15:34:28Z",
+    "updatedAt": "2025-03-04T06:01:30Z",
+    "closedAt": "2025-03-04T06:01:18Z",
+    "mergedAt": "2025-03-04T06:01:18Z",
+    "state": "MERGED",
+    "author": {
+      "login": "hadwinfu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 9,
+    "deletions": 6,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "fix/download"
+  },
+  {
+    "number": 570,
+    "title": "Fix: 修改视频下载方法为流式下载",
+    "createdAt": "2025-03-01T09:18:48Z",
+    "updatedAt": "2025-03-01T21:58:32Z",
+    "closedAt": "2025-03-01T21:58:32Z",
+    "mergedAt": "2025-03-01T21:58:32Z",
+    "state": "MERGED",
+    "author": {
+      "login": "hadwinfu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 30,
+    "deletions": 7,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "fix/download"
+  },
+  {
+    "number": 503,
+    "title": "fix tiktok crawlers to respect proxies from config.yaml",
+    "createdAt": "2024-11-17T10:04:16Z",
+    "updatedAt": "2024-11-18T07:59:33Z",
+    "closedAt": "2024-11-18T07:59:33Z",
+    "mergedAt": "2024-11-18T07:59:33Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Lynxiayel"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 6,
+    "deletions": 4,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 502,
+    "title": "Update codeql-analysis.yml",
+    "createdAt": "2024-11-16T14:31:53Z",
+    "updatedAt": "2024-11-16T20:08:28Z",
+    "closedAt": "2024-11-16T20:08:28Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "Olgahyeok88800"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 7,
+    "deletions": 7,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "patch-1"
+  },
+  {
+    "number": 481,
+    "title": "[update] 调整代码结构，增加一些接口",
+    "createdAt": "2024-09-26T03:21:40Z",
+    "updatedAt": "2024-11-21T09:23:34Z",
+    "closedAt": "2024-09-26T03:25:14Z",
+    "mergedAt": "2024-09-26T03:25:13Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Azulsolitan"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 457,
+    "deletions": 235,
+    "changedFiles": 8,
+    "baseRefName": "main",
+    "headRefName": "update"
+  },
+  {
+    "number": 468,
+    "title": "[Update] Bilibili API Added",
+    "createdAt": "2024-08-20T01:31:03Z",
+    "updatedAt": "2024-09-26T03:05:29Z",
+    "closedAt": "2024-08-20T01:34:16Z",
+    "mergedAt": "2024-08-20T01:34:16Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Azulsolitan"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1327,
+    "deletions": 11,
+    "changedFiles": 10,
+    "baseRefName": "main",
+    "headRefName": "Koyomi781-patch-1"
+  },
+  {
+    "number": 442,
+    "title": "fix: Update a_bogus generation",
+    "createdAt": "2024-07-07T07:54:52Z",
+    "updatedAt": "2024-07-08T10:07:34Z",
+    "closedAt": "2024-07-07T20:43:25Z",
+    "mergedAt": "2024-07-07T20:43:25Z",
+    "state": "MERGED",
+    "author": {
+      "login": "JoeanAmier"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 189,
+    "deletions": 112,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "update_ab"
+  },
+  {
+    "number": 440,
+    "title": "Bump certifi from 2024.2.2 to 2024.7.4",
+    "createdAt": "2024-07-06T01:53:59Z",
+    "updatedAt": "2024-07-06T01:54:00Z",
+    "closedAt": null,
+    "mergedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "dependabot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "dependencies",
+            "color": "0366d6"
+          }
+        }
+      ]
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "dependabot/pip/certifi-2024.7.4"
+  },
+  {
+    "number": 422,
+    "title": "Bump tornado from 6.4 to 6.4.1",
+    "createdAt": "2024-06-06T23:56:51Z",
+    "updatedAt": "2024-07-07T20:45:48Z",
+    "closedAt": null,
+    "mergedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "dependabot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "dependencies",
+            "color": "0366d6"
+          }
+        }
+      ]
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "dependabot/pip/tornado-6.4.1"
+  },
+  {
+    "number": 399,
+    "title": "Update docker-compose.yml",
+    "createdAt": "2024-05-19T05:28:52Z",
+    "updatedAt": "2024-05-19T05:36:14Z",
+    "closedAt": "2024-05-19T05:36:02Z",
+    "mergedAt": "2024-05-19T05:36:02Z",
+    "state": "MERGED",
+    "author": {
+      "login": "fgprodigal"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 4,
+    "deletions": 4,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "patch-1"
+  },
+  {
+    "number": 366,
+    "title": "Update docker-compose.yml",
+    "createdAt": "2024-04-24T07:53:58Z",
+    "updatedAt": "2024-04-24T07:55:57Z",
+    "closedAt": "2024-04-24T07:55:57Z",
+    "mergedAt": "2024-04-24T07:55:57Z",
+    "state": "MERGED",
+    "author": {
+      "login": "autunn"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 18,
+    "deletions": 14,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "patch-1"
+  },
+  {
+    "number": 360,
+    "title": "🎨: V4预览版本",
+    "createdAt": "2024-04-23T04:06:22Z",
+    "updatedAt": "2024-04-23T04:08:24Z",
+    "closedAt": "2024-04-23T04:06:55Z",
+    "mergedAt": "2024-04-23T04:06:55Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Evil0ctal"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 7997,
+    "deletions": 4730,
+    "changedFiles": 87,
+    "baseRefName": "main",
+    "headRefName": "V4"
+  },
+  {
+    "number": 352,
+    "title": "Bump idna from 3.4 to 3.7",
+    "createdAt": "2024-04-12T01:41:45Z",
+    "updatedAt": "2024-04-23T04:07:38Z",
+    "closedAt": "2024-04-23T04:07:36Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "dependabot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "dependencies",
+            "color": "0366d6"
+          }
+        }
+      ]
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "dependabot/pip/idna-3.7"
+  },
+  {
+    "number": 349,
+    "title": "Update docker-compose.yml",
+    "createdAt": "2024-04-10T02:32:41Z",
+    "updatedAt": "2024-05-31T07:01:36Z",
+    "closedAt": "2024-05-31T07:01:36Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "justcodingnobb"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 4,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "patch-1"
+  },
+  {
+    "number": 333,
+    "title": "Bump orjson from 3.8.6 to 3.9.15",
+    "createdAt": "2024-03-14T20:48:20Z",
+    "updatedAt": "2024-03-14T20:59:23Z",
+    "closedAt": "2024-03-14T20:59:21Z",
+    "mergedAt": "2024-03-14T20:59:21Z",
+    "state": "MERGED",
+    "author": {
+      "login": "dependabot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "dependencies",
+            "color": "0366d6"
+          }
+        }
+      ]
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "dependabot/pip/orjson-3.9.15"
+  },
+  {
+    "number": 332,
+    "title": "Bump fastapi from 0.92.0 to 0.109.1",
+    "createdAt": "2024-03-14T20:48:19Z",
+    "updatedAt": "2024-03-14T20:59:14Z",
+    "closedAt": "2024-03-14T20:59:13Z",
+    "mergedAt": "2024-03-14T20:59:13Z",
+    "state": "MERGED",
+    "author": {
+      "login": "dependabot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "dependencies",
+            "color": "0366d6"
+          }
+        }
+      ]
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "dependabot/pip/fastapi-0.109.1"
+  },
+  {
+    "number": 331,
+    "title": "Bump starlette from 0.27.0 to 0.36.2",
+    "createdAt": "2024-03-14T20:48:10Z",
+    "updatedAt": "2024-03-14T20:59:31Z",
+    "closedAt": "2024-03-14T20:59:29Z",
+    "mergedAt": "2024-03-14T20:59:29Z",
+    "state": "MERGED",
+    "author": {
+      "login": "dependabot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "dependencies",
+            "color": "0366d6"
+          }
+        }
+      ]
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "dependabot/pip/starlette-0.36.2"
+  },
+  {
+    "number": 330,
+    "title": "Bump aiohttp from 3.8.4 to 3.9.2",
+    "createdAt": "2024-03-14T20:48:02Z",
+    "updatedAt": "2024-03-14T21:00:23Z",
+    "closedAt": "2024-03-14T21:00:21Z",
+    "mergedAt": "2024-03-14T21:00:21Z",
+    "state": "MERGED",
+    "author": {
+      "login": "dependabot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "dependencies",
+            "color": "0366d6"
+          }
+        }
+      ]
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "dependabot/pip/aiohttp-3.9.2"
+  },
+  {
+    "number": 316,
+    "title": "支持抖音cookies从config.ini中配置",
+    "createdAt": "2023-11-19T04:14:21Z",
+    "updatedAt": "2023-12-01T19:02:12Z",
+    "closedAt": "2023-12-01T19:02:12Z",
+    "mergedAt": "2023-12-01T19:02:12Z",
+    "state": "MERGED",
+    "author": {
+      "login": "javaswing"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 12,
+    "deletions": 2,
+    "changedFiles": 3,
+    "baseRefName": "main",
+    "headRefName": "feature/add-cookie"
+  },
+  {
+    "number": 293,
+    "title": "Update scraper.py (Hybrid methods支持b23.tv的哔哩哔哩网址)",
+    "createdAt": "2023-10-07T08:41:46Z",
+    "updatedAt": "2023-10-13T23:42:04Z",
+    "closedAt": "2023-10-13T23:42:04Z",
+    "mergedAt": "2023-10-13T23:42:04Z",
+    "state": "MERGED",
+    "author": {
+      "login": "befantasy"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "patch-1"
+  },
+  {
+    "number": 291,
+    "title": "添加快手视频解析",
+    "createdAt": "2023-10-07T06:49:07Z",
+    "updatedAt": "2023-10-13T23:41:43Z",
+    "closedAt": "2023-10-13T23:41:43Z",
+    "mergedAt": "2023-10-13T23:41:43Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Xuenew"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 157,
+    "deletions": 23,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "xyy_kuaishou"
+  },
+  {
+    "number": 283,
+    "title": ".gitignore 添加文件",
+    "createdAt": "2023-09-28T06:57:30Z",
+    "updatedAt": "2023-09-28T07:20:16Z",
+    "closedAt": "2023-09-28T07:20:16Z",
+    "mergedAt": "2023-09-28T07:20:16Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Xuenew"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 4,
+    "deletions": 1,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "test_pr"
+  },
+  {
+    "number": 279,
+    "title": "1,添加了西瓜解析2，修改了readme/readme.en3,BUG convert_share_urls 这里有bug。 如果抖音的口…",
+    "createdAt": "2023-09-25T15:18:07Z",
+    "updatedAt": "2023-09-26T06:28:07Z",
+    "closedAt": "2023-09-26T06:28:07Z",
+    "mergedAt": "2023-09-26T06:28:07Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Xuenew"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 9
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 149,
+    "deletions": 368,
+    "changedFiles": 3,
+    "baseRefName": "main",
+    "headRefName": "xigua"
+  },
+  {
+    "number": 275,
+    "title": "添加哔哩哔哩平台视频播放地址获取",
+    "createdAt": "2023-09-20T09:53:17Z",
+    "updatedAt": "2023-09-24T16:17:39Z",
+    "closedAt": "2023-09-23T05:48:17Z",
+    "mergedAt": "2023-09-23T05:48:17Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Xuenew"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 9
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 114,
+    "deletions": 13,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "bilibili_branch"
+  },
+  {
+    "number": 264,
+    "title": "X-Bogus.js使用绝对路径",
+    "createdAt": "2023-09-01T08:45:24Z",
+    "updatedAt": "2023-09-01T08:52:58Z",
+    "closedAt": "2023-09-01T08:52:58Z",
+    "mergedAt": "2023-09-01T08:52:57Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Jeffrey-deng"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 10,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 240,
+    "title": "Bump tornado from 6.2 to 6.3.3",
+    "createdAt": "2023-08-14T23:11:48Z",
+    "updatedAt": "2024-03-14T20:47:19Z",
+    "closedAt": "2024-03-14T20:47:18Z",
+    "mergedAt": "2024-03-14T20:47:18Z",
+    "state": "MERGED",
+    "author": {
+      "login": "dependabot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "dependencies",
+            "color": "0366d6"
+          }
+        }
+      ]
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "dependabot/pip/tornado-6.3.3"
+  },
+  {
+    "number": 227,
+    "title": "Bump aiohttp from 3.8.4 to 3.8.5",
+    "createdAt": "2023-07-20T16:05:53Z",
+    "updatedAt": "2024-03-14T20:47:39Z",
+    "closedAt": "2024-03-14T20:47:37Z",
+    "mergedAt": "2024-03-14T20:47:37Z",
+    "state": "MERGED",
+    "author": {
+      "login": "dependabot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "dependencies",
+            "color": "0366d6"
+          }
+        }
+      ]
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "dependabot/pip/aiohttp-3.8.5"
+  },
+  {
+    "number": 225,
+    "title": "Update scraper.py",
+    "createdAt": "2023-07-17T21:26:58Z",
+    "updatedAt": "2025-03-16T08:09:04Z",
+    "closedAt": "2025-03-16T08:09:04Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "chen-rn"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 6,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 206,
+    "title": "add",
+    "createdAt": "2023-06-01T08:04:54Z",
+    "updatedAt": "2023-06-01T08:06:46Z",
+    "closedAt": "2023-06-01T08:06:46Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "nguyenduclai99"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 25,
+    "deletions": 8,
+    "changedFiles": 3,
+    "baseRefName": "main",
+    "headRefName": "abc"
+  },
+  {
+    "number": 204,
+    "title": "Bump tornado from 6.2 to 6.3.2",
+    "createdAt": "2023-05-25T18:41:02Z",
+    "updatedAt": "2023-08-14T23:11:52Z",
+    "closedAt": "2023-08-14T23:11:50Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "dependabot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "dependencies",
+            "color": "0366d6"
+          }
+        }
+      ]
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "dependabot/pip/tornado-6.3.2"
+  },
+  {
+    "number": 202,
+    "title": "Bump starlette from 0.25.0 to 0.27.0",
+    "createdAt": "2023-05-17T04:17:07Z",
+    "updatedAt": "2024-03-14T20:47:35Z",
+    "closedAt": "2024-03-14T20:47:28Z",
+    "mergedAt": "2024-03-14T20:47:28Z",
+    "state": "MERGED",
+    "author": {
+      "login": "dependabot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "dependencies",
+            "color": "0366d6"
+          }
+        }
+      ]
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "dependabot/pip/starlette-0.27.0"
+  },
+  {
+    "number": 198,
+    "title": "Add chrome plugin and tampermonkey script",
+    "createdAt": "2023-04-15T08:07:13Z",
+    "updatedAt": "2024-07-28T16:21:30Z",
+    "closedAt": "2024-07-28T16:21:30Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "fangyuan99"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 22,
+    "deletions": 0,
+    "changedFiles": 3,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 193,
+    "title": "修正获取抖音视频数据失败",
+    "createdAt": "2023-04-05T09:27:33Z",
+    "updatedAt": "2023-04-06T08:25:55Z",
+    "closedAt": "2023-04-05T10:32:17Z",
+    "mergedAt": "2023-04-05T10:32:17Z",
+    "state": "MERGED",
+    "author": {
+      "login": "maxsky"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "patch-1"
+  },
+  {
+    "number": 172,
+    "title": "dockerfile 修复",
+    "createdAt": "2023-03-10T09:05:05Z",
+    "updatedAt": "2023-03-10T09:33:15Z",
+    "closedAt": "2023-03-10T09:33:15Z",
+    "mergedAt": "2023-03-10T09:33:15Z",
+    "state": "MERGED",
+    "author": {
+      "login": "jw-star"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 26,
+    "deletions": 25,
+    "changedFiles": 3,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 165,
+    "title": "fixed: 修复 readme.md 和 readme.en.md 内容错误",
+    "createdAt": "2023-03-07T02:54:47Z",
+    "updatedAt": "2023-03-07T03:03:58Z",
+    "closedAt": "2023-03-07T03:03:58Z",
+    "mergedAt": "2023-03-07T03:03:58Z",
+    "state": "MERGED",
+    "author": {
+      "login": "citizen233"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 6,
+    "deletions": 6,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 155,
+    "title": "Bump starlette from 0.21.0 to 0.25.0",
+    "createdAt": "2023-02-14T23:22:32Z",
+    "updatedAt": "2023-02-15T22:04:37Z",
+    "closedAt": "2023-02-15T22:04:28Z",
+    "mergedAt": "2023-02-15T22:04:28Z",
+    "state": "MERGED",
+    "author": {
+      "login": "dependabot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "dependencies",
+            "color": "0366d6"
+          }
+        }
+      ]
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "dependabot/pip/starlette-0.25.0"
+  },
+  {
+    "number": 134,
+    "title": "pull",
+    "createdAt": "2022-12-27T12:35:26Z",
+    "updatedAt": "2022-12-27T12:37:16Z",
+    "closedAt": "2022-12-27T12:37:16Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "Evil0ctal"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 114
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 651,
+    "deletions": 239,
+    "changedFiles": 22,
+    "baseRefName": "Development",
+    "headRefName": "main"
+  },
+  {
+    "number": 133,
+    "title": "Completely remove aid from tiktok requests",
+    "createdAt": "2022-12-26T14:57:28Z",
+    "updatedAt": "2022-12-26T20:10:53Z",
+    "closedAt": "2022-12-26T20:10:53Z",
+    "mergedAt": "2022-12-26T20:10:53Z",
+    "state": "MERGED",
+    "author": {
+      "login": "TheBunnies"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 2,
+    "deletions": 2,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "fix/aid"
+  },
+  {
+    "number": 122,
+    "title": "Fix the hostname for tiktok requests",
+    "createdAt": "2022-12-09T16:49:19Z",
+    "updatedAt": "2022-12-09T21:33:11Z",
+    "closedAt": "2022-12-09T21:32:45Z",
+    "mergedAt": "2022-12-09T21:32:45Z",
+    "state": "MERGED",
+    "author": {
+      "login": "TheBunnies"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "fix/hostname"
+  },
+  {
+    "number": 103,
+    "title": "Merge main",
+    "createdAt": "2022-11-14T07:05:23Z",
+    "updatedAt": "2022-11-14T07:19:32Z",
+    "closedAt": "2022-11-14T07:19:32Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "Evil0ctal"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 50
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1799,
+    "deletions": 3386,
+    "changedFiles": 24,
+    "baseRefName": "Development",
+    "headRefName": "main"
+  },
+  {
+    "number": 73,
+    "title": "fix album music array empty error",
+    "createdAt": "2022-09-05T05:08:17Z",
+    "updatedAt": "2022-09-05T05:15:56Z",
+    "closedAt": "2022-09-05T05:15:55Z",
+    "mergedAt": "2022-09-05T05:15:55Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Jeffrey-deng"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 72,
+    "title": "fix music not found; add share_url,music_share_url",
+    "createdAt": "2022-09-05T02:59:10Z",
+    "updatedAt": "2022-09-05T03:05:56Z",
+    "closedAt": "2022-09-05T03:05:56Z",
+    "mergedAt": "2022-09-05T03:05:56Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Jeffrey-deng"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 14,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 71,
+    "title": "Update README.md",
+    "createdAt": "2022-08-30T01:58:02Z",
+    "updatedAt": "2022-08-30T02:05:08Z",
+    "closedAt": "2022-08-30T02:04:28Z",
+    "mergedAt": "2022-08-30T02:04:28Z",
+    "state": "MERGED",
+    "author": {
+      "login": "jw-star"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 14,
+    "deletions": 34,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "patch-2"
+  },
+  {
+    "number": 66,
+    "title": "Update docker-image.yml",
+    "createdAt": "2022-08-23T07:23:33Z",
+    "updatedAt": "2022-08-29T23:05:01Z",
+    "closedAt": "2022-08-23T07:26:08Z",
+    "mergedAt": "2022-08-23T07:26:08Z",
+    "state": "MERGED",
+    "author": {
+      "login": "jw-star"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 10
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 2,
+    "deletions": 2,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "patch-1"
+  },
+  {
+    "number": 65,
+    "title": "add docker build",
+    "createdAt": "2022-08-22T08:30:59Z",
+    "updatedAt": "2022-08-22T08:49:26Z",
+    "closedAt": "2022-08-22T08:48:53Z",
+    "mergedAt": "2022-08-22T08:48:53Z",
+    "state": "MERGED",
+    "author": {
+      "login": "jw-star"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 17
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 548,
+    "deletions": 321,
+    "changedFiles": 7,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 38,
+    "title": "Update web_api.py",
+    "createdAt": "2022-06-08T14:54:45Z",
+    "updatedAt": "2022-06-10T21:18:28Z",
+    "closedAt": "2022-06-10T21:18:28Z",
+    "mergedAt": "2022-06-10T21:18:28Z",
+    "state": "MERGED",
+    "author": {
+      "login": "chris-ss"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 3,
+    "deletions": 3,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "patch-1"
+  },
+  {
+    "number": 17,
+    "title": "Bump urllib3 from 1.25.11 to 1.26.5 in /API",
+    "createdAt": "2022-04-19T03:55:20Z",
+    "updatedAt": "2022-04-19T03:57:37Z",
+    "closedAt": "2022-04-19T03:57:29Z",
+    "mergedAt": "2022-04-19T03:57:28Z",
+    "state": "MERGED",
+    "author": {
+      "login": "dependabot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "dependencies",
+            "color": "0366d6"
+          }
+        }
+      ]
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "dependabot/pip/API/urllib3-1.26.5"
+  },
+  {
+    "number": 5,
+    "title": "Docker Support",
+    "createdAt": "2022-03-11T09:38:51Z",
+    "updatedAt": "2022-03-11T21:37:35Z",
+    "closedAt": "2022-03-11T21:37:35Z",
+    "mergedAt": "2022-03-11T21:37:35Z",
+    "state": "MERGED",
+    "author": {
+      "login": "PageNotFound200"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 14,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  }
+]

@@ -1,0 +1,225 @@
+{
+  "id": "R_kgDOGVrn2g",
+  "name": "Douyin_TikTok_Download_API",
+  "description": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。",
+  "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+  "createdAt": "2021-11-07T01:35:09Z",
+  "updatedAt": "2025-03-21T10:50:21Z",
+  "pushedAt": "2025-03-16T08:27:19Z",
+  "homepageUrl": "https://douyin.wtf",
+  "primaryLanguage": {
+    "name": "Python",
+    "color": "#3572A5"
+  },
+  "diskUsage": 8793,
+  "forkCount": 1741,
+  "stargazerCount": 11571,
+  "watchers": {
+    "totalCount": 78
+  },
+  "languages": {
+    "edges": [
+      {
+        "node": {
+          "name": "Python",
+          "color": "#3572A5"
+        },
+        "size": 387891
+      },
+      {
+        "node": {
+          "name": "Shell",
+          "color": "#89e051"
+        },
+        "size": 3848
+      },
+      {
+        "node": {
+          "name": "Dockerfile",
+          "color": "#384d54"
+        },
+        "size": 628
+      },
+      {
+        "node": {
+          "name": "Procfile",
+          "color": "#3B2F63"
+        },
+        "size": 22
+      }
+    ],
+    "totalSize": 392389
+  },
+  "licenseInfo": {
+    "name": "Apache License 2.0",
+    "spdxId": "Apache-2.0",
+    "url": "http://choosealicense.com/licenses/apache-2.0/"
+  },
+  "defaultBranchRef": {
+    "name": "main",
+    "target": {
+      "history": {
+        "totalCount": 1113
+      }
+    }
+  },
+  "issues": {
+    "totalCount": 518
+  },
+  "openIssues": {
+    "totalCount": 58
+  },
+  "pullRequests": {
+    "totalCount": 51
+  },
+  "openPullRequests": {
+    "totalCount": 2
+  },
+  "releases": {
+    "totalCount": 52
+  },
+  "repositoryTopics": {
+    "edges": [
+      {
+        "node": {
+          "topic": {
+            "name": "python"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "pywebio"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "tiktok"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "douyin"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "api"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "scraper"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "fastapi"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "no-watermark"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "online-parsing"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "async"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "douyin-tiktok-api"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "douyin-tiktok-download"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "crawler"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "spider"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "web-scraping"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "tiktok-scraper"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "douyin-scraper"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "douyin-api"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "tiktok-api"
+          }
+        }
+      },
+      {
+        "node": {
+          "topic": {
+            "name": "tiktok-signature"
+          }
+        }
+      }
+    ]
+  }
+}

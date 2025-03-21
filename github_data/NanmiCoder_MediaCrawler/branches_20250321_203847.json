@@ -1,0 +1,20 @@
+[
+  {
+    "name": "main",
+    "prefix": "refs/heads/",
+    "target": {
+      "oid": "8030d2a02f92a76fef7312b63ab290dbc098b5ac",
+      "committedDate": "2025-03-13T07:07:54Z",
+      "history": {
+        "totalCount": 453
+      },
+      "author": {
+        "name": "Relakkes",
+        "email": "relakkes@gmail.com",
+        "user": {
+          "login": "NanmiCoder"
+        }
+      }
+    }
+  }
+]

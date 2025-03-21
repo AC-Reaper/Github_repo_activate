@@ -1,0 +1,3917 @@
+[
+  {
+    "number": 559,
+    "title": "添加XX功能",
+    "createdAt": "2025-02-26T22:31:37Z",
+    "updatedAt": "2025-02-26T22:35:08Z",
+    "closedAt": "2025-02-26T22:32:26Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "kaluxifa"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 60,
+    "deletions": 7,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "my-feature"
+  },
+  {
+    "number": 547,
+    "title": "docs(contributor): contrib-readme-action has updated readme",
+    "createdAt": "2025-02-10T16:22:27Z",
+    "updatedAt": "2025-02-12T02:59:15Z",
+    "closedAt": "2025-02-12T02:59:15Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "penouc"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 246,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 542,
+    "title": "Update core.py，为爬取类型为`detail`和`creator`的任务，添加了和`search`任务一样的，用于转存up主信息的`bilibili_store.update_up_info`的函数调用",
+    "createdAt": "2025-01-19T11:58:05Z",
+    "updatedAt": "2025-01-20T11:30:11Z",
+    "closedAt": "2025-01-20T11:30:11Z",
+    "mergedAt": "2025-01-20T11:30:11Z",
+    "state": "MERGED",
+    "author": {
+      "login": "2513502304"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 538,
+    "title": "为`base_config.py`添加了是否开启按每一天进行爬取的选项，仅支持bilibiili，Update `core.py`和`client.py`以实现该功能",
+    "createdAt": "2025-01-15T10:56:35Z",
+    "updatedAt": "2025-01-17T11:43:58Z",
+    "closedAt": "2025-01-17T11:43:57Z",
+    "mergedAt": "2025-01-17T11:43:57Z",
+    "state": "MERGED",
+    "author": {
+      "login": "2513502304"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "commits": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 123,
+    "deletions": 45,
+    "changedFiles": 4,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 536,
+    "title": "将微博评论爬取函数`get_note_all_comments`的`max_id_type`便为可变请求参数",
+    "createdAt": "2025-01-10T11:24:16Z",
+    "updatedAt": "2025-01-13T05:58:15Z",
+    "closedAt": "2025-01-13T05:58:15Z",
+    "mergedAt": "2025-01-13T05:58:15Z",
+    "state": "MERGED",
+    "author": {
+      "login": "2513502304"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "commits": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 19,
+    "deletions": 12,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 528,
+    "title": "fix xhs gender",
+    "createdAt": "2024-12-28T12:35:04Z",
+    "updatedAt": "2024-12-28T13:01:58Z",
+    "closedAt": "2024-12-28T13:01:58Z",
+    "mergedAt": "2024-12-28T13:01:58Z",
+    "state": "MERGED",
+    "author": {
+      "login": "HuiGitH"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 9,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "hui/fix-xhs-gender"
+  },
+  {
+    "number": 521,
+    "title": "111",
+    "createdAt": "2024-12-16T02:15:23Z",
+    "updatedAt": "2024-12-25T12:17:30Z",
+    "closedAt": "2024-12-25T12:17:30Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "cwjcw"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 3,
+    "deletions": 3,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 519,
+    "title": "add ignore",
+    "createdAt": "2024-12-10T07:09:46Z",
+    "updatedAt": "2024-12-10T07:13:49Z",
+    "closedAt": "2024-12-10T07:13:49Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "ntz857"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 3,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 516,
+    "title": "Create one",
+    "createdAt": "2024-12-09T06:10:31Z",
+    "updatedAt": "2024-12-10T05:53:27Z",
+    "closedAt": "2024-12-10T05:53:27Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "JQKdiantang"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "patch-1"
+  },
+  {
+    "number": 513,
+    "title": "feat: xhs 非代理模式下增加随机等待间隔, db存储模式下增加存储xsec_token字段",
+    "createdAt": "2024-12-05T13:12:12Z",
+    "updatedAt": "2024-12-06T05:01:17Z",
+    "closedAt": "2024-12-06T05:01:17Z",
+    "mergedAt": "2024-12-06T05:01:17Z",
+    "state": "MERGED",
+    "author": {
+      "login": "liudongkai"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 29,
+    "deletions": 4,
+    "changedFiles": 4,
+    "baseRefName": "main",
+    "headRefName": "feature_xhs"
+  },
+  {
+    "number": 509,
+    "title": "feat: xhs comments add xsec_token",
+    "createdAt": "2024-12-03T10:25:45Z",
+    "updatedAt": "2024-12-03T11:04:54Z",
+    "closedAt": "2024-12-03T10:34:57Z",
+    "mergedAt": "2024-12-03T10:34:57Z",
+    "state": "MERGED",
+    "author": {
+      "login": "leantli"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 61,
+    "deletions": 17,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "feat/xhs_comments_upgrade"
+  },
+  {
+    "number": 506,
+    "title": "fix：微博根据creator爬取note时，爬取评论失败。原因是解析的参数key有误",
+    "createdAt": "2024-11-29T02:51:56Z",
+    "updatedAt": "2024-11-29T03:07:59Z",
+    "closedAt": "2024-11-29T03:07:58Z",
+    "mergedAt": "2024-11-29T03:07:58Z",
+    "state": "MERGED",
+    "author": {
+      "login": "JianxunRao"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 2,
+    "deletions": 2,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 479,
+    "title": "fix: xhs出现验证码时报错，增加用户手动验证",
+    "createdAt": "2024-11-01T14:10:18Z",
+    "updatedAt": "2024-11-25T06:06:03Z",
+    "closedAt": "2024-11-01T15:09:01Z",
+    "mergedAt": "2024-11-01T15:09:01Z",
+    "state": "MERGED",
+    "author": {
+      "login": "lyx0727"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 45,
+    "deletions": 6,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 477,
+    "title": "fix: xhs出现验证码时报错，增加用户手动验证",
+    "createdAt": "2024-11-01T10:54:55Z",
+    "updatedAt": "2024-11-01T14:09:54Z",
+    "closedAt": "2024-11-01T14:09:53Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "lyx0727"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 45,
+    "deletions": 6,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 463,
+    "title": "fix:翻页时search id不变",
+    "createdAt": "2024-10-24T06:06:06Z",
+    "updatedAt": "2024-10-24T07:13:05Z",
+    "closedAt": "2024-10-24T07:13:05Z",
+    "mergedAt": "2024-10-24T07:13:05Z",
+    "state": "MERGED",
+    "author": {
+      "login": "liugangdao"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 5,
+    "deletions": 2,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 462,
+    "title": "All_platform_comments_restrict",
+    "createdAt": "2024-10-23T08:33:17Z",
+    "updatedAt": "2024-10-24T07:31:14Z",
+    "closedAt": "2024-10-24T07:31:14Z",
+    "mergedAt": "2024-10-24T07:31:14Z",
+    "state": "MERGED",
+    "author": {
+      "login": "FloRainRJY"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 44,
+    "deletions": 19,
+    "changedFiles": 12,
+    "baseRefName": "main",
+    "headRefName": "xiaohongshu_comment_number_restrict"
+  },
+  {
+    "number": 461,
+    "title": "xiaohongshu_comment_number_restrict",
+    "createdAt": "2024-10-22T12:36:51Z",
+    "updatedAt": "2024-10-23T05:35:10Z",
+    "closedAt": "2024-10-23T05:35:10Z",
+    "mergedAt": "2024-10-23T05:35:10Z",
+    "state": "MERGED",
+    "author": {
+      "login": "FloRainRJY"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 13,
+    "deletions": 3,
+    "changedFiles": 3,
+    "baseRefName": "main",
+    "headRefName": "xiaohongshu_comment_number_restrict"
+  },
+  {
+    "number": 433,
+    "title": "fix: lost pyexecjs dependecy in requirements.txt",
+    "createdAt": "2024-09-08T11:23:01Z",
+    "updatedAt": "2024-09-08T11:59:50Z",
+    "closedAt": "2024-09-08T11:59:50Z",
+    "mergedAt": "2024-09-08T11:59:50Z",
+    "state": "MERGED",
+    "author": {
+      "login": "NageNalock"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 2,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "dicey_dev"
+  },
+  {
+    "number": 427,
+    "title": "fix: json内容保存格式优化，支持缩进",
+    "createdAt": "2024-09-04T03:25:29Z",
+    "updatedAt": "2024-09-04T03:27:18Z",
+    "closedAt": "2024-09-04T03:27:18Z",
+    "mergedAt": "2024-09-04T03:27:18Z",
+    "state": "MERGED",
+    "author": {
+      "login": "seek4"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 425,
+    "title": "多笔记查询",
+    "createdAt": "2024-09-03T10:09:36Z",
+    "updatedAt": "2024-09-03T11:12:11Z",
+    "closedAt": "2024-09-03T11:12:11Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "cwjcw"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 8
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 7,
+    "deletions": 1171,
+    "changedFiles": 13,
+    "baseRefName": "main",
+    "headRefName": "多笔记查询"
+  },
+  {
+    "number": 422,
+    "title": "[API] host xhs client an api",
+    "createdAt": "2024-09-02T08:55:02Z",
+    "updatedAt": "2024-09-02T08:55:40Z",
+    "closedAt": "2024-09-02T08:55:40Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "rzwangnb"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 576,
+    "deletions": 58,
+    "changedFiles": 5,
+    "baseRefName": "main",
+    "headRefName": "u/rongzhao/host-as-api"
+  },
+  {
+    "number": 413,
+    "title": "Search多个关键字",
+    "createdAt": "2024-08-29T10:02:55Z",
+    "updatedAt": "2024-08-29T12:40:04Z",
+    "closedAt": "2024-08-29T12:40:04Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "cwjcw"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 7
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 7,
+    "deletions": 7,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "search多个关键字"
+  },
+  {
+    "number": 411,
+    "title": "测试获取评论",
+    "createdAt": "2024-08-28T03:34:05Z",
+    "updatedAt": "2024-08-28T06:01:39Z",
+    "closedAt": "2024-08-28T06:01:39Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "cwjcw"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 6,
+    "deletions": 6,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "测试获取评论"
+  },
+  {
+    "number": 405,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-23T00:29:53Z",
+    "updatedAt": "2024-08-26T12:14:07Z",
+    "closedAt": "2024-08-23T09:16:20Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-FQsYYdb4kG"
+  },
+  {
+    "number": 404,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-21T12:00:01Z",
+    "updatedAt": "2024-08-26T12:14:09Z",
+    "closedAt": "2024-08-23T09:16:13Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-wnf9q4crit"
+  },
+  {
+    "number": 401,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-20T09:28:31Z",
+    "updatedAt": "2024-08-26T12:14:11Z",
+    "closedAt": "2024-08-23T09:16:05Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-j7G_7Yu5qa"
+  },
+  {
+    "number": 400,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-19T19:10:06Z",
+    "updatedAt": "2024-08-26T12:14:12Z",
+    "closedAt": "2024-08-23T09:15:57Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-iqzrku2972"
+  },
+  {
+    "number": 399,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-19T10:39:20Z",
+    "updatedAt": "2024-08-26T12:14:13Z",
+    "closedAt": "2024-08-23T09:15:50Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-eQnzZ90Kf0"
+  },
+  {
+    "number": 396,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-17T14:47:41Z",
+    "updatedAt": "2024-08-26T12:14:22Z",
+    "closedAt": "2024-08-23T09:15:39Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-wshdhWxzdp"
+  },
+  {
+    "number": 389,
+    "title": "feat:mysql连接信息",
+    "createdAt": "2024-08-13T01:33:09Z",
+    "updatedAt": "2024-08-13T01:33:38Z",
+    "closedAt": "2024-08-13T01:33:38Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "lj-michale"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 0,
+    "deletions": 0,
+    "changedFiles": 0,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 388,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-12T22:45:08Z",
+    "updatedAt": "2024-08-26T12:14:23Z",
+    "closedAt": "2024-08-23T09:15:30Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-ckKB4a-7IT"
+  },
+  {
+    "number": 387,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-11T16:15:20Z",
+    "updatedAt": "2024-08-26T12:14:24Z",
+    "closedAt": "2024-08-23T09:15:10Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-gmVqzwGOVr"
+  },
+  {
+    "number": 386,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-11T15:55:06Z",
+    "updatedAt": "2024-08-26T12:14:24Z",
+    "closedAt": "2024-08-23T09:15:02Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-n6pVmCIYHD"
+  },
+  {
+    "number": 385,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-11T15:48:43Z",
+    "updatedAt": "2024-08-26T12:14:25Z",
+    "closedAt": "2024-08-23T09:14:46Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-7qrJn4a4g-"
+  },
+  {
+    "number": 384,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-11T14:37:37Z",
+    "updatedAt": "2024-08-26T12:14:26Z",
+    "closedAt": "2024-08-23T09:14:39Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-S6heq-YDao"
+  },
+  {
+    "number": 380,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-09T10:12:41Z",
+    "updatedAt": "2024-08-26T12:14:28Z",
+    "closedAt": "2024-08-23T09:14:33Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-9JwwutUwme"
+  },
+  {
+    "number": 379,
+    "title": "增加日志输出到文件及词云统计降序写入JSON",
+    "createdAt": "2024-08-08T16:01:21Z",
+    "updatedAt": "2024-08-18T13:21:39Z",
+    "closedAt": "2024-08-18T13:21:39Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "Jasonyang2014"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 144,
+    "deletions": 7,
+    "changedFiles": 4,
+    "baseRefName": "main",
+    "headRefName": "log-config"
+  },
+  {
+    "number": 378,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-08T10:21:54Z",
+    "updatedAt": "2024-08-26T12:14:29Z",
+    "closedAt": "2024-08-23T09:14:55Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-STDaUIIDdh"
+  },
+  {
+    "number": 377,
+    "title": "update",
+    "createdAt": "2024-08-08T09:23:59Z",
+    "updatedAt": "2024-08-08T09:24:08Z",
+    "closedAt": "2024-08-08T09:24:08Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "Rosyrain"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 376,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-08T08:37:15Z",
+    "updatedAt": "2024-08-26T12:14:30Z",
+    "closedAt": "2024-08-23T09:14:27Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-7Z6NtfGeoP"
+  },
+  {
+    "number": 375,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-08T06:25:13Z",
+    "updatedAt": "2024-08-26T12:14:31Z",
+    "closedAt": "2024-08-23T09:13:07Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-QyilvSpuwq"
+  },
+  {
+    "number": 374,
+    "title": "feat: MediaCrawler支持百度贴吧",
+    "createdAt": "2024-08-08T06:24:27Z",
+    "updatedAt": "2024-08-26T12:14:32Z",
+    "closedAt": "2024-08-08T06:24:58Z",
+    "mergedAt": "2024-08-08T06:24:58Z",
+    "state": "MERGED",
+    "author": {
+      "login": "NanmiCoder"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 9
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 7527,
+    "deletions": 268,
+    "changedFiles": 30,
+    "baseRefName": "main",
+    "headRefName": "feature/baidu_tieba_20240805"
+  },
+  {
+    "number": 371,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-08-06T17:03:00Z",
+    "updatedAt": "2024-08-26T12:14:32Z",
+    "closedAt": "2024-08-23T09:12:19Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 23,
+    "deletions": 23,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-nKAIptRdwg"
+  },
+  {
+    "number": 370,
+    "title": "词云过滤空白字符",
+    "createdAt": "2024-08-06T07:25:51Z",
+    "updatedAt": "2024-08-06T09:11:05Z",
+    "closedAt": "2024-08-06T09:11:05Z",
+    "mergedAt": "2024-08-06T09:11:05Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Jasonyang2014"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "wordcloud-filter-whitespace"
+  },
+  {
+    "number": 361,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-07-27T10:10:49Z",
+    "updatedAt": "2024-08-26T12:14:33Z",
+    "closedAt": "2024-07-29T11:32:11Z",
+    "mergedAt": "2024-07-29T11:32:11Z",
+    "state": "MERGED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 20,
+    "deletions": 4,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-KRFLV76rsz"
+  },
+  {
+    "number": 360,
+    "title": "<bug fix> fetch_creator_notes_detail: id ->note_id",
+    "createdAt": "2024-07-26T14:01:57Z",
+    "updatedAt": "2024-07-27T10:10:40Z",
+    "closedAt": "2024-07-27T10:10:34Z",
+    "mergedAt": "2024-07-27T10:10:34Z",
+    "state": "MERGED",
+    "author": {
+      "login": "WenboLuu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "xhs_note_id"
+  },
+  {
+    "number": 357,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-07-24T16:45:10Z",
+    "updatedAt": "2024-08-26T12:14:34Z",
+    "closedAt": "2024-08-23T09:12:53Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 18,
+    "deletions": 9,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-F9G1uiF3fJ"
+  },
+  {
+    "number": 353,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-07-20T19:11:42Z",
+    "updatedAt": "2024-08-26T12:14:35Z",
+    "closedAt": "2024-08-23T09:12:14Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 18,
+    "deletions": 9,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-PvKGHJDZb7"
+  },
+  {
+    "number": 350,
+    "title": "设定微博爬取帖子时间范围",
+    "createdAt": "2024-07-19T05:26:59Z",
+    "updatedAt": "2024-08-18T13:21:45Z",
+    "closedAt": "2024-08-18T13:21:45Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "flowergoodmooncircle"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 37,
+    "deletions": 0,
+    "changedFiles": 4,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 348,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-07-18T14:15:01Z",
+    "updatedAt": "2024-08-26T12:14:36Z",
+    "closedAt": "2024-07-18T14:16:17Z",
+    "mergedAt": "2024-07-18T14:16:17Z",
+    "state": "MERGED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 21,
+    "deletions": 14,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-pFW2NPT4l6"
+  },
+  {
+    "number": 347,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-07-18T14:14:06Z",
+    "updatedAt": "2024-08-26T12:14:37Z",
+    "closedAt": "2024-08-23T09:12:35Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 21,
+    "deletions": 14,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-WC0OxC7dt6"
+  },
+  {
+    "number": 346,
+    "title": "小红书查询没有结果时跳出循环",
+    "createdAt": "2024-07-18T12:53:50Z",
+    "updatedAt": "2024-07-18T14:14:47Z",
+    "closedAt": "2024-07-18T14:14:47Z",
+    "mergedAt": "2024-07-18T14:14:47Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Jasonyang2014"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 3,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "xhs-search-optimization"
+  },
+  {
+    "number": 345,
+    "title": "新增B站创作者（UP主）信息爬取（合并为单个commit）",
+    "createdAt": "2024-07-18T12:15:02Z",
+    "updatedAt": "2024-07-18T14:13:54Z",
+    "closedAt": "2024-07-18T14:13:54Z",
+    "mergedAt": "2024-07-18T14:13:54Z",
+    "state": "MERGED",
+    "author": {
+      "login": "ZhouXsh"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 129,
+    "deletions": 1,
+    "changedFiles": 6,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 343,
+    "title": "新增B站创作者（UP主）个人信息爬取",
+    "createdAt": "2024-07-18T06:01:18Z",
+    "updatedAt": "2024-07-18T12:01:59Z",
+    "closedAt": "2024-07-18T12:01:58Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "ZhouXsh"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 0,
+    "deletions": 0,
+    "changedFiles": 0,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 337,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-07-15T17:34:28Z",
+    "updatedAt": "2024-08-26T12:14:38Z",
+    "closedAt": "2024-08-23T09:12:09Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 9,
+    "deletions": 9,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-fID8jlj9Dg"
+  },
+  {
+    "number": 336,
+    "title": "feat: 支持bilibili视频下载",
+    "createdAt": "2024-07-15T11:04:15Z",
+    "updatedAt": "2024-07-15T15:05:59Z",
+    "closedAt": "2024-07-15T15:05:59Z",
+    "mergedAt": "2024-07-15T15:05:59Z",
+    "state": "MERGED",
+    "author": {
+      "login": "helloteemo"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 156,
+    "deletions": 2,
+    "changedFiles": 4,
+    "baseRefName": "main",
+    "headRefName": "feature/bilibli_video_download"
+  },
+  {
+    "number": 333,
+    "title": "改动计划",
+    "createdAt": "2024-07-12T10:02:54Z",
+    "updatedAt": "2024-07-12T10:06:09Z",
+    "closedAt": "2024-07-12T10:03:11Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "ccivm"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 74,
+    "deletions": 10,
+    "changedFiles": 3,
+    "baseRefName": "main",
+    "headRefName": "sb_block"
+  },
+  {
+    "number": 332,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-07-12T02:16:55Z",
+    "updatedAt": "2024-08-26T12:14:41Z",
+    "closedAt": "2024-07-12T07:25:57Z",
+    "mergedAt": "2024-07-12T07:25:57Z",
+    "state": "MERGED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 18,
+    "deletions": 18,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-qLcNTeg9Bm"
+  },
+  {
+    "number": 331,
+    "title": "fix: 小红书下载新版本使用>3.10特性, 降低使用版本",
+    "createdAt": "2024-07-12T01:51:10Z",
+    "updatedAt": "2024-07-12T04:01:09Z",
+    "closedAt": "2024-07-12T02:16:45Z",
+    "mergedAt": "2024-07-12T02:16:45Z",
+    "state": "MERGED",
+    "author": {
+      "login": "helloteemo"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "feature/xiaohognshu_get_image"
+  },
+  {
+    "number": 330,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-07-11T15:48:02Z",
+    "updatedAt": "2024-08-26T12:14:41Z",
+    "closedAt": "2024-08-23T09:12:04Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 30,
+    "deletions": 30,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-3arQi9fWZX"
+  },
+  {
+    "number": 329,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-07-11T15:47:10Z",
+    "updatedAt": "2024-08-26T12:14:53Z",
+    "closedAt": "2024-07-11T15:47:47Z",
+    "mergedAt": "2024-07-11T15:47:47Z",
+    "state": "MERGED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 33,
+    "deletions": 19,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-yUSOLe6cr3"
+  },
+  {
+    "number": 328,
+    "title": "feature: 支持小红书图片、视频下载",
+    "createdAt": "2024-07-11T15:00:50Z",
+    "updatedAt": "2024-07-12T02:03:22Z",
+    "closedAt": "2024-07-11T15:46:54Z",
+    "mergedAt": "2024-07-11T15:46:54Z",
+    "state": "MERGED",
+    "author": {
+      "login": "helloteemo"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 153,
+    "deletions": 6,
+    "changedFiles": 5,
+    "baseRefName": "main",
+    "headRefName": "feature/xiaohognshu_get_image"
+  },
+  {
+    "number": 327,
+    "title": "feat: 小红书支持图片下载功能",
+    "createdAt": "2024-07-11T14:20:20Z",
+    "updatedAt": "2024-07-11T14:26:58Z",
+    "closedAt": "2024-07-11T14:26:58Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "helloteemo"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 154,
+    "deletions": 9,
+    "changedFiles": 5,
+    "baseRefName": "main",
+    "headRefName": "feature/xiaohognshu_get_image"
+  },
+  {
+    "number": 325,
+    "title": "fix: update outdated comment in base_config.py",
+    "createdAt": "2024-07-11T09:54:02Z",
+    "updatedAt": "2024-07-11T12:58:58Z",
+    "closedAt": "2024-07-11T12:58:58Z",
+    "mergedAt": "2024-07-11T12:58:58Z",
+    "state": "MERGED",
+    "author": {
+      "login": "3DRX"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "fix/update_config_comment"
+  },
+  {
+    "number": 323,
+    "title": "feat: 解决小红书图片水印问题",
+    "createdAt": "2024-07-11T09:26:43Z",
+    "updatedAt": "2024-07-12T04:01:01Z",
+    "closedAt": "2024-07-11T13:00:11Z",
+    "mergedAt": "2024-07-11T13:00:11Z",
+    "state": "MERGED",
+    "author": {
+      "login": "helloteemo"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 10,
+    "deletions": 1,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "fix/xiaohongshu_img"
+  },
+  {
+    "number": 319,
+    "title": "Update WordCloud Image related operation instructions document.",
+    "createdAt": "2024-06-27T13:38:51Z",
+    "updatedAt": "2024-06-27T14:26:27Z",
+    "closedAt": "2024-06-27T14:26:27Z",
+    "mergedAt": "2024-06-27T14:26:27Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Rosyrain"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 75,
+    "deletions": 9,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 318,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-06-26T15:04:25Z",
+    "updatedAt": "2024-08-26T12:14:54Z",
+    "closedAt": "2024-08-23T09:11:57Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 30,
+    "deletions": 30,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-JH1FK83Geb"
+  },
+  {
+    "number": 316,
+    "title": "修复无法采集小红书 creator IP 归属信息的问题",
+    "createdAt": "2024-06-26T03:58:47Z",
+    "updatedAt": "2024-06-26T15:04:13Z",
+    "closedAt": "2024-06-26T15:04:13Z",
+    "mergedAt": "2024-06-26T15:04:12Z",
+    "state": "MERGED",
+    "author": {
+      "login": "AragornJIA"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 314,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-06-24T14:25:10Z",
+    "updatedAt": "2024-08-26T12:14:56Z",
+    "closedAt": "2024-06-24T14:43:22Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 30,
+    "deletions": 30,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action--GK5GXDjES"
+  },
+  {
+    "number": 309,
+    "title": "test",
+    "createdAt": "2024-06-18T05:27:10Z",
+    "updatedAt": "2024-06-18T05:28:32Z",
+    "closedAt": "2024-06-18T05:28:31Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "enlia"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 50,
+    "deletions": 13,
+    "changedFiles": 6,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 307,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-06-16T16:26:08Z",
+    "updatedAt": "2024-08-26T12:14:56Z",
+    "closedAt": "2024-06-24T14:43:14Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 30,
+    "deletions": 30,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-ylLJTsTfU_"
+  },
+  {
+    "number": 306,
+    "title": "docs(contributor): contributors readme action update",
+    "createdAt": "2024-06-16T13:39:29Z",
+    "updatedAt": "2024-08-26T12:14:57Z",
+    "closedAt": "2024-06-16T13:41:09Z",
+    "mergedAt": "2024-06-16T13:41:09Z",
+    "state": "MERGED",
+    "author": {
+      "login": "github-actions"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 203,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "contributors-readme-action-_q_mUGF7yC"
+  },
+  {
+    "number": 303,
+    "title": "feat: base_config 增加抖音发布时间配置",
+    "createdAt": "2024-06-14T06:15:35Z",
+    "updatedAt": "2024-06-14T15:05:27Z",
+    "closedAt": "2024-06-14T15:05:27Z",
+    "mergedAt": "2024-06-14T15:05:27Z",
+    "state": "MERGED",
+    "author": {
+      "login": "522109452"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 7,
+    "deletions": 6,
+    "changedFiles": 3,
+    "baseRefName": "main",
+    "headRefName": "dev_dy_0614"
+  },
+  {
+    "number": 301,
+    "title": "添加快手指定创作者主页抓取视频、评论、二级评论的功能",
+    "createdAt": "2024-06-13T07:57:53Z",
+    "updatedAt": "2024-06-13T13:14:20Z",
+    "closedAt": "2024-06-13T13:14:20Z",
+    "mergedAt": "2024-06-13T13:14:20Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Hiro-Lin"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 401,
+    "deletions": 28,
+    "changedFiles": 12,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 300,
+    "title": "添加快手指定创作者主页抓取视频、评论、二级评论抓取的功能",
+    "createdAt": "2024-06-13T07:00:13Z",
+    "updatedAt": "2024-06-13T07:56:45Z",
+    "closedAt": "2024-06-13T07:56:45Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "Hiro-Lin"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 400,
+    "deletions": 28,
+    "changedFiles": 12,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 299,
+    "title": "fix: 修复抖音筛选发布时间和排序失效问题",
+    "createdAt": "2024-06-13T06:25:36Z",
+    "updatedAt": "2024-06-13T13:11:36Z",
+    "closedAt": "2024-06-13T13:11:20Z",
+    "mergedAt": "2024-06-13T13:11:20Z",
+    "state": "MERGED",
+    "author": {
+      "login": "522109452"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 12,
+    "deletions": 6,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "fix_dy_filter"
+  },
+  {
+    "number": 298,
+    "title": "Add third-party libraries and their versions for word cloud generation to the requirements.txt file.",
+    "createdAt": "2024-06-13T04:30:37Z",
+    "updatedAt": "2024-06-13T04:50:58Z",
+    "closedAt": "2024-06-13T04:50:57Z",
+    "mergedAt": "2024-06-13T04:50:57Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Rosyrain"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 3,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 295,
+    "title": "feat: support bilibili creator",
+    "createdAt": "2024-06-12T08:41:59Z",
+    "updatedAt": "2024-06-12T13:44:59Z",
+    "closedAt": "2024-06-12T13:44:59Z",
+    "mergedAt": "2024-06-12T13:44:59Z",
+    "state": "MERGED",
+    "author": {
+      "login": "nelzomal"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 57,
+    "deletions": 9,
+    "changedFiles": 5,
+    "baseRefName": "main",
+    "headRefName": "bili_creator"
+  },
+  {
+    "number": 294,
+    "title": "Add the functionality to generate word cloud images.",
+    "createdAt": "2024-06-12T07:41:20Z",
+    "updatedAt": "2024-06-12T13:53:55Z",
+    "closedAt": "2024-06-12T13:53:55Z",
+    "mergedAt": "2024-06-12T13:53:55Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Rosyrain"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 963,
+    "deletions": 40,
+    "changedFiles": 12,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 293,
+    "title": "add few more cmd args ",
+    "createdAt": "2024-06-12T02:35:53Z",
+    "updatedAt": "2024-06-12T13:41:20Z",
+    "closedAt": "2024-06-12T13:41:19Z",
+    "mergedAt": "2024-06-12T13:41:19Z",
+    "state": "MERGED",
+    "author": {
+      "login": "nelzomal"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 28,
+    "deletions": 3,
+    "changedFiles": 3,
+    "baseRefName": "main",
+    "headRefName": "add_more_arg"
+  },
+  {
+    "number": 292,
+    "title": "first try crawler",
+    "createdAt": "2024-06-09T15:48:51Z",
+    "updatedAt": "2024-06-09T15:51:22Z",
+    "closedAt": "2024-06-09T15:50:23Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "lucasgblu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 71,
+    "deletions": 3218,
+    "changedFiles": 38,
+    "baseRefName": "main",
+    "headRefName": "xhs_0609"
+  },
+  {
+    "number": 290,
+    "title": "improve base config reading command line arg logic",
+    "createdAt": "2024-06-09T08:27:54Z",
+    "updatedAt": "2024-06-12T02:38:58Z",
+    "closedAt": "2024-06-11T13:27:56Z",
+    "mergedAt": "2024-06-11T13:27:56Z",
+    "state": "MERGED",
+    "author": {
+      "login": "nelzomal"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 91,
+    "deletions": 139,
+    "changedFiles": 15,
+    "baseRefName": "main",
+    "headRefName": "base_config"
+  },
+  {
+    "number": 281,
+    "title": "feat: improve db config",
+    "createdAt": "2024-05-30T07:45:09Z",
+    "updatedAt": "2024-05-31T16:20:05Z",
+    "closedAt": "2024-05-31T16:20:05Z",
+    "mergedAt": "2024-05-31T16:20:05Z",
+    "state": "MERGED",
+    "author": {
+      "login": "nelzomal"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 13,
+    "deletions": 3,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "improve_db_config"
+  },
+  {
+    "number": 280,
+    "title": "feat: improve base config reading command line arg logic",
+    "createdAt": "2024-05-30T07:04:33Z",
+    "updatedAt": "2024-06-07T05:34:10Z",
+    "closedAt": "2024-06-07T05:34:10Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "nelzomal"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 406,
+    "deletions": 301,
+    "changedFiles": 15,
+    "baseRefName": "main",
+    "headRefName": "improve_config"
+  },
+  {
+    "number": 278,
+    "title": "抖音二级评论",
+    "createdAt": "2024-05-28T22:48:25Z",
+    "updatedAt": "2024-06-07T05:10:14Z",
+    "closedAt": "2024-06-07T05:04:18Z",
+    "mergedAt": "2024-06-07T05:04:18Z",
+    "state": "MERGED",
+    "author": {
+      "login": "ZuWard"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 45,
+    "deletions": 8,
+    "changedFiles": 3,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 276,
+    "title": "fix(weibo): weibo data regular",
+    "createdAt": "2024-05-28T07:14:42Z",
+    "updatedAt": "2024-05-28T13:37:32Z",
+    "closedAt": "2024-05-28T13:37:32Z",
+    "mergedAt": "2024-05-28T13:37:31Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Zzendrix"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 7,
+    "deletions": 2,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 273,
+    "title": "feat: support bilibili level two comment",
+    "createdAt": "2024-05-26T06:11:41Z",
+    "updatedAt": "2024-05-26T11:37:55Z",
+    "closedAt": "2024-05-26T07:34:28Z",
+    "mergedAt": "2024-05-26T07:34:28Z",
+    "state": "MERGED",
+    "author": {
+      "login": "nelzomal"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 111,
+    "deletions": 24,
+    "changedFiles": 3,
+    "baseRefName": "main",
+    "headRefName": "bili-level-two-comment"
+  },
+  {
+    "number": 265,
+    "title": "fix: 捕捉处理 ValueError 报错以及修改错字",
+    "createdAt": "2024-05-08T14:29:18Z",
+    "updatedAt": "2024-05-10T14:29:04Z",
+    "closedAt": "2024-05-10T14:28:37Z",
+    "mergedAt": "2024-05-10T14:28:37Z",
+    "state": "MERGED",
+    "author": {
+      "login": "leantli"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 43,
+    "deletions": 20,
+    "changedFiles": 5,
+    "baseRefName": "main",
+    "headRefName": "fix/value_error&typo"
+  },
+  {
+    "number": 255,
+    "title": "feat: 配置日志打印文件及行号",
+    "createdAt": "2024-04-27T04:18:32Z",
+    "updatedAt": "2024-04-27T05:18:13Z",
+    "closedAt": "2024-04-27T05:18:13Z",
+    "mergedAt": "2024-04-27T05:18:13Z",
+    "state": "MERGED",
+    "author": {
+      "login": "henryhyn"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 2,
+    "deletions": 2,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "feat/log_config"
+  },
+  {
+    "number": 254,
+    "title": "fix: f-string unmatch error",
+    "createdAt": "2024-04-26T15:47:44Z",
+    "updatedAt": "2024-04-26T15:58:43Z",
+    "closedAt": "2024-04-26T15:58:43Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "drgnchan"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 253,
+    "title": "新增id，解决同一天内的不同查询写入同一个文件的问题",
+    "createdAt": "2024-04-26T03:23:42Z",
+    "updatedAt": "2024-04-30T15:10:33Z",
+    "closedAt": "2024-04-30T15:10:16Z",
+    "mergedAt": "2024-04-30T15:10:16Z",
+    "state": "MERGED",
+    "author": {
+      "login": "kexinoh"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 84,
+    "deletions": 14,
+    "changedFiles": 5,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 252,
+    "title": "fix: 修复 f-string 双引号问题",
+    "createdAt": "2024-04-26T03:04:54Z",
+    "updatedAt": "2024-04-26T15:58:25Z",
+    "closedAt": "2024-04-26T15:58:25Z",
+    "mergedAt": "2024-04-26T15:58:25Z",
+    "state": "MERGED",
+    "author": {
+      "login": "henryhyn"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "fix/help-f-string"
+  },
+  {
+    "number": 251,
+    "title": "chore: 增加常见问题[小红书扫码登录成功后如何手动验证]",
+    "createdAt": "2024-04-25T08:25:05Z",
+    "updatedAt": "2024-05-10T14:29:35Z",
+    "closedAt": "2024-04-25T14:18:16Z",
+    "mergedAt": "2024-04-25T14:18:16Z",
+    "state": "MERGED",
+    "author": {
+      "login": "leantli"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 3,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "chore/add_frequency_qa"
+  },
+  {
+    "number": 250,
+    "title": "fix:兼容网页端上传的图片原图获取",
+    "createdAt": "2024-04-24T06:18:56Z",
+    "updatedAt": "2024-04-25T14:18:41Z",
+    "closedAt": "2024-04-25T14:18:41Z",
+    "mergedAt": "2024-04-25T14:18:41Z",
+    "state": "MERGED",
+    "author": {
+      "login": "bigfa"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 2,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "fixed-trace-id"
+  },
+  {
+    "number": 243,
+    "title": "02-01",
+    "createdAt": "2024-04-21T13:53:40Z",
+    "updatedAt": "2024-04-21T13:54:39Z",
+    "closedAt": "2024-04-21T13:54:39Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "XYdreamorigin"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 0,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "02"
+  },
+  {
+    "number": 242,
+    "title": "01-01",
+    "createdAt": "2024-04-21T13:53:07Z",
+    "updatedAt": "2024-04-21T13:54:52Z",
+    "closedAt": "2024-04-21T13:54:52Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "XYdreamorigin"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 0,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "01"
+  },
+  {
+    "number": 238,
+    "title": "Update 常见问题.md",
+    "createdAt": "2024-04-17T03:08:15Z",
+    "updatedAt": "2024-04-17T13:40:06Z",
+    "closedAt": "2024-04-17T13:40:06Z",
+    "mergedAt": "2024-04-17T13:40:06Z",
+    "state": "MERGED",
+    "author": {
+      "login": "keeper-jie"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 4,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "patch-1"
+  },
+  {
+    "number": 234,
+    "title": "fix: fix typo",
+    "createdAt": "2024-04-15T09:50:29Z",
+    "updatedAt": "2024-04-15T10:32:02Z",
+    "closedAt": "2024-04-15T10:31:58Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "leantli"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 2,
+    "deletions": 2,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "fix/typo"
+  },
+  {
+    "number": 229,
+    "title": "feat(core): 新增控制爬虫参数起始页面的页数start_page;perf(argparse): 向命令行解析器添加程序参数…",
+    "createdAt": "2024-04-11T16:54:52Z",
+    "updatedAt": "2024-04-13T05:37:39Z",
+    "closedAt": "2024-04-13T05:37:35Z",
+    "mergedAt": "2024-04-13T05:37:35Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Tianci-King"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 94,
+    "deletions": 40,
+    "changedFiles": 9,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 228,
+    "title": "feat(core): 新增控制爬虫参数起始页面的页数start_page;perf(argparse): 向命令行解析器添加程序参数…",
+    "createdAt": "2024-04-11T14:43:22Z",
+    "updatedAt": "2024-04-12T11:30:47Z",
+    "closedAt": "2024-04-11T16:27:25Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "Tianci-King"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 110,
+    "deletions": 158,
+    "changedFiles": 15,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 226,
+    "title": "feat: 支持爬取小红书二级评论",
+    "createdAt": "2024-04-11T09:29:12Z",
+    "updatedAt": "2024-04-13T03:40:54Z",
+    "closedAt": "2024-04-12T17:17:56Z",
+    "mergedAt": "2024-04-12T17:17:56Z",
+    "state": "MERGED",
+    "author": {
+      "login": "leantli"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "commits": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 65,
+    "deletions": 4,
+    "changedFiles": 6,
+    "baseRefName": "main",
+    "headRefName": "feat/sub_comments"
+  },
+  {
+    "number": 224,
+    "title": "docs: 恢复文档中误删的字",
+    "createdAt": "2024-04-09T15:08:42Z",
+    "updatedAt": "2024-04-09T15:14:20Z",
+    "closedAt": "2024-04-09T15:14:14Z",
+    "mergedAt": "2024-04-09T15:14:14Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Klu5ure"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 2,
+    "deletions": 2,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 223,
+    "title": "新增对微博博客内照片获取的支持 文件存放路径data/weibo/images",
+    "createdAt": "2024-04-09T09:29:13Z",
+    "updatedAt": "2024-04-10T16:11:13Z",
+    "closedAt": "2024-04-10T16:11:04Z",
+    "mergedAt": "2024-04-10T16:11:04Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Ermeng98"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "commits": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 118,
+    "deletions": 10,
+    "changedFiles": 8,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 217,
+    "title": "docs: 修改错别字",
+    "createdAt": "2024-04-07T15:06:13Z",
+    "updatedAt": "2024-04-08T17:12:30Z",
+    "closedAt": "2024-04-07T15:11:19Z",
+    "mergedAt": "2024-04-07T15:11:19Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Klu5ure"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 7,
+    "deletions": 7,
+    "changedFiles": 4,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 216,
+    "title": "数据存储DB重构，移除tortoise-orm依赖",
+    "createdAt": "2024-04-06T14:21:02Z",
+    "updatedAt": "2024-08-26T12:14:59Z",
+    "closedAt": "2024-04-06T14:21:30Z",
+    "mergedAt": "2024-04-06T14:21:30Z",
+    "state": "MERGED",
+    "author": {
+      "login": "NanmiCoder"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 813,
+    "deletions": 149,
+    "changedFiles": 15,
+    "baseRefName": "main",
+    "headRefName": "feature/refactor_db"
+  },
+  {
+    "number": 214,
+    "title": "Merge",
+    "createdAt": "2024-04-06T07:22:22Z",
+    "updatedAt": "2024-04-06T07:23:07Z",
+    "closedAt": "2024-04-06T07:23:07Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "McDj26"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 903,
+    "deletions": 96,
+    "changedFiles": 95,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 213,
+    "title": "chore: fix wrong log output when weibo crawler finished",
+    "createdAt": "2024-04-05T16:42:47Z",
+    "updatedAt": "2024-04-05T16:51:36Z",
+    "closedAt": "2024-04-05T16:51:36Z",
+    "mergedAt": "2024-04-05T16:51:36Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Styunlen"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "patch-1"
+  },
+  {
+    "number": 212,
+    "title": "Remove duplication Qrcode Show",
+    "createdAt": "2024-04-05T13:25:13Z",
+    "updatedAt": "2024-04-05T14:02:07Z",
+    "closedAt": "2024-04-05T14:02:06Z",
+    "mergedAt": "2024-04-05T14:02:06Z",
+    "state": "MERGED",
+    "author": {
+      "login": "chunpat"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 0,
+    "deletions": 3,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "fixbug_qrcode_show"
+  },
+  {
+    "number": 209,
+    "title": "chore: 修改错别字",
+    "createdAt": "2024-04-04T09:39:10Z",
+    "updatedAt": "2024-04-04T10:11:43Z",
+    "closedAt": "2024-04-04T10:11:42Z",
+    "mergedAt": "2024-04-04T10:11:42Z",
+    "state": "MERGED",
+    "author": {
+      "login": "xbsheng"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "chore/text"
+  },
+  {
+    "number": 206,
+    "title": "fix: 修复爬取视频/帖子最大数设置值较低导致不爬取的问题",
+    "createdAt": "2024-04-03T04:20:48Z",
+    "updatedAt": "2024-04-03T16:53:50Z",
+    "closedAt": "2024-04-03T16:46:42Z",
+    "mergedAt": "2024-04-03T16:46:42Z",
+    "state": "MERGED",
+    "author": {
+      "login": "leantli"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 13,
+    "deletions": 3,
+    "changedFiles": 5,
+    "baseRefName": "main",
+    "headRefName": "fix/max_notes_count"
+  },
+  {
+    "number": 202,
+    "title": "Update playwright version for compiling",
+    "createdAt": "2024-04-01T12:30:00Z",
+    "updatedAt": "2024-04-04T05:12:50Z",
+    "closedAt": "2024-04-04T05:12:50Z",
+    "mergedAt": "2024-04-04T05:12:50Z",
+    "state": "MERGED",
+    "author": {
+      "login": "zhihuiio"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 2,
+    "deletions": 2,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "patch-1"
+  },
+  {
+    "number": 201,
+    "title": "Update README.md",
+    "createdAt": "2024-03-30T10:31:05Z",
+    "updatedAt": "2024-03-31T06:40:11Z",
+    "closedAt": "2024-03-31T06:40:11Z",
+    "mergedAt": "2024-03-31T06:40:11Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Schofi"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 184,
+    "title": "add video_download ",
+    "createdAt": "2024-03-19T15:41:50Z",
+    "updatedAt": "2024-03-19T17:42:30Z",
+    "closedAt": "2024-03-19T17:31:58Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "zwq2018"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "commits": {
+      "totalCount": 161
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 183,
+    "title": "fix ： 修复”常见问题.md“",
+    "createdAt": "2024-03-19T15:06:06Z",
+    "updatedAt": "2024-03-19T15:13:34Z",
+    "closedAt": "2024-03-19T15:13:34Z",
+    "mergedAt": "2024-03-19T15:13:34Z",
+    "state": "MERGED",
+    "author": {
+      "login": "BaoZhuhan"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 12,
+    "deletions": 12,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "fix-markdown"
+  },
+  {
+    "number": 182,
+    "title": "fix: 修复了“常见问题.md\"的语法问题。",
+    "createdAt": "2024-03-19T14:45:06Z",
+    "updatedAt": "2024-03-19T14:51:46Z",
+    "closedAt": "2024-03-19T14:51:45Z",
+    "mergedAt": "2024-03-19T14:51:45Z",
+    "state": "MERGED",
+    "author": {
+      "login": "BaoZhuhan"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 12,
+    "deletions": 12,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "fix-markdown"
+  },
+  {
+    "number": 177,
+    "title": "fix：微博评论抓取失败",
+    "createdAt": "2024-03-19T08:30:57Z",
+    "updatedAt": "2024-03-19T17:31:58Z",
+    "closedAt": "2024-03-19T17:31:58Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "ly1327"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "commits": {
+      "totalCount": 152
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 7,
+    "deletions": 3,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "brc_adai"
+  },
+  {
+    "number": 157,
+    "title": "first time commit",
+    "createdAt": "2024-03-17T00:11:50Z",
+    "updatedAt": "2024-03-17T00:13:20Z",
+    "closedAt": "2024-03-17T00:13:20Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "xixiyu008"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 2,
+    "deletions": 0,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 142,
+    "title": "小红书支持通过博主ID采集笔记和评论",
+    "createdAt": "2024-03-02T08:12:30Z",
+    "updatedAt": "2024-03-17T06:55:26Z",
+    "closedAt": "2024-03-02T15:30:31Z",
+    "mergedAt": "2024-03-02T15:30:31Z",
+    "state": "MERGED",
+    "author": {
+      "login": "jayeeliu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "commits": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 244,
+    "deletions": 2,
+    "changedFiles": 8,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 137,
+    "title": "feat: 支持小红书子评论（楼中楼）",
+    "createdAt": "2024-02-23T08:05:08Z",
+    "updatedAt": "2024-02-26T15:50:00Z",
+    "closedAt": "2024-02-26T15:50:00Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "zyzshishui"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 32,
+    "deletions": 0,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 136,
+    "title": "增加sqlite配置示例，解决用sqlite保存数据时，抓取结束不退出的问题",
+    "createdAt": "2024-02-21T16:14:45Z",
+    "updatedAt": "2024-02-22T13:32:19Z",
+    "closedAt": "2024-02-22T13:32:19Z",
+    "mergedAt": "2024-02-22T13:32:19Z",
+    "state": "MERGED",
+    "author": {
+      "login": "jayeeliu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 8,
+    "deletions": 0,
+    "changedFiles": 3,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 124,
+    "title": "修复小红书评论重复插入",
+    "createdAt": "2024-01-25T05:01:25Z",
+    "updatedAt": "2024-01-25T06:33:19Z",
+    "closedAt": "2024-01-25T06:33:09Z",
+    "mergedAt": "2024-01-25T06:33:09Z",
+    "state": "MERGED",
+    "author": {
+      "login": "aa65535"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "patch-1"
+  },
+  {
+    "number": 112,
+    "title": "refactor: 重构数据存储代码，新增jSON",
+    "createdAt": "2024-01-14T14:44:02Z",
+    "updatedAt": "2024-03-19T17:22:37Z",
+    "closedAt": "2024-01-14T14:45:00Z",
+    "mergedAt": "2024-01-14T14:45:00Z",
+    "state": "MERGED",
+    "author": {
+      "login": "NanmiCoder"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1690,
+    "deletions": 864,
+    "changedFiles": 38,
+    "baseRefName": "main",
+    "headRefName": "feature/stored_in_json"
+  },
+  {
+    "number": 96,
+    "title": "fix-bug:修复抖音评论筛选",
+    "createdAt": "2023-12-13T16:56:16Z",
+    "updatedAt": "2023-12-13T16:57:17Z",
+    "closedAt": "2023-12-13T16:57:17Z",
+    "mergedAt": "2023-12-13T16:57:17Z",
+    "state": "MERGED",
+    "author": {
+      "login": "PeanutSplash"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 4,
+    "deletions": 2,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 94,
+    "title": "添加功能:(哔哩哔哩,快手,小红书)每个视频/帖子抓取评论最大条数限制,评论关键词筛选",
+    "createdAt": "2023-12-13T15:56:29Z",
+    "updatedAt": "2023-12-13T16:01:44Z",
+    "closedAt": "2023-12-13T16:01:44Z",
+    "mergedAt": "2023-12-13T16:01:44Z",
+    "state": "MERGED",
+    "author": {
+      "login": "PeanutSplash"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 67,
+    "deletions": 15,
+    "changedFiles": 5,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 89,
+    "title": "添加功能:抖音每个视频抓取评论最大条数限制,抖音评论关键词筛选",
+    "createdAt": "2023-12-05T03:23:59Z",
+    "updatedAt": "2023-12-05T16:25:59Z",
+    "closedAt": "2023-12-05T04:42:33Z",
+    "mergedAt": "2023-12-05T04:42:32Z",
+    "state": "MERGED",
+    "author": {
+      "login": "PeanutSplash"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 59,
+    "deletions": 17,
+    "changedFiles": 3,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 82,
+    "title": "快手视频、评论爬取支持",
+    "createdAt": "2023-11-26T13:44:29Z",
+    "updatedAt": "2023-11-26T13:45:26Z",
+    "closedAt": "2023-11-26T13:44:36Z",
+    "mergedAt": "2023-11-26T13:44:36Z",
+    "state": "MERGED",
+    "author": {
+      "login": "NanmiCoder"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 6
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 906,
+    "deletions": 15,
+    "changedFiles": 17,
+    "baseRefName": "main",
+    "headRefName": "feat/kuaishou_support"
+  },
+  {
+    "number": 74,
+    "title": "fix null key",
+    "createdAt": "2023-11-18T06:58:36Z",
+    "updatedAt": "2023-11-18T07:05:17Z",
+    "closedAt": "2023-11-18T07:05:17Z",
+    "mergedAt": "2023-11-18T07:05:17Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Akiqqqqqqq"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 0,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "bugfix-null-key"
+  },
+  {
+    "number": 73,
+    "title": "fix null key",
+    "createdAt": "2023-11-14T13:13:56Z",
+    "updatedAt": "2023-11-18T05:44:09Z",
+    "closedAt": "2023-11-18T02:36:43Z",
+    "mergedAt": "2023-11-18T02:36:43Z",
+    "state": "MERGED",
+    "author": {
+      "login": "Akiqqqqqqq"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 59,
+    "deletions": 5,
+    "changedFiles": 2,
+    "baseRefName": "feat/api_search",
+    "headRefName": "bugfix-null-key"
+  },
+  {
+    "number": 64,
+    "title": "feat: add article url for issue #63",
+    "createdAt": "2023-11-05T07:27:39Z",
+    "updatedAt": "2023-11-05T07:28:18Z",
+    "closedAt": "2023-11-05T07:28:10Z",
+    "mergedAt": "2023-11-05T07:28:10Z",
+    "state": "MERGED",
+    "author": {
+      "login": "NanmiCoder"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 4,
+    "deletions": 0,
+    "changedFiles": 2,
+    "baseRefName": "main",
+    "headRefName": "feat/article_url"
+  },
+  {
+    "number": 40,
+    "title": "fix: get phone from phone pool when ENABLE_IP_PROXY is False",
+    "createdAt": "2023-08-31T06:04:24Z",
+    "updatedAt": "2023-08-31T13:09:07Z",
+    "closedAt": "2023-08-31T13:09:07Z",
+    "mergedAt": "2023-08-31T13:09:07Z",
+    "state": "MERGED",
+    "author": {
+      "login": "yangrq1018"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 3,
+    "deletions": 3,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "pr"
+  },
+  {
+    "number": 32,
+    "title": "orm添加Pydantic数据验证",
+    "createdAt": "2023-08-13T15:01:48Z",
+    "updatedAt": "2023-08-14T01:32:49Z",
+    "closedAt": "2023-08-14T01:32:49Z",
+    "mergedAt": "2023-08-14T01:32:49Z",
+    "state": "MERGED",
+    "author": {
+      "login": "renaissancezyc"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 40,
+    "deletions": 9,
+    "changedFiles": 3,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 24,
+    "title": "去掉搜索结果列表中的推荐搜索词（mode_type in ['rec_query', 'hot_query']）",
+    "createdAt": "2023-08-01T02:34:51Z",
+    "updatedAt": "2023-08-01T05:35:01Z",
+    "closedAt": "2023-08-01T05:35:01Z",
+    "mergedAt": "2023-08-01T05:35:01Z",
+    "state": "MERGED",
+    "author": {
+      "login": "jayeeliu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 18,
+    "title": "typo(field.py): words \"normal\" typo",
+    "createdAt": "2023-07-23T05:26:22Z",
+    "updatedAt": "2023-07-23T06:30:19Z",
+    "closedAt": "2023-07-23T06:30:19Z",
+    "mergedAt": "2023-07-23T06:30:19Z",
+    "state": "MERGED",
+    "author": {
+      "login": "tanpenggood"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "main",
+    "headRefName": "typo-sam-20230723"
+  },
+  {
+    "number": 10,
+    "title": "添加http-server",
+    "createdAt": "2023-06-30T00:12:18Z",
+    "updatedAt": "2023-06-30T12:10:14Z",
+    "closedAt": "2023-06-30T12:10:14Z",
+    "mergedAt": null,
+    "state": "CLOSED",
+    "author": {
+      "login": "Minry"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 89,
+    "deletions": 8,
+    "changedFiles": 4,
+    "baseRefName": "main",
+    "headRefName": "main"
+  },
+  {
+    "number": 4,
+    "title": "handby&catch exception",
+    "createdAt": "2023-06-17T07:24:55Z",
+    "updatedAt": "2023-06-17T07:33:05Z",
+    "closedAt": "2023-06-17T07:33:05Z",
+    "mergedAt": "2023-06-17T07:33:05Z",
+    "state": "MERGED",
+    "author": {
+      "login": "wjw136"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "commits": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "additions": 25,
+    "deletions": 9,
+    "changedFiles": 3,
+    "baseRefName": "main",
+    "headRefName": "main"
+  }
+]

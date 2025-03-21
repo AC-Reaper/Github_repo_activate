@@ -1,0 +1,26 @@
+{
+  "period": "近 3650 天",
+  "since_date": "2015-03-24T20:38:54.715537",
+  "commit_count": 453,
+  "direct_push_count": 253,
+  "force_push_count": 0,
+  "branch_count": 1,
+  "branch_created_count": 0,
+  "branch_deleted_count": 0,
+  "pull_request_event_count": 0,
+  "issue_event_count": 2,
+  "active_branches": [
+    {
+      "name": "master",
+      "last_commit": "unknown",
+      "last_commit_sha": "unknown"
+    },
+    {
+      "name": "main",
+      "last_commit": null,
+      "last_commit_sha": "8030d2a02f92a76fef7312b63ab290dbc098b5ac"
+    }
+  ],
+  "force_pushes": [],
+  "recent_branch_creations": []
+}

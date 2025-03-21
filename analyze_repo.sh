@@ -10,8 +10,8 @@
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PYTHON_SCRIPT="main.py"  # 主入口文件
 DEFAULT_TOKEN="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"  # 设置您的默认GitHub Token
-DEFAULT_OWNER="google"
-DEFAULT_REPO="benchmark"
+DEFAULT_OWNER="NanmiCoder"
+DEFAULT_REPO="MediaCrawler"
 LOG_FILE="github_analyzer_$(date +%Y%m%d_%H%M%S).log"
 REPO_LIST_FILE=""
 DATA_DIR="github_data"

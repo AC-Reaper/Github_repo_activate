@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "owner": "NanmiCoder",
+    "repo": "MediaCrawler",
+    "collected_at": "2025-03-21T20:46:59.696013",
+    "category_counts": {
+      "commits": 453,
+      "issues": 398,
+      "pull_requests": 135,
+      "branches": 1,
+      "detailed_events": 295,
+      "force_pushes": 0,
+      "direct_pushes": 253,
+      "stargazers": 20984
+    }
+  },
+  "overview": {
+    "id": "R_kgDOJtVdAQ",
+    "name": "MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "createdAt": "2023-06-09T12:14:34Z",
+    "updatedAt": "2025-03-21T11:27:01Z",
+    "pushedAt": "2025-03-13T07:08:04Z",
+    "homepageUrl": "https://nanmicoder.github.io/MediaCrawler/",
+    "primaryLanguage": {
+      "name": "Python",
+      "color": "#3572A5"
+    },
+    "diskUsage": 19845,
+    "forkCount": 6102,
+    "stargazerCount": 20985,
+    "watchers": {
+      "totalCount": 118
+    },
+    "languages": {
+      "edges": [
+        {
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          },
+          "size": 2229404
+        }
+      ],
+      "totalSize": 2229404
+    },
+    "licenseInfo": {
+      "name": "Other",
+      "spdxId": "NOASSERTION",
+      "url": "http://choosealicense.com/licenses/other/"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "history": {
+          "totalCount": 453
+        }
+      }
+    },
+    "issues": {
+      "totalCount": 398
+    },
+    "openIssues": {
+      "totalCount": 59
+    },
+    "pullRequests": {
+      "totalCount": 135
+    },
+    "openPullRequests": {
+      "totalCount": 0
+    },
+    "releases": {
+      "totalCount": 0
+    },
+    "repositoryTopics": {
+      "edges": []
+    }
+  },
+  "activity_summary": {
+    "period": "近 3650 天",
+    "since_date": "2015-03-24T20:38:54.715537",
+    "commit_count": 453,
+    "direct_push_count": 253,
+    "force_push_count": 0,
+    "branch_count": 1,
+    "branch_created_count": 0,
+    "branch_deleted_count": 0,
+    "pull_request_event_count": 0,
+    "issue_event_count": 2,
+    "active_branches": [
+      {
+        "name": "master",
+        "last_commit": "unknown",
+        "last_commit_sha": "unknown"
+      },
+      {
+        "name": "main",
+        "last_commit": null,
+        "last_commit_sha": "8030d2a02f92a76fef7312b63ab290dbc098b5ac"
+      }
+    ],
+    "force_pushes": [],
+    "recent_branch_creations": []
+  }
+}

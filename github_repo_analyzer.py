@@ -175,7 +175,23 @@ class GitHubRepoAnalyzer:
 		query RepoOverview($owner: String!, $name: String!) {
 		  repository(owner: $owner, name: $name) {
 			id
+			node_id
 			name
+			full_name
+			isPrivate
+			isFork
+			owner {
+			  login
+			  avatarUrl
+			  url
+			  bio
+			  company
+			  location
+			  email
+			  createdAt
+			  avatarUrl
+			  url
+			}
 			description
 			url
 			createdAt
@@ -189,6 +205,7 @@ class GitHubRepoAnalyzer:
 			
 			# 基本统计
 			diskUsage
+			
 			forkCount
 			stargazerCount
 			watchers {
@@ -928,9 +945,7 @@ class GitHubRepoAnalyzer:
 		"""
 		print("\n=== 获取贡献者 ===")
 		
-		# 利用优化后的get_commit_history获取提交历史
-		# 此方法会自动处理缓存和数据获取
-		commit_history = self.get_commit_history(max_items=1000)  # 获取足够的提交历史用于分析
+		commit_history = self.get_commit_history(max_items=0)
 		
 		print(f"分析 {len(commit_history)} 次提交来获取贡献者信息")
 		

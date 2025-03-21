@@ -1,0 +1,9961 @@
+[
+  {
+    "number": 569,
+    "title": "[问题] 微博爬取转发",
+    "createdAt": "2025-03-15T03:07:33Z",
+    "updatedAt": "2025-03-15T03:07:33Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Apple1203"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 568,
+    "title": "[BUG] 想以--creator(创作者主页数据)类型爬取数据，报错media_platform.weibo.exception.DataFetchError: get containerid failed",
+    "createdAt": "2025-03-11T13:02:03Z",
+    "updatedAt": "2025-03-11T13:02:03Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Mintbo"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 567,
+    "title": "一个简单的爬虫，最开始的源代码，但是似乎得到的结果有问题。本来没有请求头也是这个结果，请求头的作用似乎没有发挥出，请问怎么解决",
+    "createdAt": "2025-03-11T12:44:18Z",
+    "updatedAt": "2025-03-13T07:11:44Z",
+    "closedAt": "2025-03-13T07:11:44Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "chenshaohang583"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 566,
+    "title": "[问题] 因为在远程服务器上使用，所有设置headless == True ,但是遇到下面的问题,",
+    "createdAt": "2025-03-10T06:19:38Z",
+    "updatedAt": "2025-03-11T11:23:51Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "wjd-322418"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 565,
+    "title": "aweme_type 类型含义",
+    "createdAt": "2025-03-03T11:46:56Z",
+    "updatedAt": "2025-03-03T11:46:56Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Bugliiiiii"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 564,
+    "title": "[BUG] 知乎爬取数据如果为文章，db中存储的content_url会出现不一致的情况",
+    "createdAt": "2025-03-03T09:23:02Z",
+    "updatedAt": "2025-03-03T10:19:00Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "QinJun-IOC"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 563,
+    "title": "[问题]",
+    "createdAt": "2025-03-02T14:58:33Z",
+    "updatedAt": "2025-03-03T06:44:32Z",
+    "closedAt": "2025-03-03T06:44:30Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Susiexcellent"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 562,
+    "title": "无法识别“Z”",
+    "createdAt": "2025-03-02T12:38:14Z",
+    "updatedAt": "2025-03-03T06:44:11Z",
+    "closedAt": "2025-03-03T06:44:11Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Susiexcellent"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 560,
+    "title": "[问题]",
+    "createdAt": "2025-03-02T02:57:20Z",
+    "updatedAt": "2025-03-03T14:54:08Z",
+    "closedAt": "2025-03-03T06:44:50Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "chenshaohang583"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 558,
+    "title": "[问题] 微博爬取评论数据返回302",
+    "createdAt": "2025-02-26T06:29:23Z",
+    "updatedAt": "2025-02-26T06:47:36Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "2368001770"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 555,
+    "title": "[BUG] 小红书手机号登录显示“已超过今天发送短信次数的限制”",
+    "createdAt": "2025-02-22T14:20:07Z",
+    "updatedAt": "2025-03-03T06:48:12Z",
+    "closedAt": "2025-03-03T06:48:12Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "reidwillbecomeeconomist"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 554,
+    "title": "[NOT BUG] tools.utils.init_logging_config() 拼写错误",
+    "createdAt": "2025-02-22T13:46:32Z",
+    "updatedAt": "2025-02-22T13:46:32Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Arielwithoutoven"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 553,
+    "title": "爬取知乎，出现playwright.impl.error",
+    "createdAt": "2025-02-21T15:46:55Z",
+    "updatedAt": "2025-03-03T06:48:41Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "ChloeC857"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 552,
+    "title": "[问题]我想爬取一个视频的所有评论，但是运行代码后只能爬取三十几个评论。而且二级评论也没有爬取",
+    "createdAt": "2025-02-21T05:18:53Z",
+    "updatedAt": "2025-02-21T05:20:01Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "khan414414"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 551,
+    "title": "[问题] 有直播间的评论等信息爬取功能嘛？",
+    "createdAt": "2025-02-19T02:13:01Z",
+    "updatedAt": "2025-02-20T15:00:32Z",
+    "closedAt": "2025-02-20T15:00:30Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "yuqiu11"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 550,
+    "title": "[问题] 小红书爬评论失败",
+    "createdAt": "2025-02-16T16:04:09Z",
+    "updatedAt": "2025-02-20T15:00:55Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "PhilGong96"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        },
+        {
+          "node": {
+            "name": "风控问题不处理",
+            "color": "fbca04"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 549,
+    "title": "[问题] 想更换账号但是没有找到browser_data文件夹？",
+    "createdAt": "2025-02-16T12:37:25Z",
+    "updatedAt": "2025-02-18T11:07:31Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "SonyaXu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 545,
+    "title": "[问题] 目前dy无法爬取二级评论吗？只能计算二级评论的个数",
+    "createdAt": "2025-02-01T09:08:58Z",
+    "updatedAt": "2025-02-01T09:16:10Z",
+    "closedAt": "2025-02-01T09:16:10Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "2Gu-zicheng"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 544,
+    "title": "小红书用户主页爬取是否支持从上一次中断的地方继续爬取？",
+    "createdAt": "2025-01-21T08:33:52Z",
+    "updatedAt": "2025-03-16T07:17:33Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "dbcooper7z"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 543,
+    "title": "请问可以支持tiktok爬取吗？",
+    "createdAt": "2025-01-21T01:09:26Z",
+    "updatedAt": "2025-01-22T05:48:09Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "lzj960515"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 541,
+    "title": "抖音爬取指定作品的评论遇到了2025-01-18 14:00:38 MediaCrawler ERROR (core.py:150) - [DouYinCrawler.get_aweme_detail] Get aweme detail error: account blocked,",
+    "createdAt": "2025-01-18T06:36:31Z",
+    "updatedAt": "2025-01-20T11:30:58Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "1301633938"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        },
+        {
+          "node": {
+            "name": "风控问题不处理",
+            "color": "fbca04"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 540,
+    "title": "请问开启了小红书一级评论抓取后，在终端中又打印出来，但是最终数据保存只有根据关键词抓取的帖子内容该怎么办？",
+    "createdAt": "2025-01-17T11:22:47Z",
+    "updatedAt": "2025-01-20T07:22:42Z",
+    "closedAt": "2025-01-20T07:22:42Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Zoey-xc"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 539,
+    "title": "[问题]",
+    "createdAt": "2025-01-17T11:17:47Z",
+    "updatedAt": "2025-01-17T11:18:16Z",
+    "closedAt": "2025-01-17T11:18:16Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Zoey-xc"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 535,
+    "title": "由于获取max_id为None时，导致触发'>' not supported between instances of 'NoneType' and 'int'错误的修复意见",
+    "createdAt": "2025-01-10T05:26:55Z",
+    "updatedAt": "2025-01-10T06:39:34Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "2513502304"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 534,
+    "title": "请问知乎回答现在可以正常采集吗",
+    "createdAt": "2025-01-08T10:47:08Z",
+    "updatedAt": "2025-02-21T15:22:39Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "xiaohanhahaha"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 533,
+    "title": "请问一下爬取评论是按照时间顺序还是热度的顺序爬取的？",
+    "createdAt": "2025-01-08T09:26:46Z",
+    "updatedAt": "2025-01-20T06:56:30Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Alanhahaer"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 532,
+    "title": "求助，get_a_bogus提示语法错误",
+    "createdAt": "2025-01-08T00:04:33Z",
+    "updatedAt": "2025-01-09T13:12:37Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Schwimmer"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 531,
+    "title": "xhs有办法爬取搜索关键词下，最新的内容吗？",
+    "createdAt": "2025-01-06T09:28:32Z",
+    "updatedAt": "2025-01-15T08:23:03Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "S1E9"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 530,
+    "title": "小红书现在扫码登录失效了，请问这是为什么呢",
+    "createdAt": "2025-01-04T03:16:43Z",
+    "updatedAt": "2025-01-16T10:18:11Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Tony2048Cao"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 529,
+    "title": "小红书获取主页数据的时候，用户个人简要信息获取不到",
+    "createdAt": "2024-12-29T08:03:03Z",
+    "updatedAt": "2024-12-29T08:05:33Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "GithubLinfuxi"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 527,
+    "title": "ip获取",
+    "createdAt": "2024-12-26T10:42:49Z",
+    "updatedAt": "2024-12-27T09:35:05Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "ChenWenlon"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 526,
+    "title": "爬取得到的 json ，可以给一个参数说明嘛",
+    "createdAt": "2024-12-26T09:02:21Z",
+    "updatedAt": "2025-01-02T12:32:43Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Dream-ming"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 525,
+    "title": "无论是爬取什么都无法成功",
+    "createdAt": "2024-12-19T17:39:04Z",
+    "updatedAt": "2024-12-24T12:39:55Z",
+    "closedAt": "2024-12-24T12:39:55Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "mytechdream"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 524,
+    "title": "爬取抖音数据最多爬取25页，超过后无法获取数据",
+    "createdAt": "2024-12-18T08:45:07Z",
+    "updatedAt": "2024-12-25T12:19:10Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Bugliiiiii"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "风控问题不处理",
+            "color": "fbca04"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 523,
+    "title": "python main.py --help出现错误 求解答",
+    "createdAt": "2024-12-17T16:40:17Z",
+    "updatedAt": "2024-12-25T12:18:54Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "SamWang8888"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 522,
+    "title": "xhs 获取作者信息失败",
+    "createdAt": "2024-12-16T04:41:52Z",
+    "updatedAt": "2024-12-25T12:18:41Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "hezhenfan"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "风控问题不处理",
+            "color": "fbca04"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 520,
+    "title": "快手关键词搜索只能搜到220条",
+    "createdAt": "2024-12-11T02:53:13Z",
+    "updatedAt": "2025-02-09T06:16:19Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "wmm1130"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 518,
+    "title": "python main.py --platform xhs --lt qrcode --type search 命令行执行时缺少库  import httpx ModuleNotFoundError: No module named 'httpx'",
+    "createdAt": "2024-12-09T13:50:18Z",
+    "updatedAt": "2024-12-25T12:19:29Z",
+    "closedAt": "2024-12-25T12:19:29Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "dannishushu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 517,
+    "title": "知乎爬虫 Request error: {\"error\":{\"code\":101,\"name\":\"AuthenticationError\",\"message\":\"ZERR_NOT_LOGIN\"}}",
+    "createdAt": "2024-12-09T09:16:03Z",
+    "updatedAt": "2025-01-02T03:34:47Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Once2gain"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 515,
+    "title": "现在有什么办法手动更新IP池吗？",
+    "createdAt": "2024-12-07T07:15:55Z",
+    "updatedAt": "2024-12-25T12:22:01Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "cresstoo"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 514,
+    "title": "运行到notes_res = await self.xhs_client.get_note_by_keyword的API请求时，RetryError",
+    "createdAt": "2024-12-06T14:58:05Z",
+    "updatedAt": "2024-12-25T12:27:54Z",
+    "closedAt": "2024-12-25T12:27:54Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "dannishushu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 512,
+    "title": "这种方式获取x-s会失效吗",
+    "createdAt": "2024-12-05T10:02:49Z",
+    "updatedAt": "2024-12-10T05:55:57Z",
+    "closedAt": "2024-12-10T05:55:57Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "hezhenfan"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 511,
+    "title": "请问为什么除了快手外，其他平台都会存储创作者信息",
+    "createdAt": "2024-12-05T08:29:01Z",
+    "updatedAt": "2024-12-06T06:59:19Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Linxuer"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 510,
+    "title": "关于小红书的“访问链接异常”",
+    "createdAt": "2024-12-03T11:02:59Z",
+    "updatedAt": "2024-12-25T12:22:11Z",
+    "closedAt": "2024-12-25T12:22:11Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "maverick4774"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 508,
+    "title": "小红书爬取 访问链接异常  ",
+    "createdAt": "2024-11-30T14:39:52Z",
+    "updatedAt": "2024-11-30T17:21:16Z",
+    "closedAt": "2024-11-30T17:21:15Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "AJCKBB6324"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "风控问题不处理",
+            "color": "fbca04"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 507,
+    "title": "小红书的xsec_token如何获取",
+    "createdAt": "2024-11-30T10:54:28Z",
+    "updatedAt": "2024-11-30T17:20:36Z",
+    "closedAt": "2024-11-30T17:20:36Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xzy222"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "invalid",
+            "color": "e4e669"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 505,
+    "title": "小红书详情获取不了评论了，报 “访问链接异常” 了",
+    "createdAt": "2024-11-28T12:10:36Z",
+    "updatedAt": "2024-12-03T10:36:23Z",
+    "closedAt": "2024-11-30T17:21:26Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "comdotwang162"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 7
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "风控问题不处理",
+            "color": "fbca04"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 504,
+    "title": "爬取指定微博账号的信息出错",
+    "createdAt": "2024-11-28T09:53:50Z",
+    "updatedAt": "2024-11-29T02:44:44Z",
+    "closedAt": "2024-11-29T02:44:44Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "JianxunRao"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 503,
+    "title": "请问大家快手爬取评论的时候，一直循环同样的日志信息。求助求助",
+    "createdAt": "2024-11-27T10:18:51Z",
+    "updatedAt": "2024-11-29T02:15:04Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "DLUTSSL"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "待确认",
+            "color": "bfd4f2"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 501,
+    "title": "怎么选定时间段进行微博数据的爬取",
+    "createdAt": "2024-11-27T01:23:31Z",
+    "updatedAt": "2025-01-10T04:04:18Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Application28"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 500,
+    "title": "playwright报错 Cannot read properties of undefined (reading '2')：爬取dy数据，打开自动控制的chrome数秒后自动关闭报错。",
+    "createdAt": "2024-11-26T18:18:20Z",
+    "updatedAt": "2024-11-29T02:24:09Z",
+    "closedAt": "2024-11-29T02:24:09Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Isaac-Jin"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 499,
+    "title": "Help for config",
+    "createdAt": "2024-11-21T12:33:27Z",
+    "updatedAt": "2024-11-28T12:50:28Z",
+    "closedAt": "2024-11-28T03:41:27Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ChloeC857"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 498,
+    "title": "快手 creator模式 爬一下就会connect timeout",
+    "createdAt": "2024-11-21T11:20:41Z",
+    "updatedAt": "2024-11-29T02:16:24Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Ja5onYng"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "待确认",
+            "color": "bfd4f2"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 497,
+    "title": "raise ProgramError(value) execjs._exceptions.ProgramError: SyntaxError: 缺少 ')'",
+    "createdAt": "2024-11-20T13:25:15Z",
+    "updatedAt": "2024-11-29T02:16:29Z",
+    "closedAt": "2024-11-29T02:16:29Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "chaseyoe"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 496,
+    "title": "这个代理ip还能使用吗 按照手册中的流程好像没能成功，是否需要其他操作",
+    "createdAt": "2024-11-20T12:44:23Z",
+    "updatedAt": "2024-11-23T01:51:09Z",
+    "closedAt": "2024-11-23T01:51:09Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "song9910moon"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 495,
+    "title": "为什么爬取抖音的评论没有点赞数这一列？小红书评论是有的，抖音能不能也加上？",
+    "createdAt": "2024-11-15T06:49:43Z",
+    "updatedAt": "2024-11-16T22:39:50Z",
+    "closedAt": "2024-11-16T22:39:50Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "tengzhangtz"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 494,
+    "title": "爬取结构后保存为csv了，请问time和last update的时间数据如何换算？",
+    "createdAt": "2024-11-14T05:03:46Z",
+    "updatedAt": "2024-11-16T22:39:58Z",
+    "closedAt": "2024-11-16T22:39:58Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "CaptainChristmas"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 493,
+    "title": "小红书排序排序方式选择",
+    "createdAt": "2024-11-14T04:49:59Z",
+    "updatedAt": "2024-11-14T05:02:44Z",
+    "closedAt": "2024-11-14T05:02:44Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "CaptainChristmas"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 492,
+    "title": "WeiBo爬取只能获取部分内容，无法get到全文",
+    "createdAt": "2024-11-13T15:47:32Z",
+    "updatedAt": "2025-01-08T13:27:36Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "VVogelimkafig"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 491,
+    "title": "小红书搜索返回406",
+    "createdAt": "2024-11-08T04:12:33Z",
+    "updatedAt": "2024-11-29T02:23:17Z",
+    "closedAt": "2024-11-29T02:23:17Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "jimmycmh"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "风控问题不处理",
+            "color": "fbca04"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 490,
+    "title": "为什么微博爬取，只能爬取到120页左右大概1200条数据，后面的就爬取不到了，返回空值？",
+    "createdAt": "2024-11-08T02:55:33Z",
+    "updatedAt": "2024-11-29T02:23:37Z",
+    "closedAt": "2024-11-29T02:23:37Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "LoVei-L"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "风控问题不处理",
+            "color": "fbca04"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 489,
+    "title": "抖音数据爬取，账号被风控",
+    "createdAt": "2024-11-07T16:08:36Z",
+    "updatedAt": "2024-11-29T02:23:57Z",
+    "closedAt": "2024-11-29T02:23:57Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Juice113"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "风控问题不处理",
+            "color": "fbca04"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 488,
+    "title": "访问链接异常",
+    "createdAt": "2024-11-07T13:21:49Z",
+    "updatedAt": "2024-11-30T17:21:36Z",
+    "closedAt": "2024-11-30T17:21:36Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ganjunjie1995"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 2
+    }
+  },
+  {
+    "number": 487,
+    "title": "验证码不转跳",
+    "createdAt": "2024-11-06T18:31:01Z",
+    "updatedAt": "2024-12-04T02:40:40Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "MandyHenderson"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 17
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 486,
+    "title": "知乎不能爬取某个问题下的所有回答吗？",
+    "createdAt": "2024-11-06T04:52:09Z",
+    "updatedAt": "2024-11-23T01:50:56Z",
+    "closedAt": "2024-11-23T01:50:56Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "bxdxstu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 484,
+    "title": "微博Cookie只有一周的有效期，有没有什么方法可以自动更新cookie呢",
+    "createdAt": "2024-11-05T07:57:27Z",
+    "updatedAt": "2024-11-06T00:57:11Z",
+    "closedAt": "2024-11-06T00:57:11Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "wei-mei"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 483,
+    "title": "dy今日无法根据creator(创作者主页数据)抓取数据，用search(关键词搜索)可以抓取",
+    "createdAt": "2024-11-04T06:26:19Z",
+    "updatedAt": "2024-11-29T02:20:07Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Dabiaoge111"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 482,
+    "title": "请问在哪里初始化快代理的示例呢？在那个模块哪个文件下",
+    "createdAt": "2024-11-04T04:14:48Z",
+    "updatedAt": "2024-11-05T02:39:18Z",
+    "closedAt": "2024-11-05T02:39:18Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Dabiaoge111"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 481,
+    "title": "爬取到的视频能存储为mp4格式吗，想把它下载下来，目前来看只有一个链接",
+    "createdAt": "2024-11-03T15:21:31Z",
+    "updatedAt": "2024-11-07T11:50:11Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "song9910moon"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 480,
+    "title": "能支持 reelshort 吗？",
+    "createdAt": "2024-11-02T08:15:33Z",
+    "updatedAt": "2024-11-03T09:33:19Z",
+    "closedAt": "2024-11-03T09:33:19Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "jearton"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 478,
+    "title": "爬取抖音的时候爬一段时间就会出现account blocked",
+    "createdAt": "2024-11-01T11:00:46Z",
+    "updatedAt": "2024-11-29T02:20:47Z",
+    "closedAt": "2024-11-29T02:20:47Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Ja5onYng"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "风控问题不处理",
+            "color": "fbca04"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 476,
+    "title": "微博根据关键词，开启了评论，但不成功",
+    "createdAt": "2024-11-01T10:04:52Z",
+    "updatedAt": "2024-11-04T04:53:00Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "JonL01"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "待确认",
+            "color": "bfd4f2"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 475,
+    "title": "抖音get_aweme_detail显示request params incrr，但是视频的评论成功抓取了。",
+    "createdAt": "2024-10-31T10:30:57Z",
+    "updatedAt": "2025-02-01T09:26:02Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "kayzh324"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "待确认",
+            "color": "bfd4f2"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 474,
+    "title": "安装依赖库失败",
+    "createdAt": "2024-10-31T09:09:10Z",
+    "updatedAt": "2024-11-29T02:22:31Z",
+    "closedAt": "2024-11-29T02:22:31Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "fzlgogoup"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 473,
+    "title": "哈咯，之前代码视频和评论是分开爬的吧，如何只能爬取视频，暂时不需要评论",
+    "createdAt": "2024-10-30T06:25:28Z",
+    "updatedAt": "2024-10-30T10:36:02Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "RICKDONG123"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 472,
+    "title": "小红书一直搜不出来结果乐",
+    "createdAt": "2024-10-30T01:35:55Z",
+    "updatedAt": "2024-10-30T01:35:55Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "zhangliang0825"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 471,
+    "title": "请问爬取微博评论能够按照特定话题来爬取吗",
+    "createdAt": "2024-10-28T07:56:07Z",
+    "updatedAt": "2024-10-28T08:06:29Z",
+    "closedAt": "2024-10-28T08:06:14Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Huberyky"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 470,
+    "title": "小红书会出现获取失败或者461报错",
+    "createdAt": "2024-10-28T03:19:26Z",
+    "updatedAt": "2024-11-01T15:09:18Z",
+    "closedAt": "2024-11-01T15:09:18Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "MandyHenderson"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 469,
+    "title": "小红书以detail模式爬取会出现识别完帖子id后卡住的现象",
+    "createdAt": "2024-10-27T15:08:39Z",
+    "updatedAt": "2024-11-11T06:17:12Z",
+    "closedAt": "2024-10-30T01:52:17Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "wxy123jy"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 7
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 468,
+    "title": "请问如何指定detail下爬取哪一个笔记详情",
+    "createdAt": "2024-10-27T11:00:36Z",
+    "updatedAt": "2024-10-27T11:02:27Z",
+    "closedAt": "2024-10-27T11:02:27Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Huberyky"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 467,
+    "title": "xhs增加按时间范围爬取的话要在哪里修改呢",
+    "createdAt": "2024-10-26T14:09:55Z",
+    "updatedAt": "2024-10-28T06:21:45Z",
+    "closedAt": "2024-10-28T06:21:45Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "wfbjgd"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 466,
+    "title": "支持爬取tiktok指定用户的所有视频吗？",
+    "createdAt": "2024-10-25T21:55:45Z",
+    "updatedAt": "2024-10-26T01:22:52Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Bruse-Lee"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 465,
+    "title": "POST怎么解决 获取 a_bogus 参数 问题",
+    "createdAt": "2024-10-25T16:34:26Z",
+    "updatedAt": "2024-10-28T06:23:00Z",
+    "closedAt": "2024-10-28T06:23:00Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "zzzhy"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 464,
+    "title": "抖音无法登陆",
+    "createdAt": "2024-10-25T13:35:46Z",
+    "updatedAt": "2025-03-18T12:07:43Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "qicaiyun"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 460,
+    "title": "上限记录",
+    "createdAt": "2024-10-21T14:40:47Z",
+    "updatedAt": "2024-10-23T14:24:13Z",
+    "closedAt": "2024-10-23T14:23:27Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "fanpion"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 459,
+    "title": "大家的 xhs 爬取多少会被控？",
+    "createdAt": "2024-10-21T12:43:25Z",
+    "updatedAt": "2025-01-21T08:10:46Z",
+    "closedAt": "2024-10-24T17:56:34Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "yinzhou-jc"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 8
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 458,
+    "title": "抓取xhs代码运行完成，数据却没保存下来。为什么呀？dy是可以保存的",
+    "createdAt": "2024-10-21T07:24:13Z",
+    "updatedAt": "2024-10-23T14:35:46Z",
+    "closedAt": "2024-10-23T14:35:46Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Dabiaoge111"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 457,
+    "title": "xhs运行python main.py --platform xhs --lt cookie --type creator 报错。",
+    "createdAt": "2024-10-21T06:24:03Z",
+    "updatedAt": "2024-11-29T02:22:01Z",
+    "closedAt": "2024-11-29T02:22:01Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "jerry117"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "待确认",
+            "color": "bfd4f2"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 456,
+    "title": "使用代理，是否缺乏代理过期后的重试机制？",
+    "createdAt": "2024-10-20T15:42:38Z",
+    "updatedAt": "2024-10-20T15:45:45Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "yinzhou-jc"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 455,
+    "title": "weibo关键词爬取受限制求助！非常感谢您的代码！",
+    "createdAt": "2024-10-19T15:47:48Z",
+    "updatedAt": "2024-11-29T02:22:17Z",
+    "closedAt": "2024-11-29T02:22:17Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Crackpot2002"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 454,
+    "title": "无法运行python main.py --help",
+    "createdAt": "2024-10-19T13:56:43Z",
+    "updatedAt": "2024-10-22T11:33:18Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "chatGPT-AI-API"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 453,
+    "title": "小红书为啥报这个错呀",
+    "createdAt": "2024-10-19T09:26:22Z",
+    "updatedAt": "2024-10-23T14:35:22Z",
+    "closedAt": "2024-10-23T14:35:22Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Delraylove"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 452,
+    "title": "xhs不能🐛了吗？",
+    "createdAt": "2024-10-18T11:08:20Z",
+    "updatedAt": "2024-10-23T14:35:12Z",
+    "closedAt": "2024-10-23T14:35:12Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "oorsuioi"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 451,
+    "title": "是否有限制评论抓取数量得设置？",
+    "createdAt": "2024-10-17T10:18:17Z",
+    "updatedAt": "2024-12-13T17:21:21Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "bigwhite11"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 450,
+    "title": "为什么爬取同一个博主的170个笔记就会发生错误呢，笔记详细爬取了下来但是评论爬取不下来，这是以下错误信息",
+    "createdAt": "2024-10-08T13:52:25Z",
+    "updatedAt": "2024-10-16T12:29:38Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "707806032"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "待确认",
+            "color": "bfd4f2"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 449,
+    "title": "微博爬取创作者数据的时候不断死循环，停不下来，爬取的都是同样的内容，还有一个问题是爬取的的内容没有照片的链接",
+    "createdAt": "2024-10-03T15:07:06Z",
+    "updatedAt": "2024-11-06T08:04:38Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "707806032"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "待确认",
+            "color": "bfd4f2"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 447,
+    "title": "爬小红书出现频繁访问的错误",
+    "createdAt": "2024-10-02T05:56:31Z",
+    "updatedAt": "2024-10-12T03:25:56Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "Machoman6"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 446,
+    "title": "全新拉取的项目，抖音返回request params incrr 直接退出了，a_bogus又更新拉？",
+    "createdAt": "2024-09-30T09:09:02Z",
+    "updatedAt": "2024-10-16T12:28:53Z",
+    "closedAt": "2024-10-16T12:28:53Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "kayzh324"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 445,
+    "title": "douyin爬取报错",
+    "createdAt": "2024-09-28T01:25:10Z",
+    "updatedAt": "2024-09-29T06:04:31Z",
+    "closedAt": "2024-09-29T06:04:31Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Machoman6"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 444,
+    "title": "抖音，快手爬视频为什么只有前20多页有爬取信息？后面的就是空的？",
+    "createdAt": "2024-09-27T12:47:54Z",
+    "updatedAt": "2024-09-27T16:08:29Z",
+    "closedAt": "2024-09-27T16:08:29Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "wcpcp"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 443,
+    "title": "dy爬取报错：(Caused by ProxyError('Unable to connect to proxy', FileNotFoundError(2, 'No such file or directory')))",
+    "createdAt": "2024-09-27T08:28:55Z",
+    "updatedAt": "2024-10-16T12:29:07Z",
+    "closedAt": "2024-10-16T12:29:07Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "GitGily"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 442,
+    "title": "dy 爬取指定帖子详情时，报错",
+    "createdAt": "2024-09-21T08:51:48Z",
+    "updatedAt": "2024-09-27T06:58:58Z",
+    "closedAt": "2024-09-27T06:58:58Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "maturest"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 440,
+    "title": "RT",
+    "createdAt": "2024-09-16T12:35:42Z",
+    "updatedAt": "2024-09-16T12:44:19Z",
+    "closedAt": "2024-09-16T12:44:19Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Macedonialapadian"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 438,
+    "title": "为什么抖音和快手只存储json链接，不支持自动下载缩略图和视频文件吗？",
+    "createdAt": "2024-09-14T02:35:46Z",
+    "updatedAt": "2024-09-14T15:55:17Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "baojiarui"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 437,
+    "title": "抖音abogus参数获取失败（playwright版本）",
+    "createdAt": "2024-09-13T10:49:46Z",
+    "updatedAt": "2024-09-27T06:59:08Z",
+    "closedAt": "2024-09-27T06:59:08Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "NanmiCoder"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 436,
+    "title": "抖音登入失败",
+    "createdAt": "2024-09-12T09:41:15Z",
+    "updatedAt": "2024-09-27T06:59:17Z",
+    "closedAt": "2024-09-27T06:59:17Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Glksky"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 435,
+    "title": "知乎内容爬取失败",
+    "createdAt": "2024-09-11T09:37:16Z",
+    "updatedAt": "2024-09-14T06:20:22Z",
+    "closedAt": "2024-09-13T08:12:32Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "seek4"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "待确认",
+            "color": "bfd4f2"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 434,
+    "title": "抖音登录后运行失败",
+    "createdAt": "2024-09-09T02:21:36Z",
+    "updatedAt": "2024-09-27T06:59:45Z",
+    "closedAt": "2024-09-27T06:59:45Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "cnguu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "待确认",
+            "color": "bfd4f2"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 432,
+    "title": "media_platform.douyin.exception.DataFetchError: account blocked",
+    "createdAt": "2024-09-08T01:17:39Z",
+    "updatedAt": "2024-09-27T07:02:13Z",
+    "closedAt": "2024-09-27T07:02:13Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Windsland52"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 431,
+    "title": "爬取抖音评论相关",
+    "createdAt": "2024-09-06T14:05:19Z",
+    "updatedAt": "2024-09-07T05:34:30Z",
+    "closedAt": "2024-09-07T05:34:29Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Windsland52"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 430,
+    "title": "配置db，连接mysql8报错\"Can't connect to MySQL server on '127.0.0.1'\"",
+    "createdAt": "2024-09-05T09:52:12Z",
+    "updatedAt": "2024-09-07T12:43:40Z",
+    "closedAt": "2024-09-07T12:43:40Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ryonWang"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 429,
+    "title": "text0905",
+    "createdAt": "2024-09-05T03:26:16Z",
+    "updatedAt": "2024-09-05T15:30:01Z",
+    "closedAt": "2024-09-05T15:30:00Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "QIANJUFEN"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 428,
+    "title": "text",
+    "createdAt": "2024-09-05T03:25:59Z",
+    "updatedAt": "2024-09-05T15:29:55Z",
+    "closedAt": "2024-09-05T15:29:55Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "QIANJUFEN"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 426,
+    "title": "抖音目前一直无法成功",
+    "createdAt": "2024-09-03T13:39:59Z",
+    "updatedAt": "2024-09-04T07:37:28Z",
+    "closedAt": "2024-09-04T07:37:28Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "z18305238481"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 424,
+    "title": "xhs type=creator 正常爬取一段时间出现访问频次异常，请问有什么办法吗？麻烦了",
+    "createdAt": "2024-09-03T06:48:01Z",
+    "updatedAt": "2024-09-13T04:14:24Z",
+    "closedAt": "2024-09-13T04:14:24Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "unbie"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 423,
+    "title": "xhs 获取详情出错",
+    "createdAt": "2024-09-02T13:23:50Z",
+    "updatedAt": "2024-09-30T03:55:36Z",
+    "closedAt": "2024-09-02T13:47:01Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "NanmiCoder"
+    },
+    "assignees": {
+      "edges": [
+        {
+          "node": {
+            "login": "NanmiCoder"
+          }
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 421,
+    "title": "在使用python main.py --platform xhs --type detail无法下载图片",
+    "createdAt": "2024-09-02T06:21:58Z",
+    "updatedAt": "2024-12-20T03:38:01Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "benny0088"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 420,
+    "title": "反爬虫",
+    "createdAt": "2024-08-31T01:53:07Z",
+    "updatedAt": "2024-08-31T07:07:38Z",
+    "closedAt": "2024-08-31T07:07:38Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "QIANJUFEN"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 419,
+    "title": "求看代码问题",
+    "createdAt": "2024-08-31T01:51:51Z",
+    "updatedAt": "2024-08-31T07:07:34Z",
+    "closedAt": "2024-08-31T07:07:34Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "QIANJUFEN"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 418,
+    "title": "代理池",
+    "createdAt": "2024-08-31T01:50:10Z",
+    "updatedAt": "2024-08-31T07:07:28Z",
+    "closedAt": "2024-08-31T07:07:28Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "QIANJUFEN"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 417,
+    "title": "房价网站爬虫",
+    "createdAt": "2024-08-31T01:49:22Z",
+    "updatedAt": "2024-08-31T07:07:24Z",
+    "closedAt": "2024-08-31T07:07:24Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "QIANJUFEN"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 416,
+    "title": "代理",
+    "createdAt": "2024-08-31T01:48:40Z",
+    "updatedAt": "2024-08-31T07:07:20Z",
+    "closedAt": "2024-08-31T07:07:20Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "QIANJUFEN"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 415,
+    "title": "小红书CRAWLER_TYPE = \"creator\" 失效",
+    "createdAt": "2024-08-30T14:15:35Z",
+    "updatedAt": "2024-10-15T02:31:44Z",
+    "closedAt": "2024-09-13T10:17:21Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "mjhbgt"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 414,
+    "title": "小红书获取笔记失败",
+    "createdAt": "2024-08-30T09:35:28Z",
+    "updatedAt": "2024-09-02T09:16:36Z",
+    "closedAt": "2024-09-02T09:16:36Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "hxl123789"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 412,
+    "title": "抖音通过最多点赞、一天内组合查询，返回的text为空",
+    "createdAt": "2024-08-28T11:00:39Z",
+    "updatedAt": "2024-08-28T11:00:39Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "wyljp"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 410,
+    "title": "为什么小红书的帖子照片/视频，没有自动下载，但是只给了个链接，是需要自己去实现下载评论的同时顺便下载照片视频吗",
+    "createdAt": "2024-08-27T21:22:50Z",
+    "updatedAt": "2024-10-30T07:44:43Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "707806032"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 409,
+    "title": "作者大大帮我看看这个是怎么回事",
+    "createdAt": "2024-08-27T19:20:33Z",
+    "updatedAt": "2024-08-27T20:58:40Z",
+    "closedAt": "2024-08-27T20:58:40Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "707806032"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 408,
+    "title": "有规划自定义回复评论吗",
+    "createdAt": "2024-08-27T11:26:28Z",
+    "updatedAt": "2024-09-13T08:03:34Z",
+    "closedAt": "2024-09-13T08:03:34Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "caipeishen"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 407,
+    "title": "小红书获取帖子详情时，浏览器异常，请尝试关闭/卸载风险插件或重启试试",
+    "createdAt": "2024-08-27T03:32:18Z",
+    "updatedAt": "2024-08-28T10:30:02Z",
+    "closedAt": "2024-08-28T09:21:52Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "SongweiCao"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 406,
+    "title": "请问如何获取抖音视频封面的大图，接口返回的太模糊了",
+    "createdAt": "2024-08-27T02:25:31Z",
+    "updatedAt": "2024-08-27T02:25:31Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "wade30822"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 403,
+    "title": "增加的新功能：小红书发布评论，虽然Post正常，但是reponse里的status不是0，而是-1, 2等，导致评论无法展示。请问如果改为status =0",
+    "createdAt": "2024-08-21T06:55:45Z",
+    "updatedAt": "2024-08-21T11:28:01Z",
+    "closedAt": "2024-08-21T11:09:39Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Justincyz"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 402,
+    "title": "抖音爬不了了",
+    "createdAt": "2024-08-21T02:50:12Z",
+    "updatedAt": "2024-08-22T23:59:29Z",
+    "closedAt": "2024-08-22T23:59:29Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "peiqijiayou"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 398,
+    "title": "如何保存到PGSQL",
+    "createdAt": "2024-08-19T07:01:20Z",
+    "updatedAt": "2024-08-19T19:14:14Z",
+    "closedAt": "2024-08-19T19:13:13Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ericzhang-debug"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 397,
+    "title": "抖音能不能爬取特定用户的评论",
+    "createdAt": "2024-08-18T16:41:27Z",
+    "updatedAt": "2024-08-18T23:33:12Z",
+    "closedAt": "2024-08-18T23:33:12Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "2631594295"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 395,
+    "title": "创建表的时候，能否把关键词加上吗",
+    "createdAt": "2024-08-17T11:49:49Z",
+    "updatedAt": "2024-08-23T07:27:17Z",
+    "closedAt": "2024-08-23T07:27:17Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "RICKDONG123"
+    },
+    "assignees": {
+      "edges": [
+        {
+          "node": {
+            "login": "NanmiCoder"
+          }
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 394,
+    "title": "小红书爬取次数、频率限制，有没有更好的方法解决？",
+    "createdAt": "2024-08-16T06:50:58Z",
+    "updatedAt": "2024-08-17T11:58:09Z",
+    "closedAt": "2024-08-17T11:58:09Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "wei-mei"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 393,
+    "title": "小红书爬取的相关数据之前可以精确到个位数，最近好像不太行了，请问有什么办法吗？麻烦了",
+    "createdAt": "2024-08-15T08:18:57Z",
+    "updatedAt": "2024-08-15T11:42:19Z",
+    "closedAt": "2024-08-15T11:41:22Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "unbie"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 392,
+    "title": "douyin 使用最新 cookie 无法正常登录？",
+    "createdAt": "2024-08-14T11:36:36Z",
+    "updatedAt": "2024-08-23T00:20:07Z",
+    "closedAt": "2024-08-23T00:20:07Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "miaoshaoxuan"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 391,
+    "title": "douyin通过关键词爬取数据，只返回2页数据，第3页开始返回的数据为空",
+    "createdAt": "2024-08-13T10:41:06Z",
+    "updatedAt": "2024-08-19T19:14:37Z",
+    "closedAt": "2024-08-19T19:14:36Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "SummerChris"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 390,
+    "title": "b站评论爬取，数据保存为json只有一条，保存为csv能正常爬取",
+    "createdAt": "2024-08-13T08:19:23Z",
+    "updatedAt": "2024-08-23T02:00:46Z",
+    "closedAt": "2024-08-23T02:00:46Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "mouzzmou"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 383,
+    "title": "小红书评论爬取可以添加评论有多少个点赞数的功能",
+    "createdAt": "2024-08-11T11:51:48Z",
+    "updatedAt": "2024-08-23T22:07:53Z",
+    "closedAt": "2024-08-23T22:07:53Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "707806032"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 382,
+    "title": "小红书 单篇笔记详情无法获取",
+    "createdAt": "2024-08-10T10:58:31Z",
+    "updatedAt": "2024-08-12T09:47:59Z",
+    "closedAt": "2024-08-12T09:47:59Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "fangd123"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 381,
+    "title": " (venv) D:\\MediaCrawler>pip3 install -r requirements.txt ERROR: Could not open requirements file: [Errno 2] No such file or directory: 'requirements.txt'       总是报错，有什么问题嘛",
+    "createdAt": "2024-08-10T08:28:53Z",
+    "updatedAt": "2024-08-11T14:38:11Z",
+    "closedAt": "2024-08-11T14:38:11Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "RICKDONG123"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 373,
+    "title": "您好 能不能逆解短链生成的接口咧",
+    "createdAt": "2024-08-07T09:58:58Z",
+    "updatedAt": "2024-08-17T13:25:40Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "cmslz"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 369,
+    "title": "小红书-评论请求-新增X-S参数校验",
+    "createdAt": "2024-08-05T03:46:43Z",
+    "updatedAt": "2024-08-05T10:13:16Z",
+    "closedAt": "2024-08-05T10:13:16Z",
+    "state": "CLOSED",
+    "author": null,
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 368,
+    "title": "xhs登录二维码能否在terminal里显示",
+    "createdAt": "2024-08-04T18:47:17Z",
+    "updatedAt": "2024-08-05T10:14:07Z",
+    "closedAt": "2024-08-05T10:14:07Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "hepengfe"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 367,
+    "title": "小红书自动化手机号登录显示发送验证码失败",
+    "createdAt": "2024-08-02T06:14:28Z",
+    "updatedAt": "2024-08-23T07:27:36Z",
+    "closedAt": "2024-08-23T07:27:36Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ndaydayup"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 366,
+    "title": "Linux服务器跑项目",
+    "createdAt": "2024-08-01T03:01:58Z",
+    "updatedAt": "2024-08-05T10:14:15Z",
+    "closedAt": "2024-08-05T10:14:15Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "SDWade3"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 365,
+    "title": "可以批量爬取吗，我有一批视频链接，爬取这些视频的详细信息",
+    "createdAt": "2024-07-31T11:23:52Z",
+    "updatedAt": "2024-07-31T11:31:56Z",
+    "closedAt": "2024-07-31T11:31:41Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "shuxiaoseng"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 364,
+    "title": "获取的content乱码",
+    "createdAt": "2024-07-30T11:02:45Z",
+    "updatedAt": "2024-08-05T10:14:22Z",
+    "closedAt": "2024-08-05T10:14:22Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "807660937"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 363,
+    "title": "dy指定id评论",
+    "createdAt": "2024-07-30T07:00:28Z",
+    "updatedAt": "2024-08-15T11:34:43Z",
+    "closedAt": "2024-08-15T11:34:43Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Runnnnnnnnn"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 362,
+    "title": "微博无法爬取评论",
+    "createdAt": "2024-07-29T17:10:15Z",
+    "updatedAt": "2024-08-05T10:14:28Z",
+    "closedAt": "2024-08-05T10:14:28Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "liuliu0808"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 359,
+    "title": "小红书按creator爬取帖子失败",
+    "createdAt": "2024-07-26T08:55:26Z",
+    "updatedAt": "2024-07-27T14:32:20Z",
+    "closedAt": "2024-07-27T14:32:11Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "albert438"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 358,
+    "title": "抖音搜索关键词，暂无更多",
+    "createdAt": "2024-07-25T12:24:43Z",
+    "updatedAt": "2024-08-19T19:11:20Z",
+    "closedAt": "2024-08-19T19:11:19Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xiaoshengaimm"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 356,
+    "title": "小红书现在爬不了了吗",
+    "createdAt": "2024-07-24T12:43:11Z",
+    "updatedAt": "2024-12-09T14:49:06Z",
+    "closedAt": "2024-07-27T14:32:30Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "oorsuioi"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 11
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 355,
+    "title": "有抓取微信公众号文章的规划吗?",
+    "createdAt": "2024-07-24T09:34:26Z",
+    "updatedAt": "2024-09-13T04:14:30Z",
+    "closedAt": "2024-09-13T04:14:30Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "lanlangdeai"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 354,
+    "title": "每次爬抖音，都有大量IP地址为空，去到用户主页看都是有ip的",
+    "createdAt": "2024-07-24T04:46:31Z",
+    "updatedAt": "2024-07-29T06:06:31Z",
+    "closedAt": "2024-07-25T03:13:11Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xf-del"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 352,
+    "title": "抖音无头浏览器采集帖子a_bogus异常",
+    "createdAt": "2024-07-20T00:29:19Z",
+    "updatedAt": "2024-08-19T19:11:51Z",
+    "closedAt": "2024-08-19T19:11:50Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "SilenceXSJ"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 351,
+    "title": "快手搜索爬取数据时，会出现评论报错，搜索没有数据返回的情况",
+    "createdAt": "2024-07-19T08:40:08Z",
+    "updatedAt": "2024-08-20T23:18:11Z",
+    "closedAt": "2024-08-20T23:18:11Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "SDWade3"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 349,
+    "title": "多个账号都显示account blocked",
+    "createdAt": "2024-07-19T00:45:08Z",
+    "updatedAt": "2024-08-23T22:26:52Z",
+    "closedAt": "2024-08-23T22:26:52Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Panic-W"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 344,
+    "title": "抖音requests代理传参问题修复",
+    "createdAt": "2024-07-18T08:00:44Z",
+    "updatedAt": "2024-08-23T00:10:45Z",
+    "closedAt": "2024-08-23T00:10:45Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "IianWang"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 342,
+    "title": "小红书在保持登录的状态下仍需扫码登录",
+    "createdAt": "2024-07-17T07:38:34Z",
+    "updatedAt": "2024-07-27T14:32:44Z",
+    "closedAt": "2024-07-27T14:32:44Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Siji-chl"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 341,
+    "title": "小红书，无法使用cookies参数抓取。",
+    "createdAt": "2024-07-16T12:00:30Z",
+    "updatedAt": "2024-07-16T12:19:10Z",
+    "closedAt": "2024-07-16T12:19:10Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "lky8686"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 340,
+    "title": "您好，请问快手地理位置能拿到吗？",
+    "createdAt": "2024-07-16T07:19:08Z",
+    "updatedAt": "2024-08-24T03:42:48Z",
+    "closedAt": "2024-08-24T03:42:48Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "srhedbj"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 339,
+    "title": "IP代理功能失效，无论使用哪种缓存方式，过期ip都不会清理",
+    "createdAt": "2024-07-16T06:11:05Z",
+    "updatedAt": "2024-09-13T04:14:37Z",
+    "closedAt": "2024-09-13T04:14:37Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xf-del"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 338,
+    "title": "哥们，你的作品被这个大可爱偷了😂https://github.com/jiji262/MediaCrawler-new 甚至还收获了几百个星星",
+    "createdAt": "2024-07-16T00:33:00Z",
+    "updatedAt": "2024-07-17T17:34:41Z",
+    "closedAt": "2024-07-17T17:34:41Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "oorsuioi"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 335,
+    "title": "抖音爬虫爬取up主视频demo报错",
+    "createdAt": "2024-07-14T13:28:07Z",
+    "updatedAt": "2024-08-23T00:10:59Z",
+    "closedAt": "2024-08-23T00:10:59Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "seuchenyu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 326,
+    "title": "小红书的IP属地为什么爬不全？",
+    "createdAt": "2024-07-11T11:54:05Z",
+    "updatedAt": "2024-07-15T07:50:30Z",
+    "closedAt": "2024-07-15T07:50:30Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "cl165"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 324,
+    "title": "更新 base_config.py 的注释",
+    "createdAt": "2024-07-11T09:50:46Z",
+    "updatedAt": "2024-07-11T13:00:36Z",
+    "closedAt": "2024-07-11T13:00:36Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "3DRX"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 322,
+    "title": "启用IP代理后默认使用python内存的情况下，过期ip不会自动清理，爬取一两分钟后会报454错误",
+    "createdAt": "2024-07-10T12:20:12Z",
+    "updatedAt": "2024-07-17T17:35:02Z",
+    "closedAt": "2024-07-17T17:35:01Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xf-del"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "wontfix",
+            "color": "ffffff"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 321,
+    "title": "小红书爬虫的笔记有很多重复内容",
+    "createdAt": "2024-07-03T02:11:56Z",
+    "updatedAt": "2024-07-17T17:35:19Z",
+    "closedAt": "2024-07-17T17:35:18Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "zcunyi"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 320,
+    "title": "用cookie登录的时候，每次都有一个二维吗，需要手动关闭二维码刷新之后才能登录成功！",
+    "createdAt": "2024-07-01T08:21:54Z",
+    "updatedAt": "2024-07-01T08:25:05Z",
+    "closedAt": "2024-07-01T08:25:05Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "DMC-HYX"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 317,
+    "title": "[Feature] 工具有希望支持爬取指定日期范围的数据吗，比如小红书",
+    "createdAt": "2024-06-26T14:28:55Z",
+    "updatedAt": "2024-06-29T00:25:30Z",
+    "closedAt": "2024-06-29T00:25:30Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xumeng"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 315,
+    "title": "修复小红书 creator IP 归属",
+    "createdAt": "2024-06-26T03:47:40Z",
+    "updatedAt": "2024-06-28T15:38:28Z",
+    "closedAt": "2024-06-28T15:38:27Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "AragornJIA"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 313,
+    "title": "爬取一段时间后账号被封禁，如何查询被封禁时已爬取页数以便继续爬取？",
+    "createdAt": "2024-06-24T13:35:22Z",
+    "updatedAt": "2024-06-24T14:26:58Z",
+    "closedAt": "2024-06-24T14:26:58Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xf-del"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 312,
+    "title": "抖音用户主页视频和评论的分页怎么获取的？",
+    "createdAt": "2024-06-23T11:30:00Z",
+    "updatedAt": "2024-08-23T22:21:26Z",
+    "closedAt": "2024-08-23T22:21:26Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "shi-yunsheng"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 311,
+    "title": "调研plawwright是否支持指纹context",
+    "createdAt": "2024-06-18T17:06:29Z",
+    "updatedAt": "2024-09-13T04:14:44Z",
+    "closedAt": "2024-09-13T04:14:44Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "NanmiCoder"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 310,
+    "title": "不好采集二级评论吗？",
+    "createdAt": "2024-06-18T10:00:41Z",
+    "updatedAt": "2024-06-19T04:32:44Z",
+    "closedAt": "2024-06-18T14:11:46Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "png9885"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 308,
+    "title": "运行python main.py --platform xhs --lt qrcode --type search报错",
+    "createdAt": "2024-06-17T13:48:47Z",
+    "updatedAt": "2024-06-18T09:58:00Z",
+    "closedAt": "2024-06-18T09:58:00Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "png9885"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 305,
+    "title": "抖音爬取报错",
+    "createdAt": "2024-06-16T03:43:21Z",
+    "updatedAt": "2024-07-10T07:44:17Z",
+    "closedAt": "2024-06-18T15:36:46Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "unbie"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 304,
+    "title": "请问有支持每个搜索词都新建一个csv文件吗？",
+    "createdAt": "2024-06-15T04:26:17Z",
+    "updatedAt": "2024-06-15T04:38:57Z",
+    "closedAt": "2024-06-15T04:38:49Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "TK-DS-DS"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 302,
+    "title": "爬取dy扫码后无响应",
+    "createdAt": "2024-06-14T06:05:47Z",
+    "updatedAt": "2024-06-18T15:36:56Z",
+    "closedAt": "2024-06-18T15:36:56Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "VisualPlayer"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 297,
+    "title": "抖音x-bogus现在已经彻底失效了，更换了a-bogus，目前无法抓取数据",
+    "createdAt": "2024-06-12T14:37:47Z",
+    "updatedAt": "2024-07-13T19:21:05Z",
+    "closedAt": "2024-07-13T19:21:05Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "NanmiCoder"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 296,
+    "title": "为什么访问小红书地址 reset了？",
+    "createdAt": "2024-06-12T08:41:59Z",
+    "updatedAt": "2024-06-14T02:38:50Z",
+    "closedAt": "2024-06-14T02:38:50Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "lzy350593418"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 291,
+    "title": "按用户id爬取所有发表的评论，这个能实现吗？",
+    "createdAt": "2024-06-09T11:21:48Z",
+    "updatedAt": "2024-06-13T13:18:44Z",
+    "closedAt": "2024-06-13T13:18:44Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "jscksy"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 289,
+    "title": "CRAWLER_MAX_NOTES_COUNT 参数无法应用",
+    "createdAt": "2024-06-08T07:31:25Z",
+    "updatedAt": "2024-09-13T10:17:34Z",
+    "closedAt": "2024-09-13T10:17:34Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Dylanmengzhou"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 288,
+    "title": "抖音关键字返回内容为空数组",
+    "createdAt": "2024-06-08T02:24:13Z",
+    "updatedAt": "2024-07-13T19:21:29Z",
+    "closedAt": "2024-07-13T19:21:29Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ZCPC2023"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 286,
+    "title": "Chromium不支持wayland",
+    "createdAt": "2024-06-05T14:17:04Z",
+    "updatedAt": "2024-06-09T10:04:46Z",
+    "closedAt": "2024-06-09T10:04:46Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "53jin"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 285,
+    "title": "抖音的当前浏览器无法正常观看，建议更换浏览器看播",
+    "createdAt": "2024-06-05T09:18:30Z",
+    "updatedAt": "2024-06-06T13:58:14Z",
+    "closedAt": "2024-06-06T13:58:14Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "CmoonX"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 284,
+    "title": "小红书461报错",
+    "createdAt": "2024-06-03T03:01:41Z",
+    "updatedAt": "2024-06-06T13:58:33Z",
+    "closedAt": "2024-06-06T13:58:33Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "AI-Study-Han"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 283,
+    "title": "通过指定帖子ID爬取微博评论时出错",
+    "createdAt": "2024-06-02T16:09:24Z",
+    "updatedAt": "2024-08-23T22:21:44Z",
+    "closedAt": "2024-08-23T22:21:44Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "LINFanxz"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 282,
+    "title": "B站UP主视频列表",
+    "createdAt": "2024-05-30T09:34:03Z",
+    "updatedAt": "2024-07-20T07:17:53Z",
+    "closedAt": "2024-07-20T07:17:53Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Yww12"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 279,
+    "title": "有人知道小红书的cookie会过期吗?",
+    "createdAt": "2024-05-30T06:31:11Z",
+    "updatedAt": "2025-02-18T03:38:27Z",
+    "closedAt": "2024-06-06T13:59:06Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "kevinl1210"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 277,
+    "title": "weibo, bili捞取的数据重复",
+    "createdAt": "2024-05-28T07:16:25Z",
+    "updatedAt": "2024-08-23T22:27:45Z",
+    "closedAt": "2024-08-23T22:27:45Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Zzendrix"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 275,
+    "title": "请问可以提供一个对外暴露的API接口吗？方便开发Web端",
+    "createdAt": "2024-05-28T01:12:05Z",
+    "updatedAt": "2024-06-12T02:41:40Z",
+    "closedAt": "2024-06-06T14:01:20Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "HildaM"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 271,
+    "title": "过程试图写入的管道不存在",
+    "createdAt": "2024-05-22T03:06:29Z",
+    "updatedAt": "2024-06-06T14:00:50Z",
+    "closedAt": "2024-06-06T14:00:50Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "1LucasGraham"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 270,
+    "title": "爬取微博找不到登录按钮",
+    "createdAt": "2024-05-20T02:28:36Z",
+    "updatedAt": "2024-08-04T16:50:16Z",
+    "closedAt": "2024-08-04T16:50:16Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xiangfeng1115"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 269,
+    "title": "如何绕开搜索量的限制？",
+    "createdAt": "2024-05-16T14:07:32Z",
+    "updatedAt": "2024-05-18T16:10:09Z",
+    "closedAt": "2024-05-18T16:10:09Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Andy0731"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 268,
+    "title": "请问如何可以爬取抖音视频数据",
+    "createdAt": "2024-05-16T13:13:42Z",
+    "updatedAt": "2024-06-07T05:37:00Z",
+    "closedAt": "2024-06-07T05:37:00Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "hy-li751"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 267,
+    "title": "抖音的接口参数已经更换为a_bogus参数了，抖音相关功能已失效",
+    "createdAt": "2024-05-15T15:37:21Z",
+    "updatedAt": "2024-06-12T11:57:40Z",
+    "closedAt": "2024-05-21T06:53:33Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "NanmiCoder"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 266,
+    "title": "dy和xhs二维码登录方式成功率大大降低",
+    "createdAt": "2024-05-15T15:25:27Z",
+    "updatedAt": "2024-05-23T14:27:57Z",
+    "closedAt": "2024-05-23T14:25:50Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "NanmiCoder"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 2
+    }
+  },
+  {
+    "number": 264,
+    "title": "小红书搜索结果一直返回{}",
+    "createdAt": "2024-05-06T16:02:07Z",
+    "updatedAt": "2024-06-06T13:59:14Z",
+    "closedAt": "2024-06-06T13:59:14Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "qinxiandiqi"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 263,
+    "title": "请问抖音如何获取到评论的图片？",
+    "createdAt": "2024-05-05T16:47:51Z",
+    "updatedAt": "2024-06-06T14:01:54Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "CalvinHere"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 262,
+    "title": "保存为csv文件时，中文出现乱码",
+    "createdAt": "2024-05-05T14:07:43Z",
+    "updatedAt": "2024-06-06T14:00:34Z",
+    "closedAt": "2024-06-06T14:00:34Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "YutakaTan"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 261,
+    "title": "求问wb可以指定爬取帖子的时间范围么，例如需要爬取22年3月至6月的内容",
+    "createdAt": "2024-05-05T07:49:22Z",
+    "updatedAt": "2024-05-12T05:35:22Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "juratjan123"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 260,
+    "title": "小红书只能读取200条左右的数据。",
+    "createdAt": "2024-05-04T08:52:13Z",
+    "updatedAt": "2024-08-12T09:49:07Z",
+    "closedAt": "2024-06-06T13:59:23Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Tzl4231"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 8
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 259,
+    "title": "为何这个关键词在confing里面没有了，不知道为什么？",
+    "createdAt": "2024-05-04T04:36:55Z",
+    "updatedAt": "2024-05-05T15:09:22Z",
+    "closedAt": "2024-05-05T15:09:22Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "zycrwa"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 256,
+    "title": "求问，如何将查询的结果导出到csv文件呢，求大大解答",
+    "createdAt": "2024-04-28T10:09:09Z",
+    "updatedAt": "2024-06-07T05:36:49Z",
+    "closedAt": "2024-06-07T05:36:49Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "XiMing666"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 249,
+    "title": "如何自动下载小红书文章内的图呢？",
+    "createdAt": "2024-04-23T22:34:36Z",
+    "updatedAt": "2024-05-02T15:59:35Z",
+    "closedAt": "2024-05-02T15:59:35Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "greatcat19"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 248,
+    "title": "cookie报错",
+    "createdAt": "2024-04-23T03:19:17Z",
+    "updatedAt": "2024-08-19T19:12:50Z",
+    "closedAt": "2024-08-19T19:12:50Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Mar2812"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 247,
+    "title": "抖音使用cookie方式一直登录失败？",
+    "createdAt": "2024-04-22T10:06:11Z",
+    "updatedAt": "2024-05-04T10:54:07Z",
+    "closedAt": "2024-04-22T10:27:12Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "another1s"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 245,
+    "title": "我首次启动后，弹出来登录二维码，我用小红书 APP 扫码后，登录了。但是提示要手动验证，APP 也没有看到验证的地方。我重启项目后，再次操作，发现登录验证二维码获取不到。",
+    "createdAt": "2024-04-22T09:00:37Z",
+    "updatedAt": "2024-06-06T14:02:03Z",
+    "closedAt": "2024-06-06T14:02:03Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "wufu-fire"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 2
+    }
+  },
+  {
+    "number": 244,
+    "title": "运行报错，请问下面是什么问题？",
+    "createdAt": "2024-04-22T08:03:14Z",
+    "updatedAt": "2024-06-06T13:59:54Z",
+    "closedAt": "2024-06-06T13:59:54Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "frankchen2804"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 241,
+    "title": "如何把数据保存进mysql中",
+    "createdAt": "2024-04-20T10:09:37Z",
+    "updatedAt": "2024-06-25T16:32:23Z",
+    "closedAt": "2024-04-24T13:35:20Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "alanzed555"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 240,
+    "title": "插👀",
+    "createdAt": "2024-04-18T12:04:39Z",
+    "updatedAt": "2024-06-06T14:00:12Z",
+    "closedAt": "2024-06-06T14:00:12Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "yShen868"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 239,
+    "title": "这个项目可以实现自动发微博吗",
+    "createdAt": "2024-04-18T02:51:53Z",
+    "updatedAt": "2024-06-06T14:00:24Z",
+    "closedAt": "2024-06-06T14:00:24Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "glorysaladin"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 237,
+    "title": "爬取抖音视频报错",
+    "createdAt": "2024-04-16T09:40:44Z",
+    "updatedAt": "2024-04-17T15:32:28Z",
+    "closedAt": "2024-04-17T15:32:28Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "keeper-jie"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 236,
+    "title": "执行python db.py报错",
+    "createdAt": "2024-04-16T06:45:25Z",
+    "updatedAt": "2024-04-16T13:20:43Z",
+    "closedAt": "2024-04-16T13:20:43Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "AI-Study-Han"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 235,
+    "title": "程序报错waiting for locator(\"//*[@id='app']/div[1]/div[2]/div[1]/ul/div[1]/button\")",
+    "createdAt": "2024-04-15T13:18:56Z",
+    "updatedAt": "2024-04-16T06:49:13Z",
+    "closedAt": "2024-04-16T06:49:13Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "AI-Study-Han"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 233,
+    "title": "获取不到  libs/douyin.js 怎么解决?",
+    "createdAt": "2024-04-15T05:25:15Z",
+    "updatedAt": "2024-04-15T09:29:13Z",
+    "closedAt": "2024-04-15T09:28:56Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "matorz"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 232,
+    "title": "python main.py --platform dy --lt qrcode --type detail报错Get aweme detail error: Expecting value: line 1 column 1 (char 0),",
+    "createdAt": "2024-04-14T15:47:06Z",
+    "updatedAt": "2024-04-15T13:59:18Z",
+    "closedAt": "2024-04-15T13:59:17Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "PhantomTide"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 230,
+    "title": "拼写错误",
+    "createdAt": "2024-04-12T00:45:42Z",
+    "updatedAt": "2024-04-13T12:18:22Z",
+    "closedAt": "2024-04-13T12:18:13Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "wuleying"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 227,
+    "title": "为什么我下载的代码只能下载评论，不能下载视频？",
+    "createdAt": "2024-04-11T14:22:00Z",
+    "updatedAt": "2024-04-16T17:04:19Z",
+    "closedAt": "2024-04-16T17:04:19Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "alexliusyx"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 222,
+    "title": "抖音数据保存到数据库bug",
+    "createdAt": "2024-04-09T06:47:49Z",
+    "updatedAt": "2024-04-09T15:11:04Z",
+    "closedAt": "2024-04-09T15:11:04Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "202774025"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 221,
+    "title": "微博哔哩哔哩这些都没有二级评论，是弄不到吗",
+    "createdAt": "2024-04-09T04:01:33Z",
+    "updatedAt": "2024-05-26T14:24:00Z",
+    "closedAt": "2024-04-09T06:44:57Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "202774025"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 220,
+    "title": "可以下载微信视频号的视频吗",
+    "createdAt": "2024-04-09T03:54:02Z",
+    "updatedAt": "2024-04-16T01:17:31Z",
+    "closedAt": "2024-04-15T16:14:44Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "chaochao0"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 219,
+    "title": "xhs按user_id爬取时，如果遇到被封号的用户，会报错",
+    "createdAt": "2024-04-07T15:47:09Z",
+    "updatedAt": "2024-04-07T16:19:58Z",
+    "closedAt": "2024-04-07T16:19:57Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Polaris0421"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 215,
+    "title": "二级评论可以爬吗？",
+    "createdAt": "2024-04-06T11:44:31Z",
+    "updatedAt": "2024-04-07T06:27:08Z",
+    "closedAt": "2024-04-07T06:27:08Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "nunoqw"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 211,
+    "title": "能不能增加闲鱼爬虫的功能？",
+    "createdAt": "2024-04-05T09:26:33Z",
+    "updatedAt": "2024-04-05T09:32:35Z",
+    "closedAt": "2024-04-05T09:32:35Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "adaaaaaa"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 210,
+    "title": "抖音search起不来，弹窗二维码弹起来了好多，有什么排查思路吗",
+    "createdAt": "2024-04-05T05:54:40Z",
+    "updatedAt": "2024-04-16T13:21:40Z",
+    "closedAt": "2024-04-16T13:21:40Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "chunpat"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 208,
+    "title": "爬虫这块还可以用吗",
+    "createdAt": "2024-04-04T02:56:54Z",
+    "updatedAt": "2024-04-09T15:15:38Z",
+    "closedAt": "2024-04-09T15:15:38Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "small-Teenager"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 207,
+    "title": "当搜索某些关键词并且写入mysql时报错，看起来像字段类型对不上导致的",
+    "createdAt": "2024-04-03T17:16:51Z",
+    "updatedAt": "2024-04-11T16:48:32Z",
+    "closedAt": "2024-04-11T16:48:32Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ralph-wren"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 205,
+    "title": "方法失效",
+    "createdAt": "2024-04-03T03:45:06Z",
+    "updatedAt": "2024-04-04T04:20:22Z",
+    "closedAt": "2024-04-04T03:48:37Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "James-Heller"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 204,
+    "title": "大佬，能否恢复一下b站的入门教程视频",
+    "createdAt": "2024-04-02T06:13:32Z",
+    "updatedAt": "2024-04-11T17:07:17Z",
+    "closedAt": "2024-04-11T17:07:17Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "lzsforever"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 203,
+    "title": "小红书登录流程异常",
+    "createdAt": "2024-04-01T16:52:41Z",
+    "updatedAt": "2024-04-11T17:08:30Z",
+    "closedAt": "2024-04-11T17:08:30Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Huboooo"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 200,
+    "title": "XHS可以实现只抓取帖子信息不抓取评论吗？",
+    "createdAt": "2024-03-29T08:49:24Z",
+    "updatedAt": "2024-04-04T03:48:56Z",
+    "closedAt": "2024-04-04T03:48:56Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "dh372101"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 199,
+    "title": "恢复项目，气死了，有的人拿着的项目去招摇撞骗。。。。。。。。。。。。",
+    "createdAt": "2024-03-28T13:21:10Z",
+    "updatedAt": "2024-07-24T05:25:13Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "NanmiCoder"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 13
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 9
+    }
+  },
+  {
+    "number": 197,
+    "title": "这是行骗还是恰饭啊",
+    "createdAt": "2024-03-28T01:18:17Z",
+    "updatedAt": "2024-04-04T03:48:44Z",
+    "closedAt": "2024-04-04T03:48:44Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "MRchenkuan"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 196,
+    "title": "小红书水印该如何去掉",
+    "createdAt": "2024-03-27T16:25:32Z",
+    "updatedAt": "2024-07-04T10:51:03Z",
+    "closedAt": "2024-06-06T14:00:05Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "HanchuQin"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 194,
+    "title": "请问cookie在哪里填写，填写的格式是怎样的？",
+    "createdAt": "2024-03-25T06:23:27Z",
+    "updatedAt": "2024-04-15T16:14:55Z",
+    "closedAt": "2024-04-15T16:14:55Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Looper0331"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 193,
+    "title": "有没有人fork过？想看看代码",
+    "createdAt": "2024-03-24T03:30:47Z",
+    "updatedAt": "2024-04-11T17:05:13Z",
+    "closedAt": "2024-04-11T17:05:13Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "aantior"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 192,
+    "title": "不懂就问，这东西有什么用，为什么这么多人关注",
+    "createdAt": "2024-03-23T04:43:53Z",
+    "updatedAt": "2024-04-11T17:04:42Z",
+    "closedAt": "2024-04-11T17:04:42Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Pai-Po"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 191,
+    "title": "有的人，操作真的太6了，大家注意甄别，请勿上当受骗。",
+    "createdAt": "2024-03-21T09:48:16Z",
+    "updatedAt": "2024-06-13T09:20:04Z",
+    "closedAt": null,
+    "state": "OPEN",
+    "author": {
+      "login": "NanmiCoder"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 14
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 12
+    }
+  },
+  {
+    "number": 190,
+    "title": "虽然才知道",
+    "createdAt": "2024-03-21T04:55:31Z",
+    "updatedAt": "2024-04-15T16:15:05Z",
+    "closedAt": "2024-04-15T16:15:05Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "yjt1216"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 189,
+    "title": "温馨提醒：源代码可以从以前forked过的user中link过去，然后clone源代码",
+    "createdAt": "2024-03-21T02:45:10Z",
+    "updatedAt": "2024-03-21T06:02:58Z",
+    "closedAt": "2024-03-21T04:39:18Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "LonelyFellas"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 187,
+    "title": "关于数据保存格式",
+    "createdAt": "2024-03-19T17:05:37Z",
+    "updatedAt": "2024-03-20T05:19:18Z",
+    "closedAt": "2024-03-20T05:19:18Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "wuxiaol1981"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 186,
+    "title": "请问，在哪里配置抖音的搜索关键词",
+    "createdAt": "2024-03-19T16:23:57Z",
+    "updatedAt": "2024-03-20T05:19:26Z",
+    "closedAt": "2024-03-20T05:19:26Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "wuxiaol1981"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 185,
+    "title": "提个醒",
+    "createdAt": "2024-03-19T16:07:11Z",
+    "updatedAt": "2024-03-19T16:49:33Z",
+    "closedAt": "2024-03-19T16:49:33Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Jazzylol"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 181,
+    "title": "安装依赖库报错 ModuleNotFoundError: No module named 'distutils'",
+    "createdAt": "2024-03-19T12:57:42Z",
+    "updatedAt": "2024-03-19T14:09:09Z",
+    "closedAt": "2024-03-19T14:09:08Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "dodo939"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 180,
+    "title": "整数智能《高级爬虫工程师》招聘",
+    "createdAt": "2024-03-19T12:28:28Z",
+    "updatedAt": "2024-03-26T11:45:43Z",
+    "closedAt": "2024-03-26T11:45:43Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "AbakaAI"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 15
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 17
+    }
+  },
+  {
+    "number": 179,
+    "title": "xhs的评论和帖子是不是没有标识符对应?",
+    "createdAt": "2024-03-19T10:52:51Z",
+    "updatedAt": "2024-03-20T05:19:38Z",
+    "closedAt": "2024-03-20T05:19:38Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "jzzzf"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 178,
+    "title": "请问如何获取博主的前10篇文章呀",
+    "createdAt": "2024-03-19T10:24:42Z",
+    "updatedAt": "2024-03-20T05:19:45Z",
+    "closedAt": "2024-03-20T05:19:45Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "DongGuHua"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 176,
+    "title": "请问没有“execjs”怎么办呀？",
+    "createdAt": "2024-03-19T08:14:09Z",
+    "updatedAt": "2024-03-19T13:20:19Z",
+    "closedAt": "2024-03-19T13:20:19Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "pppking9527"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 175,
+    "title": "账号没有访问权限，如何解决？新建虚拟环境也不行",
+    "createdAt": "2024-03-19T08:14:07Z",
+    "updatedAt": "2024-04-02T14:16:11Z",
+    "closedAt": "2024-03-20T05:19:53Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "IchvanHuang"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 174,
+    "title": "小红书滑块验证一直不过.",
+    "createdAt": "2024-03-19T08:08:47Z",
+    "updatedAt": "2024-03-19T09:30:37Z",
+    "closedAt": "2024-03-19T09:30:37Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Haibo-Zhou"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 169,
+    "title": "考虑添加喜马拉雅这种听书的音频爬取吗",
+    "createdAt": "2024-03-19T03:27:22Z",
+    "updatedAt": "2024-03-20T05:20:00Z",
+    "closedAt": "2024-03-20T05:20:00Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "zdj97"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 168,
+    "title": "有没有国外站点使用的爬虫策略，如facebook等国外知名的社交软件。",
+    "createdAt": "2024-03-19T02:49:54Z",
+    "updatedAt": "2024-03-20T05:20:11Z",
+    "closedAt": "2024-03-20T05:20:11Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "204winnersong"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 167,
+    "title": "docker支持",
+    "createdAt": "2024-03-19T02:13:17Z",
+    "updatedAt": "2024-03-20T05:20:20Z",
+    "closedAt": "2024-03-20T05:20:20Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "zsf513"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 6
+    }
+  },
+  {
+    "number": 166,
+    "title": "小红薯能不能获取到历史浏览记录",
+    "createdAt": "2024-03-19T01:54:29Z",
+    "updatedAt": "2024-03-20T05:20:29Z",
+    "closedAt": "2024-03-20T05:20:29Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "leochen12-rgb"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 164,
+    "title": "关于配置文件中爬取帖子数量的问题",
+    "createdAt": "2024-03-18T08:26:09Z",
+    "updatedAt": "2024-03-18T12:44:33Z",
+    "closedAt": "2024-03-18T12:44:33Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "BIBIYES"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 162,
+    "title": "小红书扫码后提示登录过程中出现验证码，请手动验证",
+    "createdAt": "2024-03-18T05:15:14Z",
+    "updatedAt": "2024-03-20T05:20:38Z",
+    "closedAt": "2024-03-20T05:20:38Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ivone-liu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 161,
+    "title": "f",
+    "createdAt": "2024-03-18T04:13:35Z",
+    "updatedAt": "2024-03-24T01:54:18Z",
+    "closedAt": "2024-03-20T05:20:46Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ayouok887766"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 160,
+    "title": "macos启动程序失败",
+    "createdAt": "2024-03-17T13:18:00Z",
+    "updatedAt": "2024-03-20T05:21:03Z",
+    "closedAt": "2024-03-20T05:21:03Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ywkdw"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 8
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 159,
+    "title": "小红书运行后报错",
+    "createdAt": "2024-03-17T12:43:59Z",
+    "updatedAt": "2024-03-20T05:21:19Z",
+    "closedAt": "2024-03-20T05:21:19Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "LeyiJiang"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 158,
+    "title": "【Bug】playwright issue, how to resolve it",
+    "createdAt": "2024-03-17T04:50:50Z",
+    "updatedAt": "2024-03-20T05:22:24Z",
+    "closedAt": "2024-03-20T05:22:24Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "vvip2u"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 156,
+    "title": "试了一次就封号了。。。。",
+    "createdAt": "2024-03-16T16:39:17Z",
+    "updatedAt": "2024-03-17T15:15:25Z",
+    "closedAt": "2024-03-17T15:15:25Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "yanhaishixian"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 155,
+    "title": "小红书主页 type=creator时，如何只抓取content",
+    "createdAt": "2024-03-15T12:29:44Z",
+    "updatedAt": "2024-12-16T13:27:46Z",
+    "closedAt": "2024-03-17T15:15:32Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ifredom"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 154,
+    "title": "小红书主页 爬取用户笔记超过几十条后出现错误",
+    "createdAt": "2024-03-15T06:29:03Z",
+    "updatedAt": "2024-03-17T15:15:39Z",
+    "closedAt": "2024-03-17T15:15:39Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "insomniai"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 153,
+    "title": "大佬，小红书这个日期和图片应该怎么显示呢？改动哪里",
+    "createdAt": "2024-03-13T09:35:25Z",
+    "updatedAt": "2024-03-15T12:07:11Z",
+    "closedAt": "2024-03-15T12:07:11Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ifredom"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 152,
+    "title": "[bug]抖音不行",
+    "createdAt": "2024-03-13T06:29:05Z",
+    "updatedAt": "2024-03-17T15:16:18Z",
+    "closedAt": "2024-03-17T15:16:17Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "fadeawaylove"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 151,
+    "title": "ValueError: Set of coroutines/Futures is empty.",
+    "createdAt": "2024-03-12T14:09:58Z",
+    "updatedAt": "2024-03-18T12:36:26Z",
+    "closedAt": "2024-03-18T12:36:26Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "qwertyuiopasdfghjklzxcn"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 150,
+    "title": "小红书关键字搜索",
+    "createdAt": "2024-03-12T09:51:36Z",
+    "updatedAt": "2024-03-17T15:15:44Z",
+    "closedAt": "2024-03-17T15:15:44Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Rollines"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 148,
+    "title": "请问MediaCrawler\\store\\douyin\\douyin_store_impl.py里异步函数save_data_to_json为什么要使用锁",
+    "createdAt": "2024-03-10T09:44:41Z",
+    "updatedAt": "2024-03-30T18:26:33Z",
+    "closedAt": "2024-03-20T05:19:01Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "shimada-hanzo"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 147,
+    "title": "抖音评论爬取失败",
+    "createdAt": "2024-03-08T18:01:43Z",
+    "updatedAt": "2024-03-10T09:18:44Z",
+    "closedAt": "2024-03-10T09:18:44Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "shimada-hanzo"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 146,
+    "title": "微博评论数据爬取失败",
+    "createdAt": "2024-03-08T09:51:42Z",
+    "updatedAt": "2024-03-19T06:58:17Z",
+    "closedAt": "2024-03-19T06:58:17Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ly1327"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 145,
+    "title": "小红书评论如何能获取到评论的图片呀？",
+    "createdAt": "2024-03-06T11:40:08Z",
+    "updatedAt": "2024-03-17T15:15:52Z",
+    "closedAt": "2024-03-17T15:15:52Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "semsevens"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 144,
+    "title": "可以根据query对b站的视频进行链接爬取，并下载视频吗",
+    "createdAt": "2024-03-05T12:24:30Z",
+    "updatedAt": "2024-03-20T03:33:42Z",
+    "closedAt": "2024-03-20T03:33:42Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "tianguang2525"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 143,
+    "title": "能不能来个详细的配置教程啊，小白表示很难入手",
+    "createdAt": "2024-03-05T07:12:25Z",
+    "updatedAt": "2024-03-18T01:16:51Z",
+    "closedAt": "2024-03-17T15:15:59Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Liyff"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 141,
+    "title": "B站w_rid算法",
+    "createdAt": "2024-02-29T02:45:30Z",
+    "updatedAt": "2024-03-20T05:22:30Z",
+    "closedAt": "2024-03-20T05:22:30Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "guijialei-web"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 140,
+    "title": "media_platform/douyin/client.py中请求url无法随field变量的更改而更改",
+    "createdAt": "2024-02-25T15:42:57Z",
+    "updatedAt": "2024-02-26T15:48:06Z",
+    "closedAt": "2024-02-26T15:48:06Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xiongot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 139,
+    "title": "[请教] 关于xhs爬取notes时只会获取到其中的一小部分",
+    "createdAt": "2024-02-25T15:19:15Z",
+    "updatedAt": "2024-06-13T04:44:50Z",
+    "closedAt": "2024-02-26T15:57:37Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "AllenZHU23"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 138,
+    "title": "asyncio.exceptions.CancelledError",
+    "createdAt": "2024-02-23T21:10:55Z",
+    "updatedAt": "2024-02-26T15:57:57Z",
+    "closedAt": "2024-02-26T15:57:57Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ugzhu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 135,
+    "title": "请问如何无需登录搜索？",
+    "createdAt": "2024-02-21T06:38:53Z",
+    "updatedAt": "2024-02-24T03:34:32Z",
+    "closedAt": "2024-02-24T03:34:32Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "tomriddle1234"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 134,
+    "title": "保存为csv文件时，编码格式不一致",
+    "createdAt": "2024-02-18T14:22:54Z",
+    "updatedAt": "2024-02-19T02:31:27Z",
+    "closedAt": "2024-02-19T02:31:27Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "peiqijiayou"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 133,
+    "title": "httpx.InvalidURL: Invalid port",
+    "createdAt": "2024-02-08T09:31:27Z",
+    "updatedAt": "2024-03-20T05:22:08Z",
+    "closedAt": "2024-03-20T05:22:08Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "kevinWangSheng"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 132,
+    "title": "发送请求 /comment/sub/page， 获取子评论时，返回为空。请帮忙看下原因。 ",
+    "createdAt": "2024-02-08T01:20:21Z",
+    "updatedAt": "2024-03-17T15:16:35Z",
+    "closedAt": "2024-03-17T15:16:35Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xiaoqdu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 131,
+    "title": "运行为什么没有反应呢",
+    "createdAt": "2024-02-04T03:39:06Z",
+    "updatedAt": "2024-03-20T05:22:40Z",
+    "closedAt": "2024-03-20T05:22:40Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "haorongchen1015"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 130,
+    "title": "在没有界面的linux里面是否没有办法使用小红书登陆，因为无法出现登陆界面。。。",
+    "createdAt": "2024-01-31T14:30:31Z",
+    "updatedAt": "2025-02-17T05:51:44Z",
+    "closedAt": "2024-03-20T05:22:00Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "oscgking"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 129,
+    "title": "如何让csv中time的值为日期？",
+    "createdAt": "2024-01-29T16:12:17Z",
+    "updatedAt": "2024-02-26T15:58:21Z",
+    "closedAt": "2024-02-26T15:58:21Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "SingleRottenChips"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 128,
+    "title": "源码跑，给的dy的id例子怎么有一个报错了",
+    "createdAt": "2024-01-29T03:52:13Z",
+    "updatedAt": "2024-01-29T05:07:30Z",
+    "closedAt": "2024-01-29T05:07:30Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "nicknamexiaozui"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 127,
+    "title": "抖音用cookie登陆search报错，clone下来的项目没改过，有大佬帮忙看下吗？",
+    "createdAt": "2024-01-28T10:39:48Z",
+    "updatedAt": "2024-01-29T04:11:23Z",
+    "closedAt": "2024-01-29T04:11:23Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "hopemeng"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 126,
+    "title": "微博的爬取评论功能",
+    "createdAt": "2024-01-26T09:55:11Z",
+    "updatedAt": "2024-03-20T05:21:53Z",
+    "closedAt": "2024-03-20T05:21:53Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Websteroo"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 125,
+    "title": "2024-01-25  15:18:14 MediaCrawler INFO [XHSLogin.check_login_state] 登录过程中出现验证码，请手动验证",
+    "createdAt": "2024-01-25T20:21:24Z",
+    "updatedAt": "2024-01-26T12:46:36Z",
+    "closedAt": "2024-01-26T12:46:35Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "hele2069"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 123,
+    "title": "爬过的ID列表再次爬的时候会报错",
+    "createdAt": "2024-01-23T16:10:10Z",
+    "updatedAt": "2024-01-30T15:20:09Z",
+    "closedAt": "2024-01-30T15:20:08Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Crazy-FuQing"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 122,
+    "title": "通过note_id获取笔记详情接口问题",
+    "createdAt": "2024-01-23T01:39:49Z",
+    "updatedAt": "2024-01-23T06:11:55Z",
+    "closedAt": "2024-01-23T06:11:55Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "cl165"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 121,
+    "title": "如何抓取所有级评论",
+    "createdAt": "2024-01-22T02:24:19Z",
+    "updatedAt": "2024-03-20T05:18:47Z",
+    "closedAt": "2024-03-20T05:18:47Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ydengbi"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 120,
+    "title": "请问各位大佬这是什么问题啊！ssl.SSLWantReadError: The operation did not complete (read) (_ssl.c:1129)",
+    "createdAt": "2024-01-21T15:05:53Z",
+    "updatedAt": "2024-02-26T15:58:38Z",
+    "closedAt": "2024-02-26T15:58:38Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ydengbi"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 119,
+    "title": "将playwright的逻辑从爬虫业务逻辑中抽离出去",
+    "createdAt": "2024-01-19T14:38:32Z",
+    "updatedAt": "2024-03-20T05:18:37Z",
+    "closedAt": "2024-03-20T05:18:37Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "NanmiCoder"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 118,
+    "title": "小红书滑块验证一直失败",
+    "createdAt": "2024-01-19T05:08:42Z",
+    "updatedAt": "2024-02-26T15:55:22Z",
+    "closedAt": "2024-02-26T15:55:22Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "gvariable"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 117,
+    "title": "csv模式建议",
+    "createdAt": "2024-01-16T11:21:53Z",
+    "updatedAt": "2024-01-19T14:35:13Z",
+    "closedAt": "2024-01-19T14:35:13Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Cyiming"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 7
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 116,
+    "title": "b站不能爬取楼中楼",
+    "createdAt": "2024-01-15T08:51:20Z",
+    "updatedAt": "2024-03-20T05:18:28Z",
+    "closedAt": "2024-03-20T05:18:28Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Cyiming"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 115,
+    "title": "b站爬取问题",
+    "createdAt": "2024-01-15T07:49:30Z",
+    "updatedAt": "2024-01-15T08:37:26Z",
+    "closedAt": "2024-01-15T08:37:26Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Cyiming"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 114,
+    "title": "请问我如何只爬b站？",
+    "createdAt": "2024-01-15T07:21:22Z",
+    "updatedAt": "2024-01-15T07:32:52Z",
+    "closedAt": "2024-01-15T07:32:52Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Cyiming"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 113,
+    "title": "调用get_aweme_comments是返回空值",
+    "createdAt": "2024-01-14T15:46:15Z",
+    "updatedAt": "2024-01-16T14:35:16Z",
+    "closedAt": "2024-01-16T14:35:16Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "QingZhang1001"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 111,
+    "title": "小红书二维码登入超时",
+    "createdAt": "2024-01-10T04:24:17Z",
+    "updatedAt": "2024-01-12T02:05:17Z",
+    "closedAt": "2024-01-12T02:05:16Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "a43460588"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 110,
+    "title": "建议作者加一个json存储文件的选项",
+    "createdAt": "2024-01-07T10:03:45Z",
+    "updatedAt": "2024-01-15T11:04:37Z",
+    "closedAt": "2024-01-15T11:04:37Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xiongot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 109,
+    "title": "抖音视频爬取时筛选设置无效",
+    "createdAt": "2024-01-07T06:35:51Z",
+    "updatedAt": "2024-02-26T15:47:50Z",
+    "closedAt": "2024-02-26T15:47:50Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ScarlettSun9"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 108,
+    "title": "抓取的图片、视频链接合集怎么打开？",
+    "createdAt": "2024-01-03T11:49:59Z",
+    "updatedAt": "2024-02-24T14:01:35Z",
+    "closedAt": "2024-02-24T14:01:35Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Danny0802"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 107,
+    "title": "哔哩哔哩 video_id 识别问题（AV -> BV号转换）",
+    "createdAt": "2023-12-27T16:22:01Z",
+    "updatedAt": "2024-01-04T02:20:35Z",
+    "closedAt": "2024-01-04T02:20:35Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "karmalet"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 7
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 106,
+    "title": "CRAWLER_MAX_NOTES_COUNT设置太小总报错",
+    "createdAt": "2023-12-27T10:15:35Z",
+    "updatedAt": "2024-01-03T15:32:19Z",
+    "closedAt": "2024-01-03T15:32:19Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "cl165"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "help wanted",
+            "color": "008672"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 105,
+    "title": "[BUG] pong测试当前的缓存登录是否失效问题",
+    "createdAt": "2023-12-27T05:28:52Z",
+    "updatedAt": "2023-12-27T09:14:59Z",
+    "closedAt": "2023-12-27T09:14:59Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "cl165"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 103,
+    "title": "我希望只在登录时使用playwright，爬取时可以关闭playwright的窗口，可以从哪里入手呢，能不能提供一些思路。",
+    "createdAt": "2023-12-25T07:53:10Z",
+    "updatedAt": "2025-03-01T08:59:11Z",
+    "closedAt": "2024-03-20T05:21:45Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "yaohongfenglove"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 7
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "help wanted",
+            "color": "008672"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 102,
+    "title": "报错 ValueError: Set of coroutines/Futures is empty.",
+    "createdAt": "2023-12-22T06:47:37Z",
+    "updatedAt": "2024-01-15T12:10:33Z",
+    "closedAt": "2024-01-15T12:10:32Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "50chen"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 101,
+    "title": "docker中运行服务报错",
+    "createdAt": "2023-12-19T11:45:34Z",
+    "updatedAt": "2023-12-20T04:52:17Z",
+    "closedAt": "2023-12-20T04:52:17Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "lanlangdeai"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 100,
+    "title": "爬取不到内容",
+    "createdAt": "2023-12-17T13:34:22Z",
+    "updatedAt": "2023-12-28T16:06:56Z",
+    "closedAt": "2023-12-28T16:06:56Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Dinosaurcubs"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 97,
+    "title": "最新代码，小红书扫码之后，手机上显示登录成功，但是终端没有登录成功的提示，过20s之后自动结束",
+    "createdAt": "2023-12-15T08:53:30Z",
+    "updatedAt": "2024-01-15T11:33:14Z",
+    "closedAt": "2023-12-16T07:26:37Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "WenmuZhou"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 95,
+    "title": "抖音评论",
+    "createdAt": "2023-12-13T15:59:43Z",
+    "updatedAt": "2024-03-20T05:21:36Z",
+    "closedAt": "2024-03-20T05:21:36Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "dfinity-web3"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 93,
+    "title": "Douyin 无法在隐身模式下加载主页面",
+    "createdAt": "2023-12-11T04:42:30Z",
+    "updatedAt": "2023-12-26T13:48:37Z",
+    "closedAt": "2023-12-26T13:48:37Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Thisisnotgoingpublished"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 92,
+    "title": "你好，mysql数据表的建表ddl能发一下不",
+    "createdAt": "2023-12-10T14:53:39Z",
+    "updatedAt": "2023-12-22T15:15:38Z",
+    "closedAt": "2023-12-22T15:15:38Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "zhangfang2741"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 91,
+    "title": "asyncio ERROR Task was destroyed but it is pending!",
+    "createdAt": "2023-12-07T03:37:39Z",
+    "updatedAt": "2024-02-26T15:53:55Z",
+    "closedAt": "2024-02-26T15:53:55Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Comfident"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 8
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 90,
+    "title": "请问大佬，这个项目的 python 是什么版本的啊",
+    "createdAt": "2023-12-05T12:01:43Z",
+    "updatedAt": "2023-12-05T23:58:51Z",
+    "closedAt": "2023-12-05T23:58:37Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "jiayifang"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 7
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 88,
+    "title": "请教一个问题 如何按最新发布的倒叙爬取",
+    "createdAt": "2023-12-04T01:17:49Z",
+    "updatedAt": "2023-12-22T15:15:51Z",
+    "closedAt": "2023-12-22T15:15:51Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "to2103"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 87,
+    "title": "小红书网页版还是加上了验证码请问有支持计划吗",
+    "createdAt": "2023-12-01T08:29:39Z",
+    "updatedAt": "2024-03-20T05:21:29Z",
+    "closedAt": "2024-03-20T05:21:29Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "renwenxu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 86,
+    "title": "MediaCrawler ERROR Ping xhs failed: TypeError: window._webmsxyw is not a function",
+    "createdAt": "2023-11-30T21:45:01Z",
+    "updatedAt": "2023-12-02T08:00:09Z",
+    "closedAt": "2023-12-02T08:00:09Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "linzhi0918"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 85,
+    "title": "Keep Xiaohongshu logged in",
+    "createdAt": "2023-11-27T12:30:17Z",
+    "updatedAt": "2023-12-07T09:16:49Z",
+    "closedAt": "2023-12-07T09:16:49Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "yaohongfenglove"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 83,
+    "title": "请问这个问题怎么解决？",
+    "createdAt": "2023-11-27T09:33:09Z",
+    "updatedAt": "2023-12-22T15:16:24Z",
+    "closedAt": "2023-12-22T15:16:24Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "StevenceTanKe"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 81,
+    "title": "执行的时候出现了错误：'JS_MD5_NO_COMMON_JS",
+    "createdAt": "2023-11-25T09:44:36Z",
+    "updatedAt": "2023-12-22T15:16:36Z",
+    "closedAt": "2023-12-22T15:16:36Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "hulonghua-devin"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 80,
+    "title": "运行时出现这个问题",
+    "createdAt": "2023-11-24T06:12:06Z",
+    "updatedAt": "2023-11-24T12:01:17Z",
+    "closedAt": "2023-11-24T12:01:17Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "yxJyx"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 79,
+    "title": "请教下，频率设置为多少比较合适",
+    "createdAt": "2023-11-22T02:36:33Z",
+    "updatedAt": "2024-02-25T13:42:56Z",
+    "closedAt": "2024-02-24T14:01:22Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "hxqbeyond"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "help wanted",
+            "color": "008672"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 78,
+    "title": "xhs登录错误",
+    "createdAt": "2023-11-21T13:31:02Z",
+    "updatedAt": "2023-12-02T16:37:26Z",
+    "closedAt": "2023-12-02T16:37:26Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "luanshils"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 77,
+    "title": "后续会支持哔哩哔哩和微博吗？",
+    "createdAt": "2023-11-21T01:34:58Z",
+    "updatedAt": "2023-12-09T05:29:49Z",
+    "closedAt": "2023-12-09T05:29:49Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "FairyWorld"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 76,
+    "title": "小红书部分GET接口不能正常请求",
+    "createdAt": "2023-11-20T15:12:10Z",
+    "updatedAt": "2023-11-24T14:03:55Z",
+    "closedAt": "2023-11-24T14:03:55Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "gongjiehong"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "help wanted",
+            "color": "008672"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 75,
+    "title": "快手爬虫实现 - 欢迎大家提交 PR",
+    "createdAt": "2023-11-20T14:03:35Z",
+    "updatedAt": "2023-12-02T16:37:12Z",
+    "closedAt": "2023-12-02T16:37:12Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "NanmiCoder"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "help wanted",
+            "color": "008672"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 72,
+    "title": "大佬你好，我小红书登录成功，但是抓取时报错",
+    "createdAt": "2023-11-14T12:43:43Z",
+    "updatedAt": "2023-11-18T07:10:15Z",
+    "closedAt": "2023-11-18T07:10:15Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "stay-leave"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 8
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 71,
+    "title": "playwright下载失败如何解决",
+    "createdAt": "2023-11-14T06:38:38Z",
+    "updatedAt": "2023-12-02T08:00:16Z",
+    "closedAt": "2023-12-02T08:00:16Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "yangyi0701"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 70,
+    "title": "你好，我这边爬取小红书可以，爬取抖音的话就会报错js问题",
+    "createdAt": "2023-11-13T01:31:25Z",
+    "updatedAt": "2023-11-14T01:55:00Z",
+    "closedAt": "2023-11-14T01:55:00Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Tangsonghuai"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 69,
+    "title": "我这边想抓取抖音，怎么扫完码还提示要验证码，然后没有地方可以输入验证码，程序就直接退出了",
+    "createdAt": "2023-11-10T15:07:07Z",
+    "updatedAt": "2023-11-18T07:10:25Z",
+    "closedAt": "2023-11-18T07:10:25Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "very-man"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 68,
+    "title": "如何爬取指定笔记的评论以及IP以及评论人小红书号",
+    "createdAt": "2023-11-10T05:56:24Z",
+    "updatedAt": "2023-11-18T07:09:49Z",
+    "closedAt": "2023-11-18T07:09:49Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "wife6"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 67,
+    "title": "【小红书】短信验证失败",
+    "createdAt": "2023-11-09T03:36:40Z",
+    "updatedAt": "2023-11-18T07:10:07Z",
+    "closedAt": "2023-11-18T07:10:07Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "jerryyxu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 66,
+    "title": "可以实现@触发回复功能吗？",
+    "createdAt": "2023-11-06T08:05:18Z",
+    "updatedAt": "2023-11-18T07:09:56Z",
+    "closedAt": "2023-11-18T07:09:56Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "lucasjinreal"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 65,
+    "title": "作者您好，请问如何控制爬取的速率，感觉有点快，基本上爬50条就TimeoutError、httpcore.ConnectTimeout、httpx.ConnectTimeout了555",
+    "createdAt": "2023-11-05T09:33:38Z",
+    "updatedAt": "2023-11-12T02:00:49Z",
+    "closedAt": "2023-11-12T02:00:48Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Alanhahaer"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 63,
+    "title": "是否支持将文章的地址给提出来",
+    "createdAt": "2023-11-04T06:35:48Z",
+    "updatedAt": "2023-11-11T08:37:27Z",
+    "closedAt": "2023-11-11T08:37:27Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "beckguan"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 62,
+    "title": "如何增加性别",
+    "createdAt": "2023-11-03T09:13:59Z",
+    "updatedAt": "2023-11-11T08:37:09Z",
+    "closedAt": "2023-11-11T08:37:09Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "MwTTTTT"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 61,
+    "title": "如何退出登录",
+    "createdAt": "2023-11-01T07:57:46Z",
+    "updatedAt": "2023-11-05T07:46:28Z",
+    "closedAt": "2023-11-05T07:46:28Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "bananea20"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 60,
+    "title": "可以指定关键词爬取吗",
+    "createdAt": "2023-10-26T09:44:34Z",
+    "updatedAt": "2023-11-04T05:41:22Z",
+    "closedAt": "2023-11-04T05:41:22Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "yxJyx"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 59,
+    "title": "求助，运行时找不到libs/stealth.min.js",
+    "createdAt": "2023-10-20T11:30:07Z",
+    "updatedAt": "2023-10-26T09:44:47Z",
+    "closedAt": "2023-10-26T09:44:47Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "yxJyx"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 58,
+    "title": "小红书只能爬取第一页20条note记录，feed流在没有滑动页面的情况下，怎么爬取搜索词的全部结果",
+    "createdAt": "2023-10-16T13:46:43Z",
+    "updatedAt": "2023-11-14T12:52:27Z",
+    "closedAt": "2023-10-17T03:40:30Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "personaccount"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 57,
+    "title": "KeyError: 'items'",
+    "createdAt": "2023-10-13T04:42:06Z",
+    "updatedAt": "2023-11-05T07:45:42Z",
+    "closedAt": "2023-11-05T07:45:42Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "neohob"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 56,
+    "title": "dy数据爬取失败",
+    "createdAt": "2023-10-07T10:22:54Z",
+    "updatedAt": "2023-11-05T07:43:39Z",
+    "closedAt": "2023-11-05T07:43:39Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ZephaniaP"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 55,
+    "title": "douyin/client.py的第142行导致get_video_by_id错误",
+    "createdAt": "2023-10-06T12:40:20Z",
+    "updatedAt": "2023-10-10T09:05:13Z",
+    "closedAt": "2023-10-10T09:05:13Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Minry"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 54,
+    "title": "针对某账号爬虫/ 无需爬取评论",
+    "createdAt": "2023-09-26T16:45:04Z",
+    "updatedAt": "2023-11-05T07:45:17Z",
+    "closedAt": "2023-11-05T07:45:17Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Dav1cl0521"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 53,
+    "title": "视频爬取",
+    "createdAt": "2023-09-26T08:13:03Z",
+    "updatedAt": "2024-12-16T09:33:44Z",
+    "closedAt": "2023-10-22T04:23:17Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Shiny-ZhangXiXin"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 52,
+    "title": "在服务器山运行出错",
+    "createdAt": "2023-09-23T14:32:21Z",
+    "updatedAt": "2023-12-26T11:25:23Z",
+    "closedAt": "2023-09-25T07:48:06Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "moseshu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 51,
+    "title": "请问能获取最新的数据吗？",
+    "createdAt": "2023-09-19T15:54:19Z",
+    "updatedAt": "2023-11-05T07:46:34Z",
+    "closedAt": "2023-11-05T07:46:34Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Sp1keeeee"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 50,
+    "title": "可以在某个文件里看到我每一次登陆的IP地址吗？",
+    "createdAt": "2023-09-17T15:17:50Z",
+    "updatedAt": "2023-11-05T07:43:23Z",
+    "closedAt": "2023-11-05T07:43:23Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xiongot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 49,
+    "title": "小红书扫码失败了",
+    "createdAt": "2023-09-14T10:21:55Z",
+    "updatedAt": "2023-10-22T04:22:34Z",
+    "closedAt": "2023-10-22T04:22:34Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "licesun"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 48,
+    "title": "小红书功能反馈",
+    "createdAt": "2023-09-13T08:42:32Z",
+    "updatedAt": "2024-02-21T08:20:17Z",
+    "closedAt": "2023-09-17T11:34:16Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "luanshils"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 47,
+    "title": "get comments failed, error: Expecting value: line 1 column 1 (char 0)",
+    "createdAt": "2023-09-13T06:46:43Z",
+    "updatedAt": "2023-10-22T04:23:02Z",
+    "closedAt": "2023-10-22T04:23:02Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "fulaoban"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 46,
+    "title": "如何手动更换登陆账号而不是等它自然失效",
+    "createdAt": "2023-09-05T09:14:41Z",
+    "updatedAt": "2023-10-22T04:22:55Z",
+    "closedAt": "2023-10-22T04:22:55Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xiongot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 45,
+    "title": "登录已过期",
+    "createdAt": "2023-09-05T07:05:35Z",
+    "updatedAt": "2023-10-17T03:17:54Z",
+    "closedAt": "2023-09-07T15:39:22Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "jack206418070"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 44,
+    "title": "playwright._impl._api_types.Error: Browser closed.",
+    "createdAt": "2023-09-05T04:44:30Z",
+    "updatedAt": "2023-09-26T01:36:52Z",
+    "closedAt": "2023-09-26T01:36:52Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "fulaoban"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 43,
+    "title": "报错Full list of missing libraries:",
+    "createdAt": "2023-09-05T03:48:01Z",
+    "updatedAt": "2023-10-22T04:22:26Z",
+    "closedAt": "2023-10-22T04:22:26Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "fulaoban"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 42,
+    "title": "无法抓取视频评论",
+    "createdAt": "2023-09-03T15:36:32Z",
+    "updatedAt": "2023-10-22T04:22:20Z",
+    "closedAt": "2023-10-22T04:22:20Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xiongot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 41,
+    "title": "为什么运行后没有反应，也没有报错",
+    "createdAt": "2023-08-31T14:58:59Z",
+    "updatedAt": "2023-10-22T04:22:45Z",
+    "closedAt": "2023-10-22T04:22:45Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Himoko"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 39,
+    "title": "请问XHS可以进行关键字搜索嘛",
+    "createdAt": "2023-08-30T03:05:25Z",
+    "updatedAt": "2023-10-22T04:22:13Z",
+    "closedAt": "2023-10-22T04:22:13Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "SerMs"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 38,
+    "title": "部分笔记在web端会出现-510001，\"当前内容无法展示\"，但是实际在app端可以查看，这种情况可以获取吗？",
+    "createdAt": "2023-08-28T08:58:25Z",
+    "updatedAt": "2023-10-22T04:22:05Z",
+    "closedAt": "2023-10-22T04:22:05Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "FairyWorld"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 37,
+    "title": "抖音的爬虫只有爬取评论这些吗？",
+    "createdAt": "2023-08-23T15:20:31Z",
+    "updatedAt": "2023-09-14T14:23:20Z",
+    "closedAt": "2023-09-14T14:23:20Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "yalisnot"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 36,
+    "title": "抖音无法登陆",
+    "createdAt": "2023-08-22T09:50:50Z",
+    "updatedAt": "2023-09-14T14:23:08Z",
+    "closedAt": "2023-09-14T14:23:08Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "og1ocdd"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 35,
+    "title": "码农高天的一期视频用的你们的项目，如何评价他说的问题？",
+    "createdAt": "2023-08-22T08:27:57Z",
+    "updatedAt": "2023-08-29T03:31:22Z",
+    "closedAt": "2023-08-29T03:31:22Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "being1943"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 34,
+    "title": "咨询，试了一下 dy 的抓取，看了下数据库内容，好像没有抓到那种评论里的回复。为了表达清楚，我截个图示意一下，谢谢。",
+    "createdAt": "2023-08-20T15:16:24Z",
+    "updatedAt": "2023-10-22T04:21:58Z",
+    "closedAt": "2023-10-22T04:21:58Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Yi-Lyu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 33,
+    "title": "大佬可以指定关键词或者指定达人吗",
+    "createdAt": "2023-08-17T04:01:48Z",
+    "updatedAt": "2023-09-07T15:39:58Z",
+    "closedAt": "2023-09-07T15:39:58Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "crazybee881113"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 31,
+    "title": "爬取能正常运行，但是在爬取评论时一条评论信息也爬取不到",
+    "createdAt": "2023-08-12T05:03:41Z",
+    "updatedAt": "2023-08-17T07:05:57Z",
+    "closedAt": "2023-08-17T07:05:57Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "InMyDreammer"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 30,
+    "title": "python main.py --platform dy --lt qrcode 失败",
+    "createdAt": "2023-08-11T15:35:06Z",
+    "updatedAt": "2023-09-07T15:39:42Z",
+    "closedAt": "2023-09-07T15:39:42Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "dfinity-web3"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 29,
+    "title": "我在使用cookie登录抖音后遇到了execjs._exceptions.RuntimeUnavailableError: Could not find an available JavaScript runtime.的错误",
+    "createdAt": "2023-08-11T07:11:12Z",
+    "updatedAt": "2023-08-11T13:24:02Z",
+    "closedAt": "2023-08-11T13:24:02Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "InMyDreammer"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 12
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 28,
+    "title": "请问这个爬取的数据可以直接导出为csv吗？因为我在导到数据库中时遇到了挺多问题",
+    "createdAt": "2023-08-11T06:23:19Z",
+    "updatedAt": "2023-08-17T01:59:09Z",
+    "closedAt": "2023-08-17T01:59:09Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Alanhahaer"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 27,
+    "title": "获取到的笔记图片是有水印的，如何解析拉取到的数据呢",
+    "createdAt": "2023-08-09T15:29:11Z",
+    "updatedAt": "2023-12-16T07:27:35Z",
+    "closedAt": "2023-08-10T09:17:42Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "FirminSun"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 26,
+    "title": "报错信息",
+    "createdAt": "2023-08-04T03:09:41Z",
+    "updatedAt": "2023-08-04T08:20:34Z",
+    "closedAt": "2023-08-04T08:20:34Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "sn1987a-1"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 25,
+    "title": "这有哪些应用场景？",
+    "createdAt": "2023-08-02T08:38:06Z",
+    "updatedAt": "2023-08-04T08:20:24Z",
+    "closedAt": "2023-08-04T08:20:24Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "godJBJ"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 23,
+    "title": "sql插入失败",
+    "createdAt": "2023-07-31T05:30:10Z",
+    "updatedAt": "2023-08-04T08:19:58Z",
+    "closedAt": "2023-08-04T08:19:58Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "29745560"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 22,
+    "title": "Help me: 项目启动报错",
+    "createdAt": "2023-07-30T11:19:28Z",
+    "updatedAt": "2023-07-31T02:30:01Z",
+    "closedAt": "2023-07-31T02:30:01Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "tanpenggood"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 11
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "help wanted",
+            "color": "008672"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 21,
+    "title": "dy登录失败，没有弹出二维码",
+    "createdAt": "2023-07-26T15:02:53Z",
+    "updatedAt": "2023-08-10T06:34:54Z",
+    "closedAt": "2023-08-10T06:34:54Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "being1943"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "help wanted",
+            "color": "008672"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 20,
+    "title": "有偿寻求技术支持",
+    "createdAt": "2023-07-24T14:44:02Z",
+    "updatedAt": "2023-07-24T15:32:16Z",
+    "closedAt": "2023-07-24T15:32:16Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "mao-chong"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19,
+    "title": "二维码登录",
+    "createdAt": "2023-07-24T03:28:09Z",
+    "updatedAt": "2024-02-04T10:18:24Z",
+    "closedAt": "2023-07-26T08:51:03Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "huangqueji"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "help wanted",
+            "color": "008672"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 17,
+    "title": "数据输出卡住",
+    "createdAt": "2023-07-14T10:50:31Z",
+    "updatedAt": "2023-07-24T13:06:19Z",
+    "closedAt": "2023-07-24T13:06:18Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "yundabei"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 16,
+    "title": "小红书 扫码成功后 报错",
+    "createdAt": "2023-07-08T10:50:18Z",
+    "updatedAt": "2023-07-15T09:26:54Z",
+    "closedAt": "2023-07-15T09:26:54Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "bowerliu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        },
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 15,
+    "title": "抖音二维码登录问题！",
+    "createdAt": "2023-07-08T00:39:14Z",
+    "updatedAt": "2023-07-13T08:15:46Z",
+    "closedAt": "2023-07-13T08:15:20Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xtuyaowu"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 7
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 14,
+    "title": "小红书 登录后，重启程序需要重新再登录吗？没有保存登录信息。",
+    "createdAt": "2023-07-05T05:02:38Z",
+    "updatedAt": "2023-07-22T11:40:15Z",
+    "closedAt": "2023-07-22T11:40:15Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "xuminzhong"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 13,
+    "title": "关于redis",
+    "createdAt": "2023-07-02T13:50:55Z",
+    "updatedAt": "2023-07-30T11:35:32Z",
+    "closedAt": "2023-07-30T11:35:32Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "ljaupup"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "enhancement",
+            "color": "a2eeef"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 12,
+    "title": "二维码扫描登录show方法不关闭图片程序会卡住，不再往下执行",
+    "createdAt": "2023-07-02T03:26:00Z",
+    "updatedAt": "2023-07-04T02:05:51Z",
+    "closedAt": "2023-07-04T02:05:51Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "kxianghui"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "bug",
+            "color": "d73a4a"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 11,
+    "title": "有接口能通过抖音评论id，查询评论详情吗",
+    "createdAt": "2023-06-30T07:08:11Z",
+    "updatedAt": "2023-07-09T12:21:09Z",
+    "closedAt": "2023-07-09T12:21:09Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "huizhang001"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": [
+        {
+          "node": {
+            "name": "question",
+            "color": "d876e3"
+          }
+        }
+      ]
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 9,
+    "title": "大佬,有讨论群吗?我太小白了,readme对我而言太简洁了",
+    "createdAt": "2023-06-29T16:03:55Z",
+    "updatedAt": "2023-06-30T00:13:51Z",
+    "closedAt": "2023-06-30T00:13:51Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Minry"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 8,
+    "title": "使用cookies是否可以不重复登录",
+    "createdAt": "2023-06-25T10:25:40Z",
+    "updatedAt": "2023-06-25T10:36:51Z",
+    "closedAt": "2023-06-25T10:36:50Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "AnnoymousBear"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 7,
+    "title": "请问短时间内同一个账号能获取多少数据",
+    "createdAt": "2023-06-25T07:16:06Z",
+    "updatedAt": "2023-06-25T07:49:22Z",
+    "closedAt": "2023-06-25T07:49:22Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "AnnoymousBear"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 6,
+    "title": "获取着获取着会卡住，不知道为什么，另外爬取数据会写到指定文件吗？",
+    "createdAt": "2023-06-20T09:54:41Z",
+    "updatedAt": "2023-07-03T11:51:59Z",
+    "closedAt": "2023-07-03T11:51:59Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "XksA-me"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 5,
+    "title": "请问有方法可以爬取标签以及对应的热度吗？",
+    "createdAt": "2023-06-20T07:27:21Z",
+    "updatedAt": "2023-07-03T11:51:45Z",
+    "closedAt": "2023-07-03T11:51:45Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Qxxxx"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 3,
+    "title": "Invalid port Bug",
+    "createdAt": "2023-06-13T06:37:10Z",
+    "updatedAt": "2023-09-27T15:40:31Z",
+    "closedAt": "2023-06-17T13:19:01Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Qxxxx"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 10
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 2,
+    "title": "Proxies Issues",
+    "createdAt": "2023-06-13T05:02:51Z",
+    "updatedAt": "2023-06-13T06:12:34Z",
+    "closedAt": "2023-06-13T06:12:34Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Qxxxx"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 1,
+    "title": "Ubuntu 环境下，QR code扫描不出来",
+    "createdAt": "2023-06-13T02:46:49Z",
+    "updatedAt": "2023-06-13T06:06:30Z",
+    "closedAt": "2023-06-13T03:06:04Z",
+    "state": "CLOSED",
+    "author": {
+      "login": "Qxxxx"
+    },
+    "assignees": {
+      "edges": []
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "labels": {
+      "edges": []
+    },
+    "reactions": {
+      "totalCount": 0
+    }
+  }
+]
