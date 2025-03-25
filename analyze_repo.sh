@@ -9,10 +9,10 @@
 # 设置默认值
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PYTHON_SCRIPT="main.py"  # 主入口文件
-DEFAULT_TOKEN="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"  # 设置您的默认GitHub Token
+DEFAULT_TOKEN="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"  # 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
 DEFAULT_OWNER="NanmiCoder"
 DEFAULT_REPO="MediaCrawler"
-LOG_FILE="github_analyzer_$(date +%Y%m%d_%H%M%S).log"
+LOG_FILE="logs/github_analyzer_$(date +%Y%m%d_%H%M%S).log"
 REPO_LIST_FILE=""
 DATA_DIR="github_data"
 

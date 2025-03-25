@@ -1,0 +1,180 @@
+{
+  "id": 41881900,
+  "node_id": "MDEwOlJlcG9zaXRvcnk0MTg4MTkwMA==",
+  "name": "vscode",
+  "full_name": "microsoft/vscode",
+  "private": false,
+  "owner": {
+    "login": "microsoft",
+    "id": 6154722,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNTQ3MjI=",
+    "name": "Microsoft",
+    "email": null
+  },
+  "html_url": "https://github.com/microsoft/vscode",
+  "homepage": "https://code.visualstudio.com",
+  "description": "Visual Studio Code",
+  "fork": false,
+  "parent": null,
+  "url": "https://api.github.com/repos/microsoft/vscode",
+  "stargazers_count": 169025,
+  "watchers_count": 3340,
+  "forks_count": 31136,
+  "open_issues_count": 9043,
+  "size": 995663,
+  "language": "TypeScript",
+  "languages": [
+    {
+      "name": "TypeScript",
+      "color": "#3178c6",
+      "size": 68240112
+    },
+    {
+      "name": "CSS",
+      "color": "#663399",
+      "size": 1016301
+    },
+    {
+      "name": "JavaScript",
+      "color": "#f1e05a",
+      "size": 838108
+    },
+    {
+      "name": "Rust",
+      "color": "#dea584",
+      "size": 500641
+    },
+    {
+      "name": "HTML",
+      "color": "#e34c26",
+      "size": 393804
+    },
+    {
+      "name": "Inno Setup",
+      "color": "#264b99",
+      "size": 309534
+    },
+    {
+      "name": "Scilab",
+      "color": "#ca0f21",
+      "size": 202892
+    },
+    {
+      "name": "Shell",
+      "color": "#89e051",
+      "size": 103771
+    },
+    {
+      "name": "Batchfile",
+      "color": "#C1F12E",
+      "size": 18993
+    },
+    {
+      "name": "PowerShell",
+      "color": "#012456",
+      "size": 15724
+    },
+    {
+      "name": "Tree-sitter Query",
+      "color": "#8ea64c",
+      "size": 12860
+    },
+    {
+      "name": "SCSS",
+      "color": "#c6538c",
+      "size": 6732
+    },
+    {
+      "name": "Groovy",
+      "color": "#4298b8",
+      "size": 3928
+    },
+    {
+      "name": "Cuda",
+      "color": "#3A4E3A",
+      "size": 3634
+    },
+    {
+      "name": "C++",
+      "color": "#f34b7d",
+      "size": 2745
+    },
+    {
+      "name": "Makefile",
+      "color": "#427819",
+      "size": 2307
+    },
+    {
+      "name": "Python",
+      "color": "#3572A5",
+      "size": 2171
+    },
+    {
+      "name": "Perl",
+      "color": "#0298c3",
+      "size": 1922
+    },
+    {
+      "name": "Ruby",
+      "color": "#701516",
+      "size": 1703
+    },
+    {
+      "name": "TeX",
+      "color": "#3D6117",
+      "size": 1602
+    },
+    {
+      "name": "Objective-C++",
+      "color": "#6866fb",
+      "size": 1387
+    },
+    {
+      "name": "Objective-C",
+      "color": "#438eff",
+      "size": 1387
+    },
+    {
+      "name": "Clojure",
+      "color": "#db5855",
+      "size": 1206
+    },
+    {
+      "name": "Handlebars",
+      "color": "#f7931e",
+      "size": 1064
+    },
+    {
+      "name": "Less",
+      "color": "#1d365d",
+      "size": 1029
+    }
+  ],
+  "languages_url": "https://api.github.com/repos/microsoft/vscode/languages",
+  "default_branch": "main",
+  "has_issues": true,
+  "has_projects": true,
+  "has_wiki": true,
+  "has_discussions": false,
+  "license": {
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "http://choosealicense.com/licenses/mit/"
+  },
+  "created_at": "2015-09-03T20:23:38Z",
+  "updated_at": "2025-03-21T13:32:57Z",
+  "pushed_at": "2025-03-21T13:34:34Z",
+  "open_pull_requests": 512,
+  "releases_count": 159,
+  "topics": [
+    "editor",
+    "electron",
+    "visual-studio-code",
+    "typescript",
+    "microsoft"
+  ],
+  "subscribers_count": 3340,
+  "download_count": 0,
+  "download_count_note": "仅统计releases资源下载次数，非仓库总下载量",
+  "has_downloads": true
+}

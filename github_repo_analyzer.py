@@ -7,6 +7,7 @@ import argparse
 import time
 from datetime import datetime, timedelta
 from typing import Dict, List, Any, Optional, Union, Tuple, Callable
+import requests
 
 # 导入自定义模块
 from github_api_client import GitHubGraphQLClient, GitHubRESTClient
@@ -168,113 +169,113 @@ class GitHubRepoAnalyzer:
 		return all_items	
  
 	def get_repo_overview(self) -> Dict:
-		"""获取仓库基本信息和统计数据"""
+		"""获取仓库基本信息和统计数据，包含完整的基本仓库字段"""
 		print("\n=== 获取仓库概览 ===")
 		
+		# 使用GraphQL获取大部分基本信息
 		query = """
 		query RepoOverview($owner: String!, $name: String!) {
-		  repository(owner: $owner, name: $name) {
+		repository(owner: $owner, name: $name) {
+			# 基本标识符
+			databaseId
 			id
-			node_id
 			name
-			full_name
+			nameWithOwner
 			isPrivate
-			isFork
+			
+			# 所有者信息
 			owner {
-			  login
-			  avatarUrl
-			  url
-			  bio
-			  company
-			  location
-			  email
-			  createdAt
-			  avatarUrl
-			  url
+			login
+			... on User {
+				databaseId
+				id
+				name
+				email
 			}
-			description
+			... on Organization {
+				databaseId
+				id
+				name
+				email
+			}
+			}
+			
+			# URL和描述
 			url
-			createdAt
-			updatedAt
-			pushedAt
 			homepageUrl
-			primaryLanguage {
-			  name
-			  color
+			description
+			
+			# Fork信息
+			isFork
+			parent {
+			nameWithOwner
 			}
 			
-			# 基本统计
-			diskUsage
-			
-			forkCount
+			# 统计数据
 			stargazerCount
 			watchers {
-			  totalCount
+			totalCount
+			}
+			forkCount
+			issues(states: OPEN) {
+			totalCount
 			}
 			
-			# 主要语言
+			# 大小和语言
+			diskUsage
+			primaryLanguage {
+			name
+			color
+			}
 			languages(first: 25, orderBy: {field: SIZE, direction: DESC}) {
-			  edges {
+			edges {
 				node {
-				  name
-				  color
+				name
+				color
 				}
 				size
-			  }
-			  totalSize
 			}
+			totalSize
+			}
+			
+			# 分支和功能
+			defaultBranchRef {
+			name
+			}
+			hasIssuesEnabled
+			hasProjectsEnabled
+			hasWikiEnabled
+			hasDiscussionsEnabled
 			
 			# 许可证
 			licenseInfo {
-			  name
-			  spdxId
-			  url
+			name
+			spdxId
+			url
 			}
 			
-			# 默认分支
-			defaultBranchRef {
-			  name
-			  target {
-				... on Commit {
-				  history(first: 1) {
-					totalCount
-				  }
-				}
-			  }
-			}
+			# 时间戳
+			createdAt
+			updatedAt
+			pushedAt
 			
-			# 问题统计
-			issues {
-			  totalCount
+			# 附加统计
+			pullRequests(states: OPEN) {
+			totalCount
 			}
-			openIssues: issues(states: OPEN) {
-			  totalCount
-			}
-			
-			# PR 统计
-			pullRequests {
-			  totalCount
-			}
-			openPullRequests: pullRequests(states: OPEN) {
-			  totalCount
-			}
-			
-			# 发布统计
 			releases {
-			  totalCount
+			totalCount
 			}
-			
-			# 主题标签
 			repositoryTopics(first: 25) {
-			  edges {
+			edges {
 				node {
-				  topic {
+				topic {
 					name
-				  }
 				}
-			  }
+				}
 			}
-		  }
+			}
+		}
 		}
 		"""
 		
@@ -284,17 +285,113 @@ class GitHubRepoAnalyzer:
 		}
 		
 		result = self.graphql_client.execute_query(query, variables)
-		if result and "data" in result:
-			overview = result["data"]["repository"]
+		overview = {}
+		
+		if result and "data" in result and "repository" in result["data"]:
+			repo_data = result["data"]["repository"]
+			
+			# 处理GraphQL返回的数据
+			overview = {
+				"id": repo_data.get("databaseId"),
+				"node_id": repo_data.get("id"),
+				"name": repo_data.get("name"),
+				"full_name": repo_data.get("nameWithOwner"),
+				"private": repo_data.get("isPrivate"),
+				"owner": {
+					"login": repo_data.get("owner", {}).get("login"),
+					"id": repo_data.get("owner", {}).get("databaseId"),
+					"node_id": repo_data.get("owner", {}).get("id"),
+					"name": repo_data.get("owner", {}).get("name"),
+					"email": repo_data.get("owner", {}).get("email")
+				},
+				"html_url": repo_data.get("url"),
+				"homepage": repo_data.get("homepageUrl"),
+				"description": repo_data.get("description"),
+				"fork": repo_data.get("isFork"),
+				"parent": repo_data.get("parent", {}).get("nameWithOwner") if repo_data.get("parent") else None,
+				"url": f"https://api.github.com/repos/{self.owner}/{self.repo}",
+				"stargazers_count": repo_data.get("stargazerCount"),
+				"watchers_count": repo_data.get("watchers", {}).get("totalCount"),
+				"forks_count": repo_data.get("forkCount"),
+				"open_issues_count": repo_data.get("issues", {}).get("totalCount"),
+				"size": repo_data.get("diskUsage"),
+				"language": repo_data.get("primaryLanguage", {}).get("name") if repo_data.get("primaryLanguage") else None,
+				"languages": [{
+					"name": edge["node"]["name"],
+					"color": edge["node"]["color"],
+					"size": edge["size"]
+				} for edge in repo_data.get("languages", {}).get("edges", [])],
+				"languages_url": f"https://api.github.com/repos/{self.owner}/{self.repo}/languages",
+				"default_branch": repo_data.get("defaultBranchRef", {}).get("name") if repo_data.get("defaultBranchRef") else None,
+				"has_issues": repo_data.get("hasIssuesEnabled"),
+				"has_projects": repo_data.get("hasProjectsEnabled"),
+				"has_wiki": repo_data.get("hasWikiEnabled"),
+				"has_discussions": repo_data.get("hasDiscussionsEnabled"),
+				"license": {
+					"name": repo_data.get("licenseInfo", {}).get("name"),
+					"spdx_id": repo_data.get("licenseInfo", {}).get("spdxId"),
+					"url": repo_data.get("licenseInfo", {}).get("url")
+				} if repo_data.get("licenseInfo") else None,
+				"created_at": repo_data.get("createdAt"),
+				"updated_at": repo_data.get("updatedAt"),
+				"pushed_at": repo_data.get("pushedAt"),
+				"open_pull_requests": repo_data.get("pullRequests", {}).get("totalCount"),
+				"releases_count": repo_data.get("releases", {}).get("totalCount"),
+				"topics": [edge["node"]["topic"]["name"] for edge in repo_data.get("repositoryTopics", {}).get("edges", [])]
+			}
+			
+			# 使用REST API获取subscribers_count
+			try:
+				subscribers_endpoint = f"repos/{self.owner}/{self.repo}/subscribers"
+				subscribers = self.rest_client.get_paginated_results(subscribers_endpoint, {"per_page": 100})
+				if subscribers is not None:
+					overview["subscribers_count"] = len(subscribers)
+				else:
+					overview["subscribers_count"] = 0
+			except Exception as e:
+				print(f"获取订阅者数量失败: {str(e)}")
+				overview["subscribers_count"] = None
+			
+			# 获取download_count (GitHub API不直接提供，仅统计release资源下载)
+			try:
+				releases_endpoint = f"repos/{self.owner}/{self.repo}/releases"
+				releases = self.rest_client.get_paginated_results(releases_endpoint, {"per_page": 100})
+				
+				total_downloads = 0
+				if releases:
+					for release in releases:
+						assets = release.get('assets', [])
+						for asset in assets:
+							total_downloads += asset.get('download_count', 0)
+							
+				overview["download_count"] = total_downloads
+				overview["download_count_note"] = "仅统计releases资源下载次数，非仓库总下载量"
+			except Exception as e:
+				print(f"获取下载数量失败: {str(e)}")
+				overview["download_count"] = None
+			
+			# 获取has_downloads信息 (GraphQL可能不直接提供)
+			try:
+				repo_details_endpoint = f"repos/{self.owner}/{self.repo}"
+				repo_details = self.rest_client.make_request(repo_details_endpoint)
+				if repo_details:
+					overview["has_downloads"] = repo_details.get("has_downloads", False)
+				else:
+					overview["has_downloads"] = False
+			except Exception as e:
+				print(f"获取downloads设置失败: {str(e)}")
+				overview["has_downloads"] = None
+			
 			print("成功获取仓库概览")
 			self.graphql_client.pretty_print(overview, max_depth=1)
 			
 			# 保存数据
 			self.storage.save_data("overview", overview)
-			
-			return overview
-		return None
-	
+		else:
+			print("获取仓库概览失败")
+		
+		return overview	
+ 
 	def get_commit_history(self, max_items: int = None) -> List:
 		"""获取提交历史
 		
@@ -849,61 +946,87 @@ class GitHubRepoAnalyzer:
 		return issues
 	
 	def get_pull_requests(self, state: str = "all", max_items: int = None) -> List:
-		"""获取 PR 列表"""
+		"""获取PR列表，包含详细信息并标记接受/拒绝状态
+		
+		Args:
+			state: PR状态筛选 ("all", "open", "closed", "merged")
+			max_items: 最大获取数量，None表示获取全部
+			
+		Returns:
+			PR列表，每个PR包含完整信息和接受/拒绝状态标记
+		"""
 		print(f"\n=== 获取 {state} PR ===")
 		
-		states = ["OPEN", "CLOSED", "MERGED"] if state.upper() == "ALL" else [state.upper()]
+		# 确定查询状态
+		states = []
+		if state.upper() == "ALL":
+			states = ["OPEN", "CLOSED"]
+		elif state.upper() == "MERGED":
+			states = ["CLOSED"]  # GraphQL无法直接过滤merged，需要后处理
+		else:
+			states = [state.upper()]
 		
+		# GraphQL查询，获取详细PR信息
 		query = """
 		query PullRequests($owner: String!, $name: String!, $states: [PullRequestState!], $limit: Int!, $cursor: String) {
-		  repository(owner: $owner, name: $name) {
+		repository(owner: $owner, name: $name) {
 			pullRequests(first: $limit, after: $cursor, states: $states, orderBy: {field: CREATED_AT, direction: DESC}) {
-			  pageInfo {
+			pageInfo {
 				hasNextPage
 				endCursor
-			  }
-			  edges {
+			}
+			edges {
 				node {
-				  number
-				  title
-				  createdAt
-				  updatedAt
-				  closedAt
-				  mergedAt
-				  state
-				  author {
+				number
+				title
+				body
+				state
+				createdAt
+				updatedAt
+				closedAt
+				mergedAt
+				isDraft
+				author {
 					login
-				  }
-				  assignees(first: 5) {
-					edges {
-					  node {
-						login
-					  }
+					... on User {
+					id
+					databaseId
+					avatarUrl
 					}
-				  }
-				  comments {
+				}
+				baseRefName
+				headRefName
+				headRepository {
+					nameWithOwner
+				}
+				commits(first: 1) {
 					totalCount
-				  }
-				  commits(first: 1) {
-					totalCount
-				  }
-				  labels(first: 10) {
+				}
+				additions
+				deletions
+				changedFiles
+				labels(first: 10) {
 					edges {
-					  node {
+					node {
 						name
 						color
-					  }
 					}
-				  }
-				  additions
-				  deletions
-				  changedFiles
-				  baseRefName
-				  headRefName
+					}
 				}
-			  }
+				reviewDecision
+				comments {
+					totalCount
+				}
+				reviews {
+					totalCount
+				}
+				reactions {
+					totalCount
+				}
+				}
 			}
-		  }
+			}
+		}
 		}
 		"""
 		
@@ -917,20 +1040,171 @@ class GitHubRepoAnalyzer:
 			}
 			return self.graphql_client.execute_query(query, variables)
 		
+		# 获取PR列表
 		prs = self.paginate_query(
 			query_func, 
 			"repository.pullRequests", 
 			max_items=max_items
 		)
 		
-		if prs:
+		# 处理接受/拒绝状态并获取closed_by信息
+		repo_admins = self._get_repo_admins()
+		processed_prs = []
+		
+		for pr in prs:
+			# 基本信息处理
+			pr_number = pr.get("number")
+			pr_state = pr.get("state")
+			pr_merged_at = pr.get("mergedAt")
+			
+			# 添加基本处理状态
+			pr["is_merged"] = pr_merged_at is not None
+			
+			# 使用REST API获取closed_by信息，GraphQL API不直接提供此字段
+			if pr_state == "CLOSED":
+				closed_by_info = self._get_pr_closed_by(pr_number)
+				pr["closed_by"] = closed_by_info
+				
+				# 判断接受/拒绝状态
+				if pr_merged_at:
+					pr["status"] = "accepted"  # 已合并，表示接受
+				else:
+					# 检查是否被仓库所有者或管理员关闭
+					closer_login = closed_by_info.get("login") if closed_by_info else None
+					if closer_login and (closer_login == self.owner or closer_login in repo_admins):
+						pr["status"] = "rejected"  # 被所有者或管理员关闭但未合并，表示拒绝
+					else:
+						pr["status"] = "closed"  # 被其他人关闭或关闭原因不明
+			else:
+				# 开放状态
+				pr["closed_by"] = None
+				pr["status"] = "open"
+			
+			# 格式化标签信息
+			if "labels" in pr and "edges" in pr["labels"]:
+				pr["labels"] = [edge["node"] for edge in pr["labels"]["edges"]]
+			
+			# 添加到处理后的列表
+			processed_prs.append(pr)
+		
+		# 如果只请求已合并PR，过滤掉未合并的
+		if state.upper() == "MERGED":
+			processed_prs = [pr for pr in processed_prs if pr.get("is_merged")]
+		
+		if processed_prs:
 			print("PR 示例:")
-			self.graphql_client.pretty_print(prs[0])
+			self.graphql_client.pretty_print(processed_prs[0])
+			
+			# 获取PR统计信息
+			stats = self._calculate_pr_stats(processed_prs)
+			print(f"PR 统计: 总数={len(processed_prs)}, 已接受={stats['accepted_count']}, 已拒绝={stats['rejected_count']}, 其他关闭={stats['other_closed_count']}, 开放={stats['open_count']}")
 			
 			# 保存数据
-			self.storage.save_data(f"pull_requests_{state}", prs)
+			self.storage.save_data(f"pull_requests_{state}", processed_prs)
+			self.storage.save_data(f"pull_requests_{state}_stats", stats)
 		
-		return prs
+		return processed_prs
+
+	def _get_repo_admins(self) -> List[str]:
+		"""获取仓库管理员和协作者列表"""
+		try:
+			# 尝试获取协作者信息（需要适当权限）
+			endpoint = f"repos/{self.owner}/{self.repo}/collaborators"
+			params = {"affiliation": "direct", "per_page": 100}
+			collaborators = self.rest_client.get_paginated_results(endpoint, params)
+			
+			if collaborators:
+				# 筛选具有管理员权限的用户
+				admins = [collab["login"] for collab in collaborators 
+						if collab.get("permissions", {}).get("admin", False)]
+				return admins
+		except Exception as e:
+			print(f"获取仓库管理员列表失败: {str(e)}")
+		
+		# 如果无法获取，只返回仓库所有者作为管理员
+		return [self.owner]
+
+	def _get_pr_closed_by(self, pr_number: int) -> Dict:
+		"""获取关闭PR的用户信息"""
+		try:
+			# GitHub REST API针对PR的timeline事件
+			endpoint = f"repos/{self.owner}/{self.repo}/issues/{pr_number}/timeline"
+			params = {"per_page": 100}
+			headers = {"Accept": "application/vnd.github.mockingbird-preview+json"}
+			
+			# 使用自定义headers发起请求
+			url = f"{self.rest_client.base_url}/{endpoint.lstrip('/')}"
+			response = requests.get(url, headers={**self.rest_client.headers, **headers}, params=params)
+			
+			if response.status_code == 200:
+				events = response.json()
+				
+				# 查找关闭事件
+				for event in reversed(events):  # 从最近的事件开始查找
+					if event.get("event") == "closed":
+						return {
+							"login": event.get("actor", {}).get("login"),
+							"id": event.get("actor", {}).get("id"),
+							"avatar_url": event.get("actor", {}).get("avatar_url"),
+							"closed_at": event.get("created_at")
+						}
+		except Exception as e:
+			print(f"获取PR #{pr_number}关闭者信息失败: {str(e)}")
+		
+		# 如果无法确定，返回None
+		return None
+
+	def _calculate_pr_stats(self, prs: List[Dict]) -> Dict:
+		"""计算PR统计信息"""
+		stats = {
+			"total_count": len(prs),
+			"open_count": 0,
+			"accepted_count": 0,
+			"rejected_count": 0,
+			"other_closed_count": 0,
+			"average_commits": 0,
+			"average_changed_files": 0,
+			"average_additions": 0,
+			"average_deletions": 0,
+			"acceptance_rate": 0
+		}
+		
+		total_commits = 0
+		total_changed_files = 0
+		total_additions = 0
+		total_deletions = 0
+		
+		for pr in prs:
+			# 统计状态
+			status = pr.get("status")
+			if status == "open":
+				stats["open_count"] += 1
+			elif status == "accepted":
+				stats["accepted_count"] += 1
+			elif status == "rejected":
+				stats["rejected_count"] += 1
+			elif status == "closed":
+				stats["other_closed_count"] += 1
+			
+			# 统计数值指标
+			total_commits += pr.get("commits", {}).get("totalCount", 0)
+			total_changed_files += pr.get("changedFiles", 0)
+			total_additions += pr.get("additions", 0)
+			total_deletions += pr.get("deletions", 0)
+		
+		# 计算平均值
+		if stats["total_count"] > 0:
+			stats["average_commits"] = total_commits / stats["total_count"]
+			stats["average_changed_files"] = total_changed_files / stats["total_count"]
+			stats["average_additions"] = total_additions / stats["total_count"]
+			stats["average_deletions"] = total_deletions / stats["total_count"]
+		
+		# 计算接受率
+		closed_count = stats["accepted_count"] + stats["rejected_count"] + stats["other_closed_count"]
+		if closed_count > 0:
+			stats["acceptance_rate"] = (stats["accepted_count"] / closed_count) * 100
+		
+		return stats
 	
 	def get_contributors(self, max_items: int = None) -> List:
 		"""获取贡献者列表

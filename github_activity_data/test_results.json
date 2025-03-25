@@ -1,0 +1,383 @@
+{
+  "sample_days": 7,
+  "sample_repos": 799,
+  "sample_users": 603,
+  "sample_languages": {
+    "C++": 2,
+    "Ruby": 4,
+    "Nix": 1,
+    "TypeScript": 12,
+    "Python": 9,
+    "Swift": 2,
+    "Rust": 3,
+    "Java": 2,
+    "HTML": 4,
+    "Jupyter Notebook": 1,
+    "C#": 2,
+    "CSS": 1,
+    "HCL": 1,
+    "C": 1,
+    "Markdown": 1,
+    "Groovy": 1,
+    "Shell": 1,
+    "Go": 1
+  },
+  "monthly_batches": [
+    {
+      "start_date": "2025-02-19",
+      "end_date": "2025-03-21"
+    },
+    {
+      "start_date": "2025-01-20",
+      "end_date": "2025-02-19"
+    },
+    {
+      "start_date": "2024-12-21",
+      "end_date": "2025-01-20"
+    },
+    {
+      "start_date": "2024-11-21",
+      "end_date": "2024-12-21"
+    },
+    {
+      "start_date": "2024-10-22",
+      "end_date": "2024-11-21"
+    },
+    {
+      "start_date": "2024-09-22",
+      "end_date": "2024-10-22"
+    },
+    {
+      "start_date": "2024-08-23",
+      "end_date": "2024-09-22"
+    },
+    {
+      "start_date": "2024-07-24",
+      "end_date": "2024-08-23"
+    },
+    {
+      "start_date": "2024-06-24",
+      "end_date": "2024-07-24"
+    },
+    {
+      "start_date": "2024-05-25",
+      "end_date": "2024-06-24"
+    },
+    {
+      "start_date": "2024-04-25",
+      "end_date": "2024-05-25"
+    },
+    {
+      "start_date": "2024-03-26",
+      "end_date": "2024-04-25"
+    },
+    {
+      "start_date": "2024-02-25",
+      "end_date": "2024-03-26"
+    },
+    {
+      "start_date": "2024-01-26",
+      "end_date": "2024-02-25"
+    },
+    {
+      "start_date": "2023-12-27",
+      "end_date": "2024-01-26"
+    },
+    {
+      "start_date": "2023-11-27",
+      "end_date": "2023-12-27"
+    },
+    {
+      "start_date": "2023-10-28",
+      "end_date": "2023-11-27"
+    },
+    {
+      "start_date": "2023-09-28",
+      "end_date": "2023-10-28"
+    },
+    {
+      "start_date": "2023-08-29",
+      "end_date": "2023-09-28"
+    },
+    {
+      "start_date": "2023-07-30",
+      "end_date": "2023-08-29"
+    },
+    {
+      "start_date": "2023-06-30",
+      "end_date": "2023-07-30"
+    },
+    {
+      "start_date": "2023-05-31",
+      "end_date": "2023-06-30"
+    },
+    {
+      "start_date": "2023-05-01",
+      "end_date": "2023-05-31"
+    },
+    {
+      "start_date": "2023-04-01",
+      "end_date": "2023-05-01"
+    },
+    {
+      "start_date": "2023-03-02",
+      "end_date": "2023-04-01"
+    },
+    {
+      "start_date": "2023-01-31",
+      "end_date": "2023-03-02"
+    },
+    {
+      "start_date": "2023-01-01",
+      "end_date": "2023-01-31"
+    },
+    {
+      "start_date": "2022-12-02",
+      "end_date": "2023-01-01"
+    },
+    {
+      "start_date": "2022-11-02",
+      "end_date": "2022-12-02"
+    },
+    {
+      "start_date": "2022-10-03",
+      "end_date": "2022-11-02"
+    },
+    {
+      "start_date": "2022-09-03",
+      "end_date": "2022-10-03"
+    },
+    {
+      "start_date": "2022-08-04",
+      "end_date": "2022-09-03"
+    },
+    {
+      "start_date": "2022-07-05",
+      "end_date": "2022-08-04"
+    },
+    {
+      "start_date": "2022-06-05",
+      "end_date": "2022-07-05"
+    },
+    {
+      "start_date": "2022-05-06",
+      "end_date": "2022-06-05"
+    },
+    {
+      "start_date": "2022-04-06",
+      "end_date": "2022-05-06"
+    },
+    {
+      "start_date": "2022-03-07",
+      "end_date": "2022-04-06"
+    },
+    {
+      "start_date": "2022-02-05",
+      "end_date": "2022-03-07"
+    },
+    {
+      "start_date": "2022-01-06",
+      "end_date": "2022-02-05"
+    },
+    {
+      "start_date": "2021-12-07",
+      "end_date": "2022-01-06"
+    },
+    {
+      "start_date": "2021-11-07",
+      "end_date": "2021-12-07"
+    },
+    {
+      "start_date": "2021-10-08",
+      "end_date": "2021-11-07"
+    },
+    {
+      "start_date": "2021-09-08",
+      "end_date": "2021-10-08"
+    },
+    {
+      "start_date": "2021-08-09",
+      "end_date": "2021-09-08"
+    },
+    {
+      "start_date": "2021-07-10",
+      "end_date": "2021-08-09"
+    },
+    {
+      "start_date": "2021-06-10",
+      "end_date": "2021-07-10"
+    },
+    {
+      "start_date": "2021-05-11",
+      "end_date": "2021-06-10"
+    },
+    {
+      "start_date": "2021-04-11",
+      "end_date": "2021-05-11"
+    },
+    {
+      "start_date": "2021-03-12",
+      "end_date": "2021-04-11"
+    },
+    {
+      "start_date": "2021-02-10",
+      "end_date": "2021-03-12"
+    },
+    {
+      "start_date": "2021-01-11",
+      "end_date": "2021-02-10"
+    },
+    {
+      "start_date": "2020-12-12",
+      "end_date": "2021-01-11"
+    },
+    {
+      "start_date": "2020-11-12",
+      "end_date": "2020-12-12"
+    },
+    {
+      "start_date": "2020-10-13",
+      "end_date": "2020-11-12"
+    },
+    {
+      "start_date": "2020-09-13",
+      "end_date": "2020-10-13"
+    },
+    {
+      "start_date": "2020-08-14",
+      "end_date": "2020-09-13"
+    },
+    {
+      "start_date": "2020-07-15",
+      "end_date": "2020-08-14"
+    },
+    {
+      "start_date": "2020-06-15",
+      "end_date": "2020-07-15"
+    },
+    {
+      "start_date": "2020-05-16",
+      "end_date": "2020-06-15"
+    },
+    {
+      "start_date": "2020-04-16",
+      "end_date": "2020-05-16"
+    }
+  ],
+  "quarterly_batches": [
+    {
+      "start_date": "2024-12-21",
+      "end_date": "2025-03-21"
+    },
+    {
+      "start_date": "2024-09-22",
+      "end_date": "2024-12-21"
+    },
+    {
+      "start_date": "2024-06-24",
+      "end_date": "2024-09-22"
+    },
+    {
+      "start_date": "2024-03-26",
+      "end_date": "2024-06-24"
+    },
+    {
+      "start_date": "2023-12-27",
+      "end_date": "2024-03-26"
+    },
+    {
+      "start_date": "2023-09-28",
+      "end_date": "2023-12-27"
+    },
+    {
+      "start_date": "2023-06-30",
+      "end_date": "2023-09-28"
+    },
+    {
+      "start_date": "2023-04-01",
+      "end_date": "2023-06-30"
+    },
+    {
+      "start_date": "2023-01-01",
+      "end_date": "2023-04-01"
+    },
+    {
+      "start_date": "2022-10-03",
+      "end_date": "2023-01-01"
+    },
+    {
+      "start_date": "2022-07-05",
+      "end_date": "2022-10-03"
+    },
+    {
+      "start_date": "2022-04-06",
+      "end_date": "2022-07-05"
+    },
+    {
+      "start_date": "2022-01-06",
+      "end_date": "2022-04-06"
+    },
+    {
+      "start_date": "2021-10-08",
+      "end_date": "2022-01-06"
+    },
+    {
+      "start_date": "2021-07-10",
+      "end_date": "2021-10-08"
+    },
+    {
+      "start_date": "2021-04-11",
+      "end_date": "2021-07-10"
+    },
+    {
+      "start_date": "2021-01-11",
+      "end_date": "2021-04-11"
+    },
+    {
+      "start_date": "2020-10-13",
+      "end_date": "2021-01-11"
+    },
+    {
+      "start_date": "2020-07-15",
+      "end_date": "2020-10-13"
+    },
+    {
+      "start_date": "2020-04-16",
+      "end_date": "2020-07-15"
+    }
+  ],
+  "yearly_batches": [
+    {
+      "start_date": "2024-03-26",
+      "end_date": "2025-03-21"
+    },
+    {
+      "start_date": "2023-04-01",
+      "end_date": "2024-03-26"
+    },
+    {
+      "start_date": "2022-04-06",
+      "end_date": "2023-04-01"
+    },
+    {
+      "start_date": "2021-04-11",
+      "end_date": "2022-04-06"
+    },
+    {
+      "start_date": "2020-04-16",
+      "end_date": "2021-04-11"
+    }
+  ],
+  "estimated_repos": 208310,
+  "estimated_users": 157210,
+  "stats": {
+    "api_calls": 61,
+    "graphql_calls": 10,
+    "search_calls": 1,
+    "rate_limit_hits": 0,
+    "total_prs_found": 0,
+    "new_repos_found": 799,
+    "new_users_found": 603,
+    "start_time": "2025-03-21T23:34:41.077358"
+  }
+}
