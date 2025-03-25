@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-优化版GitHub活跃实体收集器
-高速收集过去5年活跃仓库和用户，并按时间批次保存
+TODO 
+该代码尚未完善
+GitHub活跃实体收集器
 """
 
 import argparse
